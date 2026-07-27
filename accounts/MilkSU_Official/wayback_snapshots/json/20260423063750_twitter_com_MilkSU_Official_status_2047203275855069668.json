@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027048851",
+          "name": "Xbox"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10027048851",
+          "name": "Xbox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027048851",
+          "name": "Xbox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      }
+    ],
+    "conversation_id": "2047203275855069668",
+    "created_at": "2026-04-23T06:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T07:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047203275855069668"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0xsorrowrain/s…",
+          "end": 237,
+          "expanded_url": "https://twitter.com/0xsorrowrain/status/2046985190774591874",
+          "start": 214,
+          "url": "https://t.co/pmujBqaqED"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047203275855069668",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046985190774591874",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "I've decided to wait for a good deal on an ROG Xbox Ally X🤓☝️\n\nIt's around 7000 cny right now, let's see if we can get it under 7k\n\nFast forward to it getting more expensive while I'm waiting due to memory/storage https://t.co/pmujBqaqED"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "2047203275855069668",
+        "created_at": "2026-04-23T06:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T07:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047203275855069668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0xsorrowrain/s…",
+              "end": 237,
+              "expanded_url": "https://twitter.com/0xsorrowrain/status/2046985190774591874",
+              "start": 214,
+              "url": "https://t.co/pmujBqaqED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047203275855069668",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046985190774591874",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I've decided to wait for a good deal on an ROG Xbox Ally X🤓☝️\n\nIt's around 7000 cny right now, let's see if we can get it under 7k\n\nFast forward to it getting more expensive while I'm waiting due to memory/storage https://t.co/pmujBqaqED"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468616147339968513",
+        "conversation_id": "2046985190774591874",
+        "created_at": "2026-04-22T16:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046985190774591874"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046985190774591874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我决定蹲一个ns2好价🤓☝️\n\n现在大概3200，看看能不能有3k的\n\n快进到蹲着蹲着涨价了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Lyon, Rhône-Alpes, France",
+              "geo": {
+                "coordinates": [
+                  4.84671,
+                  45.74846
+                ],
+                "type": "Point"
+              },
+              "locality": "Lyon",
+              "region": "Rhône-Alpes",
+              "sub_region": "Département du Rhône"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Python/Go/Rust. MSCS at CU Boulder 🔜 UGA France. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Lyon, France",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025718358868631552/yzEh8Qr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4631,
+          "following_count": 2458,
+          "like_count": 38317,
+          "listed_count": 19,
+          "media_count": 1481,
+          "tweet_count": 12883
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T16:19:28.000Z",
+        "description": "02年社畜 | 🏳️‍⚧️ | B端产品画图狗 ，正在努力生活 | 请多指教哦~ | 锚点：@NeneK0SMTwTF5_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "NeneK0SMTwTF5_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "0xsr.dev",
+                "end": 23,
+                "expanded_url": "http://0xsr.dev",
+                "start": 0,
+                "url": "https://t.co/R0nmdIWIg7"
+              }
+            ]
+          }
+        },
+        "id": "1468616147339968513",
+        "name": "SorrowRain",
+        "pinned_tweet_id": "1849456261408194932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002461390054043658/7A6oWi4h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 861,
+          "like_count": 873,
+          "listed_count": 3,
+          "media_count": 673,
+          "tweet_count": 6593
+        },
+        "url": "https://t.co/R0nmdIWIg7",
+        "username": "0xSorrowRain",
+        "verified": true
+      }
+    ]
+  }
+}

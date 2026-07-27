@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2046406815236145271",
+    "created_at": "2026-04-21T01:52:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T02:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046406815236145271"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046406815236145271",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想去 Nice 和 蔚蓝海岸🥺😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2046406815236145271",
+        "created_at": "2026-04-21T01:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T02:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046406815236145271"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046406815236145271",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想去 Nice 和 蔚蓝海岸🥺😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Lyon, Rhône-Alpes, France",
+              "geo": {
+                "coordinates": [
+                  4.84671,
+                  45.74846
+                ],
+                "type": "Point"
+              },
+              "locality": "Lyon",
+              "region": "Rhône-Alpes",
+              "sub_region": "Département du Rhône"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Python/Go/Rust. MSCS at CU Boulder 🔜 MAP at SUDA. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Lyon, France",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025718358868631552/yzEh8Qr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4632,
+          "following_count": 2455,
+          "like_count": 38296,
+          "listed_count": 19,
+          "media_count": 1481,
+          "tweet_count": 12876
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": false
+      }
+    ]
+  }
+}

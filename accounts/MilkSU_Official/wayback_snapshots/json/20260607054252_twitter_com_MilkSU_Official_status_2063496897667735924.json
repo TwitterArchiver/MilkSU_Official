@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2063217744506658992",
+    "created_at": "2026-06-07T05:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T06:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063496897667735924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2754165630",
+          "start": 0,
+          "username": "terryaidev"
+        },
+        {
+          "end": 20,
+          "id": "803040718876835841",
+          "start": 12,
+          "username": "buaaxhm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063496897667735924",
+    "in_reply_to_user_id": "2754165630",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063404115770949994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@terryaidev @buaaxhm 十年前我们手工编程也这么写啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2063217744506658992",
+        "created_at": "2026-06-07T05:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063496897667735924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2754165630",
+              "start": 0,
+              "username": "terryaidev"
+            },
+            {
+              "end": 20,
+              "id": "803040718876835841",
+              "start": 12,
+              "username": "buaaxhm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063496897667735924",
+        "in_reply_to_user_id": "2754165630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063404115770949994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@terryaidev @buaaxhm 十年前我们手工编程也这么写啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2754165630",
+        "conversation_id": "2063217744506658992",
+        "created_at": "2026-06-06T23:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T00:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063404115770949994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "803040718876835841",
+              "start": 0,
+              "username": "buaaxhm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063404115770949994",
+        "in_reply_to_user_id": "803040718876835841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1662,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063217744506658992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buaaxhm 那个 commit message feat():一看就是 codex 之类的写的..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 123,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053836039312084992/TPeF1NcP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4789,
+          "following_count": 2620,
+          "like_count": 40896,
+          "listed_count": 18,
+          "media_count": 1523,
+          "tweet_count": 13252
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2014-08-22T07:01:45.000Z",
+        "description": "SDE - Bay Area 混吃 ing｜Tesla Model 3/Y 双持｜当你以为我会鸽的时候我鸽了，亦是一种不鸽。—《鸽式哲学》鸽德",
+        "id": "2754165630",
+        "location": "Santa Clara, CA",
+        "name": "鸽鸽鸽鸽德🐧",
+        "pinned_tweet_id": "1772874458061005238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1570710212029591553/lsLFS3ks_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 824,
+          "like_count": 5850,
+          "listed_count": 10,
+          "media_count": 990,
+          "tweet_count": 11465
+        },
+        "username": "terryaidev",
+        "verified": true
+      },
+      {
+        "created_at": "2016-11-28T01:00:01.000Z",
+        "description": "会点开发，Go、Python、Node、Js、Typescript。 新口头禅：向AI讨口饭吃。本推特主要是发点生活日常、段子，所有想法仅代表个人观点。与公司立场无关！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/hongmaoxiao",
+                "end": 23,
+                "expanded_url": "https://github.com/hongmaoxiao",
+                "start": 0,
+                "url": "https://t.co/vn18Xyo09B"
+              }
+            ]
+          }
+        },
+        "id": "803040718876835841",
+        "location": "Beijing",
+        "name": "supermao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864898092417568768/Xc94S79n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15907,
+          "following_count": 4574,
+          "like_count": 18294,
+          "listed_count": 135,
+          "media_count": 1603,
+          "tweet_count": 13467
+        },
+        "url": "https://t.co/vn18Xyo09B",
+        "username": "buaaxhm",
+        "verified": true
+      }
+    ]
+  }
+}

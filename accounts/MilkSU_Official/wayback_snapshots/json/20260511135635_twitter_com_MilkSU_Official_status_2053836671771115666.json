@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053836581115445248",
+        "3_2053836581073473536"
+      ]
+    },
+    "author_id": "2840236608",
+    "conversation_id": "2053836671771115666",
+    "created_at": "2026-05-11T13:56:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T14:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053836671771115666"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ls2cD4LxCn",
+          "end": 25,
+          "expanded_url": "https://x.com/MilkSU_Official/status/2053836671771115666/photo/1",
+          "media_key": "3_2053836581115445248",
+          "start": 2,
+          "url": "https://t.co/ls2cD4LxCn"
+        },
+        {
+          "display_url": "pic.x.com/ls2cD4LxCn",
+          "end": 25,
+          "expanded_url": "https://x.com/MilkSU_Official/status/2053836671771115666/photo/1",
+          "media_key": "3_2053836581073473536",
+          "start": 2,
+          "url": "https://t.co/ls2cD4LxCn"
+        },
+        {
+          "display_url": "x.com/YunJiu/status/…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/YunJiu/status/1886008337625682049",
+          "start": 26,
+          "url": "https://t.co/81HgR5bVG5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053836671771115666",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886008337625682049",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中 https://t.co/ls2cD4LxCn https://t.co/81HgR5bVG5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053836581115445248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICxfSQWwAABvyq.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053836581073473536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICxfSGWUAAL_NG.jpg",
+        "width": 946
+      },
+      {
+        "height": 1520,
+        "media_key": "3_1886008329828487168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GixylV7a0AAt59p.jpg",
+        "width": 1586
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053836581115445248",
+            "3_2053836581073473536"
+          ]
+        },
+        "author_id": "2840236608",
+        "conversation_id": "2053836671771115666",
+        "created_at": "2026-05-11T13:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053836671771115666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ls2cD4LxCn",
+              "end": 25,
+              "expanded_url": "https://x.com/MilkSU_Official/status/2053836671771115666/photo/1",
+              "media_key": "3_2053836581115445248",
+              "start": 2,
+              "url": "https://t.co/ls2cD4LxCn"
+            },
+            {
+              "display_url": "pic.x.com/ls2cD4LxCn",
+              "end": 25,
+              "expanded_url": "https://x.com/MilkSU_Official/status/2053836671771115666/photo/1",
+              "media_key": "3_2053836581073473536",
+              "start": 2,
+              "url": "https://t.co/ls2cD4LxCn"
+            },
+            {
+              "display_url": "x.com/YunJiu/status/…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/YunJiu/status/1886008337625682049",
+              "start": 26,
+              "url": "https://t.co/81HgR5bVG5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053836671771115666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886008337625682049",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中 https://t.co/ls2cD4LxCn https://t.co/81HgR5bVG5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886008329828487168"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1886008337625682049",
+        "created_at": "2025-02-02T11:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T12:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886008337625682049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gJwXk5D8QG",
+              "end": 114,
+              "expanded_url": "https://x.com/Cldeop/status/1886008337625682049/photo/1",
+              "media_key": "3_1886008329828487168",
+              "start": 91,
+              "url": "https://t.co/gJwXk5D8QG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886008337625682049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 130843,
+          "like_count": 225,
+          "quote_count": 6,
+          "reply_count": 19,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "今天成功换了透明背景头像，感谢来自阿棄喵的指导！\n教程：准备一张透明的png图片，做成400x400的尺寸，网页端上传，注意不要动推特的那个裁剪框，然后保存即可。\n你也来试试看吧！ https://t.co/gJwXk5D8QG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Lyon, Rhône-Alpes, France",
+              "geo": {
+                "coordinates": [
+                  4.84671,
+                  45.74846
+                ],
+                "type": "Point"
+              },
+              "locality": "Lyon",
+              "region": "Rhône-Alpes",
+              "sub_region": "Département du Rhône"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Python/Go/Rust. MSCS at CU Boulder 🔜 UGA France. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 128,
+                "start": 117,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Lyon, France",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053836039312084992/TPeF1NcP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4798,
+          "following_count": 2594,
+          "like_count": 40081,
+          "listed_count": 19,
+          "media_count": 1496,
+          "tweet_count": 12988
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104692,
+          "following_count": 784,
+          "like_count": 36763,
+          "listed_count": 293,
+          "media_count": 18465,
+          "tweet_count": 26511
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      }
+    ]
+  }
+}

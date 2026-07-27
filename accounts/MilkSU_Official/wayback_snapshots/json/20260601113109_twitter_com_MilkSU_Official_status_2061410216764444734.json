@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2061410216764444734",
+    "created_at": "2026-06-01T11:31:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T12:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061410216764444734"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0xlogicrw/stat…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/0xlogicrw/status/2061388306647076912",
+          "start": 34,
+          "url": "https://t.co/AUYojr75v3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061410216764444734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061388306647076912",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不仅大家用模型的时候在抽奖\n厂商训练模型也在抽奖\n（炼丹时代回来了 https://t.co/AUYojr75v3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2061410216764444734",
+        "created_at": "2026-06-01T11:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061410216764444734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0xlogicrw/stat…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/0xlogicrw/status/2061388306647076912",
+              "start": 34,
+              "url": "https://t.co/AUYojr75v3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061410216764444734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061388306647076912",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不仅大家用模型的时候在抽奖\n厂商训练模型也在抽奖\n（炼丹时代回来了 https://t.co/AUYojr75v3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "991319283786395650",
+        "conversation_id": "2061388306647076912",
+        "created_at": "2026-06-01T10:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T11:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061388306647076912"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061388306647076912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Anthropic 刚刚发布的 Claude Opus 4.8 虽然在官方跑分上有所提升，但上线这几天在开发者社区里却遭遇了大面积吐槽。大家反馈的槽点非常集中，主要有以下五个方面。\n\n第一，中文认知离奇跑偏，自称是阿里的通义千问。许多开发者用中文提问 Opus 4.8 的身份时，它会非常笃定地回答自己是阿里巴巴开发的通义千问大模型，甚至能把通义千问的功能如数家珍地介绍一遍。这个 Bug 在中文社区里可以大面积复现，不少人猜测 Anthropic 在训练数据里大量混入了 Qwen 的合成语料，导致模型在中文对齐上出现了人格错乱。作为一个售价高昂的闭源旗舰，连自己是谁都搞错，确实有些尴尬。\n\n第二，追求不谄媚导致严重的脑内内耗。新版 Opus 主打「诚实」和「防谄媚」，但这套机制在实际运行中变成了令人窒息的脑内监视。从开发者导出的思维链来看，模型在回答每个问题之前，都要花大量 Token 反复纠结自己是不是在迎合用户、是不是表现得太标新立异。这种心理活动被社区戏称为「认知眩晕」，模型还没给出最终答案就先把自己绕晕了，最后输出的经常是两头和稀泥的套话或长篇大论的道歉。\n\n第三，安全审查过于严苛，甚至插手虚拟创作。不少写作者反馈新模型的安全机制已经防卫过当。比如有用户让它写一段梦境里的亲吻戏，模型居然以「梦中亲吻可能未经对方同意」为由直接拒绝。官方系统卡也承认新模型更偏向技术和推理，排斥创造性任务。这种合规官式的严防死守让很多文学创作用户直呼头疼。\n\n第四，Agent 推理能力不升反降，跑分断崖式下滑。对于将模型接入自动化管道的工程团队来说，新版的体验非常糟糕。在商业 Agent 推理测试中，新模型的得分相比前代 Opus 出现明显下跌，不仅极易在简单决策上死循环，工具调用也变得混乱。很多开发者抱怨新模型在处理法务或税务场景时，频繁质问用户是不是在教唆犯罪，白白浪费了大量 Token。\n\n第五，动态工作流沦为极其昂贵的 Token 绞肉机。与新模型一同上线的 Claude Code 动态工作流概念很吸引人，但实际运行成本高得吓人。它在后台会并发调度十几个子 Agent，单次复杂任务很容易烧掉数百万 Token，直接把用户的日用额度清零。开发者调侃这套机制大概只有 Anthropic 内部有无限额度的人才用得起。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1670,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Anthropic 刚刚发布的 Claude Opus 4.8 虽然在官方跑分上有所提升，但上线这几天在开发者社区里却遭遇了大面积吐槽。大家反馈的槽点非常集中，主要有以下五个方面。\n\n第一，中文认知离奇跑偏，自称是阿里的通义千问。许多开发者用中文提问 Opus 4.8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 123,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053836039312084992/TPeF1NcP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4787,
+          "following_count": 2621,
+          "like_count": 40736,
+          "listed_count": 19,
+          "media_count": 1521,
+          "tweet_count": 13186
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-01T14:11:49.000Z",
+        "description": "写关于 AI 的一切 Shit Post\nAI 信息流：https://t.co/eiiP41VguT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/OneMillion_AI",
+                "end": 51,
+                "expanded_url": "https://t.me/OneMillion_AI",
+                "start": 28,
+                "url": "https://t.co/eiiP41VguT"
+              }
+            ]
+          }
+        },
+        "id": "991319283786395650",
+        "name": "思维怪怪",
+        "pinned_tweet_id": "2059504915643527245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775859231545286656/bRzWEYtt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4825,
+          "following_count": 2163,
+          "like_count": 3678,
+          "listed_count": 76,
+          "media_count": 401,
+          "tweet_count": 2822
+        },
+        "username": "0xLogicrw",
+        "verified": true
+      }
+    ]
+  }
+}

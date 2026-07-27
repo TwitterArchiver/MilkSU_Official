@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051673545353433088",
+        "3_2051673545357606912"
+      ]
+    },
+    "author_id": "2840236608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051673554043973982",
+    "created_at": "2026-05-05T14:41:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T15:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051673554043973982"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sa0kaTGJIh",
+          "end": 27,
+          "expanded_url": "https://x.com/MilkSU_Official/status/2051673554043973982/photo/1",
+          "media_key": "3_2051673545353433088",
+          "start": 4,
+          "url": "https://t.co/Sa0kaTGJIh"
+        },
+        {
+          "display_url": "pic.x.com/Sa0kaTGJIh",
+          "end": 27,
+          "expanded_url": "https://x.com/MilkSU_Official/status/2051673554043973982/photo/1",
+          "media_key": "3_2051673545357606912",
+          "start": 4,
+          "url": "https://t.co/Sa0kaTGJIh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051673554043973982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这对嘛 https://t.co/Sa0kaTGJIh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051673545353433088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHkCOCHbkAAKW__.jpg",
+        "width": 1536
+      },
+      {
+        "height": 104,
+        "media_key": "3_2051673545357606912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHkCOCIbQAAtVfq.jpg",
+        "width": 100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051673545353433088",
+            "3_2051673545357606912"
+          ]
+        },
+        "author_id": "2840236608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051673554043973982",
+        "created_at": "2026-05-05T14:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051673554043973982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sa0kaTGJIh",
+              "end": 27,
+              "expanded_url": "https://x.com/MilkSU_Official/status/2051673554043973982/photo/1",
+              "media_key": "3_2051673545353433088",
+              "start": 4,
+              "url": "https://t.co/Sa0kaTGJIh"
+            },
+            {
+              "display_url": "pic.x.com/Sa0kaTGJIh",
+              "end": 27,
+              "expanded_url": "https://x.com/MilkSU_Official/status/2051673554043973982/photo/1",
+              "media_key": "3_2051673545357606912",
+              "start": 4,
+              "url": "https://t.co/Sa0kaTGJIh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051673554043973982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这对嘛 https://t.co/Sa0kaTGJIh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Lyon, Rhône-Alpes, France",
+              "geo": {
+                "coordinates": [
+                  4.84671,
+                  45.74846
+                ],
+                "type": "Point"
+              },
+              "locality": "Lyon",
+              "region": "Rhône-Alpes",
+              "sub_region": "Département du Rhône"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Python/Go/Rust. MSCS at CU Boulder 🔜 UGA France. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 128,
+                "start": 117,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Lyon, France",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025718358868631552/yzEh8Qr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4793,
+          "following_count": 2585,
+          "like_count": 39792,
+          "listed_count": 19,
+          "media_count": 1494,
+          "tweet_count": 12972
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2080514632868147565",
+    "created_at": "2026-07-24T13:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T14:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080642391632150911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "276062244",
+          "start": 0,
+          "username": "nichantae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080642391632150911",
+    "in_reply_to_user_id": "276062244",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080514632868147565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nichantae 🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10495,
+        "height": 1920,
+        "media_key": "13_2080514586055434240",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080514586055434240/img/ys3VYd_mghJONnhw.jpg",
+        "public_metrics": {
+          "view_count": 1589
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080514586055434240/vid/avc1/320x568/wHJX_66DTSK_om_X.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080514586055434240/vid/avc1/480x852/m5aR-7YfSqUo_rYn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080514586055434240/vid/avc1/720x1280/E0RPFL4snguXFoux.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080514586055434240/vid/avc1/1080x1920/X184teI2r_fYfKm7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080514586055434240/pl/C2mBh1bFYn01v5VC.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2080514632868147565",
+        "created_at": "2026-07-24T13:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080642391632150911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "276062244",
+              "start": 0,
+              "username": "nichantae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080642391632150911",
+        "in_reply_to_user_id": "276062244",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080514632868147565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nichantae 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080514586055434240"
+          ]
+        },
+        "author_id": "276062244",
+        "conversation_id": "2080514632868147565",
+        "created_at": "2026-07-24T04:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080514632868147565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EFckR9XmPB",
+              "end": 45,
+              "expanded_url": "https://x.com/nichantae/status/2080514632868147565/video/1",
+              "media_key": "13_2080514586055434240",
+              "start": 22,
+              "url": "https://t.co/EFckR9XmPB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080514632868147565",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 4448,
+          "like_count": 206,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/EFckR9XmPB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4825,
+          "following_count": 2680,
+          "like_count": 40971,
+          "listed_count": 18,
+          "media_count": 1585,
+          "tweet_count": 13715
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2011-04-02T15:29:28.000Z",
+        "description": "韓国のmaimaiユーザー「ニチャンテ」です。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/user/NichanTae",
+                "end": 23,
+                "expanded_url": "http://youtube.com/user/NichanTae",
+                "start": 0,
+                "url": "https://t.co/SSriorTmkS"
+              }
+            ]
+          }
+        },
+        "id": "276062244",
+        "location": "대한민국",
+        "name": "NICHAN.T(7.23~28/杭州🇨🇳)",
+        "pinned_tweet_id": "2031763050496430579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736244111735480320/2-ZFHkTh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12780,
+          "following_count": 6337,
+          "like_count": 156388,
+          "listed_count": 40,
+          "media_count": 15124,
+          "tweet_count": 102310
+        },
+        "url": "https://t.co/SSriorTmkS",
+        "username": "nichantae",
+        "verified": false
+      }
+    ]
+  }
+}

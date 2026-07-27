@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071167761058086912"
+      ]
+    },
+    "author_id": "2840236608",
+    "conversation_id": "2071167772726632632",
+    "created_at": "2026-06-28T09:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T10:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071167772726632632"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4V8ZNxOGIs",
+          "end": 23,
+          "expanded_url": "https://x.com/MilkSU_Official/status/2071167772726632632/photo/1",
+          "media_key": "3_2071167761058086912",
+          "start": 0,
+          "url": "https://t.co/4V8ZNxOGIs"
+        },
+        {
+          "display_url": "x.com/bestofmeow/sta…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/bestofmeow/status/2070872726622150656",
+          "start": 24,
+          "url": "https://t.co/2G9PFKa6JL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071167772726632632",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070872726622150656",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/4V8ZNxOGIs https://t.co/2G9PFKa6JL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071167761058086912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5EGuwbwAA70So.jpg",
+        "width": 942
+      },
+      {
+        "duration_ms": 37433,
+        "height": 1280,
+        "media_key": "13_2070872443955339264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070872443955339264/img/mbghesUFCp6DCEwI.jpg",
+        "public_metrics": {
+          "view_count": 4161
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070872443955339264/vid/avc1/320x568/8JaCGlZEYyDPlYAt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070872443955339264/vid/avc1/480x852/c_xt0aoiMi40Ngih.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070872443955339264/vid/avc1/720x1280/YVZpFBt9eNq6l7mp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070872443955339264/pl/e7m_7OCuTj0Or_Y6.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071167761058086912"
+          ]
+        },
+        "author_id": "2840236608",
+        "conversation_id": "2071167772726632632",
+        "created_at": "2026-06-28T09:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071167772726632632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4V8ZNxOGIs",
+              "end": 23,
+              "expanded_url": "https://x.com/MilkSU_Official/status/2071167772726632632/photo/1",
+              "media_key": "3_2071167761058086912",
+              "start": 0,
+              "url": "https://t.co/4V8ZNxOGIs"
+            },
+            {
+              "display_url": "x.com/bestofmeow/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/bestofmeow/status/2070872726622150656",
+              "start": 24,
+              "url": "https://t.co/2G9PFKa6JL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071167772726632632",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070872726622150656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/4V8ZNxOGIs https://t.co/2G9PFKa6JL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070872443955339264"
+          ]
+        },
+        "author_id": "745884138",
+        "conversation_id": "2070872726622150656",
+        "created_at": "2026-06-27T14:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T15:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070872726622150656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bARUWzNUS8",
+              "end": 23,
+              "expanded_url": "https://x.com/BestOfMeow/status/2070872726622150656/video/1",
+              "media_key": "13_2070872443955339264",
+              "start": 0,
+              "url": "https://t.co/bARUWzNUS8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070872726622150656",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 14665,
+          "like_count": 581,
+          "quote_count": 7,
+          "reply_count": 5,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bARUWzNUS8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 127,
+                "start": 116,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070740806483546112/Kjr6h7KF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4801,
+          "following_count": 2638,
+          "like_count": 40341,
+          "listed_count": 18,
+          "media_count": 1557,
+          "tweet_count": 13426
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2012-08-08T20:29:02.000Z",
+        "description": "it's about cats 😼",
+        "id": "745884138",
+        "name": "meow",
+        "pinned_tweet_id": "2070872299780333843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001680757648166917/dmowqKVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545330,
+          "following_count": 0,
+          "like_count": 658,
+          "listed_count": 1214,
+          "media_count": 18437,
+          "tweet_count": 19111
+        },
+        "url": "",
+        "username": "BestOfMeow",
+        "verified": true
+      }
+    ]
+  }
+}

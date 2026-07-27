@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2079243456476745841",
+    "created_at": "2026-07-21T04:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T05:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079419157930807439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1692126794055647232",
+          "start": 0,
+          "username": "QuantumTransf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079419157930807439",
+    "in_reply_to_user_id": "1692126794055647232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079243456476745841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuantumTransf 好诶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 482,
+        "media_key": "3_2079170204136099840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqySOUb0AAlz19.png",
+        "width": 612
+      },
+      {
+        "height": 522,
+        "media_key": "3_2079170330522992640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqyZlJawAARbyg.png",
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2079243456476745841",
+        "created_at": "2026-07-21T04:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079419157930807439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1692126794055647232",
+              "start": 0,
+              "username": "QuantumTransf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079419157930807439",
+        "in_reply_to_user_id": "1692126794055647232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079243456476745841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuantumTransf 好诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079170204136099840",
+            "3_2079170330522992640"
+          ]
+        },
+        "author_id": "1692126794055647232",
+        "conversation_id": "2079243456476745841",
+        "created_at": "2026-07-20T16:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079243456476745841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8D2jKpq35z",
+              "end": 199,
+              "expanded_url": "https://x.com/QuantumTransf/status/2079243456476745841/photo/1",
+              "media_key": "3_2079170204136099840",
+              "start": 176,
+              "url": "https://t.co/8D2jKpq35z"
+            },
+            {
+              "display_url": "pic.x.com/8D2jKpq35z",
+              "end": 199,
+              "expanded_url": "https://x.com/QuantumTransf/status/2079243456476745841/photo/1",
+              "media_key": "3_2079170330522992640",
+              "start": 176,
+              "url": "https://t.co/8D2jKpq35z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079243456476745841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "obelisk-website-henna.vercel.app/demo/obelisk-s…",
+                "end": 376,
+                "expanded_url": "https://obelisk-website-henna.vercel.app/demo/obelisk-session-share.html",
+                "start": 353,
+                "url": "https://t.co/SuojUMNCqM"
+              }
+            ]
+          },
+          "text": "写了几轮 prompt 来给自己的 obelisk app 做 mini app，最后做的和原 app 差不了多少了\n深刻感受到模型能力越强越不需要复杂的 skill——我们需要更直击本质的 prompt（\n不过，我觉得能够写出优质 prompt 的人会得到模型的奖赏，这本身就很合理，不是吗？\n请不要再和模型说：你写的 xxx 完全和原本的 app 不符了，自己看看该怎么改\n请和模型说：你应该遍历各个状态，确保他们都和原行为一致，并给出几个例子来让模型知道你在说什么\n感兴趣的话，我可以整理一下这些 prompt，做成一个 skill：export-app 供大家使用\n\n其实我也生气过，但结果是模型还是不知道它要干什么\n感兴趣的可以在这个页面里看到我做 mini app 的完整 prompt 过程：https://t.co/SuojUMNCqM\n\n我觉得这就是我今天的尤里卡时刻，这种成就感完全不亚于以前写了一段很优雅的代码想找人分享的时候"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 1748,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "写了几轮 prompt 来给自己的 obelisk app 做 mini app，最后做的和原 app 差不了多少了\n深刻感受到模型能力越强越不需要复杂的 skill——我们需要更直击本质的 prompt（\n不过，我觉得能够写出优质 prompt 的人会得到模型的奖赏，这本身就很合理，不是吗？\n请不要再和模型说：你写的 xxx 完全和原本的 app https://t.co/8D2jKpq35z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4822,
+          "following_count": 2673,
+          "like_count": 40908,
+          "listed_count": 18,
+          "media_count": 1582,
+          "tweet_count": 13683
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-17T10:52:09.000Z",
+        "description": "Building Kairos Agent for coding | ACMer & Computer Science Enthusiast | Lesbian | 💖love maimai & 📝writing | 🐱Catgirl | 💝I'll always be with you.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/tommy0103",
+                "end": 23,
+                "expanded_url": "http://github.com/tommy0103",
+                "start": 0,
+                "url": "https://t.co/81bWEtgUJJ"
+              }
+            ]
+          }
+        },
+        "id": "1692126794055647232",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Yuu💖",
+        "pinned_tweet_id": "2020909686434955672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999276127014256644/c3JQXTfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3062,
+          "following_count": 454,
+          "like_count": 29571,
+          "listed_count": 29,
+          "media_count": 633,
+          "tweet_count": 8247
+        },
+        "url": "https://t.co/81bWEtgUJJ",
+        "username": "QuantumTransf",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2079516297067630901",
+    "created_at": "2026-07-21T11:02:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T12:02:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079522491622625646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1692126794055647232",
+          "start": 0,
+          "username": "QuantumTransf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079522491622625646",
+    "in_reply_to_user_id": "1692126794055647232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079516297067630901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuantumTransf 我想集成到我的安全agent🥺（法律风险暂未开源"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1632,
+        "media_key": "3_2079514964445061120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvr16jbYAAmFlo.jpg",
+        "width": 2006
+      },
+      {
+        "height": 1640,
+        "media_key": "3_2079515725577019392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvsiN_bYAAgxLs.jpg",
+        "width": 2000
+      },
+      {
+        "height": 344,
+        "media_key": "3_2079515873438838784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvsq00bsAA56ta.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2079516297067630901",
+        "created_at": "2026-07-21T11:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079522491622625646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1692126794055647232",
+              "start": 0,
+              "username": "QuantumTransf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079522491622625646",
+        "in_reply_to_user_id": "1692126794055647232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079516297067630901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuantumTransf 我想集成到我的安全agent🥺（法律风险暂未开源"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079514964445061120",
+            "3_2079515725577019392",
+            "3_2079515873438838784"
+          ]
+        },
+        "author_id": "1692126794055647232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2079516297067630901",
+        "created_at": "2026-07-21T10:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T11:37:37.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079516136044122407",
+          "2079516297067630901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n8cx9GA9uC",
+              "end": 180,
+              "expanded_url": "https://x.com/QuantumTransf/status/2079516297067630901/photo/1",
+              "media_key": "3_2079514964445061120",
+              "start": 157,
+              "url": "https://t.co/n8cx9GA9uC"
+            },
+            {
+              "display_url": "pic.x.com/n8cx9GA9uC",
+              "end": 180,
+              "expanded_url": "https://x.com/QuantumTransf/status/2079516297067630901/photo/1",
+              "media_key": "3_2079515725577019392",
+              "start": 157,
+              "url": "https://t.co/n8cx9GA9uC"
+            },
+            {
+              "display_url": "pic.x.com/n8cx9GA9uC",
+              "end": 180,
+              "expanded_url": "https://x.com/QuantumTransf/status/2079516297067630901/photo/1",
+              "media_key": "3_2079515873438838784",
+              "start": 157,
+              "url": "https://t.co/n8cx9GA9uC"
+            },
+            {
+              "display_url": "x.com/mizorewww/stat…",
+              "end": 204,
+              "expanded_url": "https://twitter.com/mizorewww/status/2078700775463887223",
+              "start": 181,
+              "url": "https://t.co/hwvF3WuD4p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079516297067630901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我想自豪的宣称，Obelisk 让你的 Agent 不再在 compaction 之后就忘记一切\n如果你是 gpt-5.6 醒来看到身边有一张纸条「成功打包了 0.2.0 版本的 linux deb 包」（看作是 compaction 后的结果吧），可你现在却做不到，没有 obelisk 你只能束手无策，可有了 obelisk，你可以寻回当时是怎么做的——compaction 不再使 agent 失忆，只要它记得自己还要找什么\n\nP2 是触发 compaction 的截图，P1 是它正在工作时的状态，P3 是它通过 obelisk 找到了过往成功解决问题的方法"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 305,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078700775463887223",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想自豪的宣称，Obelisk 让你的 Agent 不再在 compaction 之后就忘记一切\n如果你是 gpt-5.6 醒来看到身边有一张纸条「成功打包了 0.2.0 版本的 linux deb 包」（看作是 compaction 后的结果吧），可你现在却做不到，没有 obelisk 你只能束手无策，可有了 https://t.co/n8cx9GA9uC https://t.co/hwvF3WuD4p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4822,
+          "following_count": 2674,
+          "like_count": 40916,
+          "listed_count": 18,
+          "media_count": 1582,
+          "tweet_count": 13686
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-17T10:52:09.000Z",
+        "description": "Building Kairos Agent for coding | ACMer & Computer Science Enthusiast | Lesbian | 💖love maimai & 📝writing | 🐱Catgirl | 💝I'll always be with you.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/tommy0103/obel…",
+                "end": 23,
+                "expanded_url": "http://github.com/tommy0103/obelisk",
+                "start": 0,
+                "url": "https://t.co/WB3ynJKHt9"
+              }
+            ]
+          }
+        },
+        "id": "1692126794055647232",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Yuu💖",
+        "pinned_tweet_id": "2020909686434955672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999276127014256644/c3JQXTfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3068,
+          "following_count": 455,
+          "like_count": 29601,
+          "listed_count": 29,
+          "media_count": 638,
+          "tweet_count": 8267
+        },
+        "url": "https://t.co/WB3ynJKHt9",
+        "username": "QuantumTransf",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2077788008980632016",
+    "created_at": "2026-07-16T16:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T17:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077788008980632016"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaoyang0822/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/xiaoyang0822/status/2077680443651170413",
+          "start": 5,
+          "url": "https://t.co/8n36ajziib"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077788008980632016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077680443651170413",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "尼古喵喵 https://t.co/8n36ajziib"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11409,
+        "height": 1280,
+        "media_key": "13_2077680346875969536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077680346875969536/img/lWQTQD-1nLvcPYsZ.jpg",
+        "public_metrics": {
+          "view_count": 2012
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077680346875969536/vid/avc1/320x568/7s5u_zQpN7I4KgdA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077680346875969536/vid/avc1/480x852/h7OfeRB4kYru5DP-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077680346875969536/vid/avc1/720x1280/0d6fbiX9CLHX8-H_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077680346875969536/pl/Vv7EEucftvAEvyZp.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2077788008980632016",
+        "created_at": "2026-07-16T16:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T17:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077788008980632016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoyang0822/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/xiaoyang0822/status/2077680443651170413",
+              "start": 5,
+              "url": "https://t.co/8n36ajziib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077788008980632016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077680443651170413",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "尼古喵喵 https://t.co/8n36ajziib"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077680346875969536"
+          ]
+        },
+        "author_id": "1296742363109511168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2077680443651170413",
+        "created_at": "2026-07-16T09:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077680443651170413"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "东京"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "男娘"
+            },
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "德州扑克"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J754LMGkHF",
+              "end": 144,
+              "expanded_url": "https://x.com/xiaoyang0822/status/2077680443651170413/video/1",
+              "media_key": "13_2077680346875969536",
+              "start": 121,
+              "url": "https://t.co/J754LMGkHF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077680443651170413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5796,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#东京 #男娘 #德州扑克 在东京郊区9平米小房子，抽着最便宜的烟，晚上德扑还输着钱，烟不离手，过着烂人的一生，来日本留学的失败人生，比不过别人好看，也没有别人有钱，羡慕他人的好身材，过着下水道老鼠的生活，在东京也没有什么朋友…..😭😭😭😭 https://t.co/J754LMGkHF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4805,
+          "following_count": 2662,
+          "like_count": 40752,
+          "listed_count": 18,
+          "media_count": 1577,
+          "tweet_count": 13621
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-21T09:34:15.000Z",
+        "description": "是个好人！enfp-T.2007/8.22事个xyn🍥互fo滴滴 欢迎喜欢我的人贴贴🇯🇵日本留学中—-在广州开音游窝雀庄——北京人是个赌狗",
+        "id": "1296742363109511168",
+        "location": "东京",
+        "name": "小羊",
+        "pinned_tweet_id": "1851550218711666858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032029079793471490/popE-Mdi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3552,
+          "following_count": 339,
+          "like_count": 626,
+          "listed_count": 9,
+          "media_count": 219,
+          "tweet_count": 1215
+        },
+        "url": "",
+        "username": "xiaoyang0822",
+        "verified": false
+      }
+    ]
+  }
+}

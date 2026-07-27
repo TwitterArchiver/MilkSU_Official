@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2044962237903974835",
+    "created_at": "2026-04-17T15:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T16:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045159507718791527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1644994553135652865",
+          "start": 0,
+          "username": "okdajob"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045159507718791527",
+    "in_reply_to_user_id": "1644994553135652865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045148423012372985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@okdajob 有漫游卡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2044962237903974835",
+        "created_at": "2026-04-17T15:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045159507718791527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1644994553135652865",
+              "start": 0,
+              "username": "okdajob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045159507718791527",
+        "in_reply_to_user_id": "1644994553135652865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045148423012372985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@okdajob 有漫游卡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644994553135652865",
+        "conversation_id": "2044962237903974835",
+        "created_at": "2026-04-17T14:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045148423012372985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2840236608",
+              "start": 0,
+              "username": "MilkSU_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045148423012372985",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044962237903974835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MilkSU_Official 那为何我能看见你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "🥛🐈‍⬛🪼🍥系统 System Security Hunter. Python/Go/Rust. MSCS at CU Boulder 🔜 MAP at SUDA. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025718358868631552/yzEh8Qr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4616,
+          "following_count": 2445,
+          "like_count": 38293,
+          "listed_count": 19,
+          "media_count": 1477,
+          "tweet_count": 12848
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-09T09:25:06.000Z",
+        "description": "速寫詩意，嬉評世情",
+        "id": "1644994553135652865",
+        "location": "Svalbard, Norge",
+        "name": "吹笛子",
+        "pinned_tweet_id": "1666625917622386694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726796449890091008/KH-gS-uX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2224,
+          "following_count": 156,
+          "like_count": 11769,
+          "listed_count": 2,
+          "media_count": 429,
+          "tweet_count": 39542
+        },
+        "username": "okdajob",
+        "verified": true
+      }
+    ]
+  }
+}

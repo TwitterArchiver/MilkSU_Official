@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2061327442095354016",
+    "created_at": "2026-06-01T10:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T11:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061398351615303907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1221562724829691905",
+          "start": 0,
+          "username": "gozZoazYckXOXcW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061398351615303907",
+    "in_reply_to_user_id": "1221562724829691905",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061327442095354016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gozZoazYckXOXcW 好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1164,
+        "media_key": "3_2061327303406448640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtOQtVa8AA9HtU.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2061327442095354016",
+        "created_at": "2026-06-01T10:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T11:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061398351615303907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1221562724829691905",
+              "start": 0,
+              "username": "gozZoazYckXOXcW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061398351615303907",
+        "in_reply_to_user_id": "1221562724829691905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061327442095354016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gozZoazYckXOXcW 好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061327303406448640"
+          ]
+        },
+        "author_id": "1221562724829691905",
+        "conversation_id": "2061327442095354016",
+        "created_at": "2026-06-01T06:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061327442095354016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PTXGiRYxFV",
+              "end": 48,
+              "expanded_url": "https://x.com/gozZoazYckXOXcW/status/2061327442095354016/photo/1",
+              "media_key": "3_2061327303406448640",
+              "start": 25,
+              "url": "https://t.co/PTXGiRYxFV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061327442095354016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 640,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打开引诱地图选学校的已经可以考虑去了（bushi https://t.co/PTXGiRYxFV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 123,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053836039312084992/TPeF1NcP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4787,
+          "following_count": 2621,
+          "like_count": 40719,
+          "listed_count": 19,
+          "media_count": 1521,
+          "tweet_count": 13181
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-26T22:37:11.000Z",
+        "description": "Amab  |公开频道：https://t.co/o7u3PzZ637 |联系方式:https://t.co/GnRL4ruaVX |点赞不代表赞同观点 |Μαsтоdоn：@yongyiwang |Βsκу：@yongyiwang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "yongyiwang"
+              },
+              {
+                "end": 116,
+                "start": 105,
+                "username": "yongyiwang"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/bakayong",
+                "end": 35,
+                "expanded_url": "https://t.me/bakayong",
+                "start": 12,
+                "url": "https://t.co/o7u3PzZ637"
+              },
+              {
+                "display_url": "t.me/Yongyi_dm_bot",
+                "end": 65,
+                "expanded_url": "http://t.me/Yongyi_dm_bot",
+                "start": 42,
+                "url": "https://t.co/GnRL4ruaVX"
+              }
+            ]
+          }
+        },
+        "id": "1221562724829691905",
+        "name": "永仪#咸鱼版",
+        "pinned_tweet_id": "1534197498281328640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862179978751684609/NWGhr4LD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26327,
+          "following_count": 3039,
+          "like_count": 32085,
+          "listed_count": 31,
+          "media_count": 773,
+          "tweet_count": 15461
+        },
+        "username": "gozZoazYckXOXcW",
+        "verified": false
+      }
+    ]
+  }
+}

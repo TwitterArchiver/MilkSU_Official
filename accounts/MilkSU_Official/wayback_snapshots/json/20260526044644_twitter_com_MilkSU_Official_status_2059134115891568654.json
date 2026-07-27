@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2058852338174234784",
+    "created_at": "2026-05-26T04:46:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T05:46:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059134115891568654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1908401054724796416",
+          "start": 0,
+          "username": "Zhm20220917"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059134115891568654",
+    "in_reply_to_user_id": "1908401054724796416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058852338174234784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhm20220917 不用三五年吧  AI体现生产力且又赚钱的行业早已把AI纳入标准流程了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2058852338174234784",
+        "created_at": "2026-05-26T04:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059134115891568654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1908401054724796416",
+              "start": 0,
+              "username": "Zhm20220917"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059134115891568654",
+        "in_reply_to_user_id": "1908401054724796416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058852338174234784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhm20220917 不用三五年吧  AI体现生产力且又赚钱的行业早已把AI纳入标准流程了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908401054724796416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2058852338174234784",
+        "created_at": "2026-05-25T10:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058852338174234784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058852338174234784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 23350,
+          "like_count": 38,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "未来3-5年内，最吃香的不是会写 Prompt 的人，而是懂行业又能把 AI 接进流程的人，俗称FDE（Forward Deployed Engineer）。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 123,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053836039312084992/TPeF1NcP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4799,
+          "following_count": 2616,
+          "like_count": 40474,
+          "listed_count": 19,
+          "media_count": 1510,
+          "tweet_count": 13100
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-05T06:07:29.000Z",
+        "description": "分享AI怎么进入企业真实业务流程",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kunzhiyiteam.feishu.cn/wiki/WKl3wnu7v…",
+                "end": 23,
+                "expanded_url": "https://kunzhiyiteam.feishu.cn/wiki/WKl3wnu7viuEZWk54TBcltaTnBe?from=from_copylink",
+                "start": 0,
+                "url": "https://t.co/ac2YPNOSd1"
+              }
+            ]
+          }
+        },
+        "id": "1908401054724796416",
+        "location": "上海【AI交流转飞书链接】",
+        "name": "HuangMing",
+        "pinned_tweet_id": "2052605545664917869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044668032426065920/DtQJmTwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2141,
+          "following_count": 200,
+          "like_count": 1973,
+          "listed_count": 15,
+          "media_count": 183,
+          "tweet_count": 1403
+        },
+        "url": "https://t.co/ac2YPNOSd1",
+        "username": "Zhm20220917",
+        "verified": true
+      }
+    ]
+  }
+}

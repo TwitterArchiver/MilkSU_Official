@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2079283558108344584",
+    "created_at": "2026-07-21T04:16:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T05:16:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079420305509126500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "7755562",
+          "start": 0,
+          "username": "blackanger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079420305509126500",
+    "in_reply_to_user_id": "7755562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079283558108344584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blackanger 哇 我也是这么想的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1648,
+        "media_key": "3_2079282876668051457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsYwoNaAAESbO9.jpg",
+        "width": 2810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2079283558108344584",
+        "created_at": "2026-07-21T04:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079420305509126500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "7755562",
+              "start": 0,
+              "username": "blackanger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079420305509126500",
+        "in_reply_to_user_id": "7755562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079283558108344584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackanger 哇 我也是这么想的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079282876668051457"
+          ]
+        },
+        "author_id": "7755562",
+        "conversation_id": "2079283558108344584",
+        "created_at": "2026-07-20T19:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T20:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079283558108344584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i5Eck4gzZc",
+              "end": 167,
+              "expanded_url": "https://x.com/blackanger/status/2079283558108344584/photo/1",
+              "media_key": "3_2079282876668051457",
+              "start": 144,
+              "url": "https://t.co/i5Eck4gzZc"
+            },
+            {
+              "display_url": "x.com/blackanger/sta…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/blackanger/status/2079162867774005331",
+              "start": 168,
+              "url": "https://t.co/UTCdZo5qs3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079283558108344584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/ZhangHanDong/a…",
+                "end": 516,
+                "expanded_url": "https://github.com/ZhangHanDong/ai-leetcode",
+                "start": 493,
+                "url": "https://t.co/OZcWZKAarB"
+              }
+            ]
+          },
+          "text": "回应一下推友的问题：现在刷题有什么用吗？ \n\nAI 时代，寻回写代码的乐趣\n\n这本书的灵感，来自今年的两趟旅行。我在东京和巴黎看了好几场展览：美术、科技、人文、雕塑、家具、历史，不一而足。\n\n和以往不同的是，这一次，我让 AI 全程深度参与其中。结果，我发现了一个新世界。\n\n举个例子。\n\n去年在阿姆斯特丹，我也逛过梵高美术馆，当时同样借助了 AI，比如用 ChatGPT 问过几幅梵高的画，但那种深度沉浸的感觉并不强烈。\n\n今年不一样了。我把每次观展拍下的照片，都系统地发给 AI（主要是 Claude）。它不仅能逐一解读展品与画作本身，更让我意外的是，还挖掘出了同一座美术馆里、不同展厅之间的主题呼应。那背后，其实是策展人的视角；它甚至把我带回展品诞生的那个年代，还原出那段历史的大背景，让我真正读懂、也真正欣赏了眼前的一切。那种深度，是过去从未有过的。\n\n而最近，我忽然意识到，读代码竟也成了我的一种思维游戏（毕竟，我已经很久没有静下心来直接读代码了）。于是我想：如果让 AI 陪着我一起刷题，会不会也能挖掘出当年独自刷题时未曾参透的“终极奥义”，也就是，算法背后的那些模式？\n\nhttps://t.co/OZcWZKAarB \n\n欢迎关注，也欢迎 fork，构建你自己的乐趣。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 6632,
+          "like_count": 55,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079162867774005331",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "回应一下推友的问题：现在刷题有什么用吗？ \n\nAI 时代，寻回写代码的乐趣\n\n这本书的灵感，来自今年的两趟旅行。我在东京和巴黎看了好几场展览：美术、科技、人文、雕塑、家具、历史，不一而足。\n\n和以往不同的是，这一次，我让 AI 全程深度参与其中。结果，我发现了一个新世界。\n\n举个例子。 https://t.co/i5Eck4gzZc https://t.co/UTCdZo5qs3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4822,
+          "following_count": 2673,
+          "like_count": 40911,
+          "listed_count": 18,
+          "media_count": 1582,
+          "tweet_count": 13684
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2007-07-27T07:35:57.000Z",
+        "description": "System in Rust, Application in AI.\nSlow down. Have fun. Live well.\nINTJ-A. No ism.\nLifelong Programmer and Writer.\nStudy in Public, Building in Public.\n\n🦀 保命",
+        "id": "7755562",
+        "location": "Earth",
+        "name": "AlexZ 🦀",
+        "pinned_tweet_id": "2075250616184791310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588061971714256896/Rwi_kcm7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20107,
+          "following_count": 1695,
+          "like_count": 33650,
+          "listed_count": 320,
+          "media_count": 3343,
+          "tweet_count": 28886
+        },
+        "url": "",
+        "username": "blackanger",
+        "verified": true
+      }
+    ]
+  }
+}

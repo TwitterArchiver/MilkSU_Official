@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062727583205322753"
+      ]
+    },
+    "author_id": "2840236608",
+    "conversation_id": "2062727590721581464",
+    "created_at": "2026-06-05T02:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T03:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062727590721581464"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YvWGAxsKLM",
+          "end": 63,
+          "expanded_url": "https://x.com/MilkSU_Official/status/2062727590721581464/photo/1",
+          "media_key": "3_2062727583205322753",
+          "start": 40,
+          "url": "https://t.co/YvWGAxsKLM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062727590721581464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个 APP 的人脸识别的准确率\n但凡开发成本超过一万块\n我都会觉得它吃回扣了 https://t.co/YvWGAxsKLM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 324,
+        "media_key": "3_2062727583205322753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBHzuFacAEN01U.jpg",
+        "width": 310
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062727583205322753"
+          ]
+        },
+        "author_id": "2840236608",
+        "conversation_id": "2062727590721581464",
+        "created_at": "2026-06-05T02:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T03:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062727590721581464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YvWGAxsKLM",
+              "end": 63,
+              "expanded_url": "https://x.com/MilkSU_Official/status/2062727590721581464/photo/1",
+              "media_key": "3_2062727583205322753",
+              "start": 40,
+              "url": "https://t.co/YvWGAxsKLM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062727590721581464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个 APP 的人脸识别的准确率\n但凡开发成本超过一万块\n我都会觉得它吃回扣了 https://t.co/YvWGAxsKLM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 123,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053836039312084992/TPeF1NcP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4777,
+          "following_count": 2615,
+          "like_count": 40845,
+          "listed_count": 18,
+          "media_count": 1523,
+          "tweet_count": 13227
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      }
+    ]
+  }
+}

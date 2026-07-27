@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2080720596686737719",
+    "created_at": "2026-07-25T14:10:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T15:10:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081019352879681873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1468616147339968513",
+          "start": 0,
+          "username": "0xSorrowRain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081019352879681873",
+    "in_reply_to_user_id": "1468616147339968513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080720596686737719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xSorrowRain 呜呜好可爱我也想要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 833,
+        "media_key": "3_2080720586872143872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOA0WYFbQAAXToJ.jpg",
+        "width": 960
+      },
+      {
+        "height": 298,
+        "media_key": "3_2080720592723189760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOA0Wt4bIAA3X9F.jpg",
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2080720596686737719",
+        "created_at": "2026-07-25T14:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081019352879681873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1468616147339968513",
+              "start": 0,
+              "username": "0xSorrowRain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081019352879681873",
+        "in_reply_to_user_id": "1468616147339968513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080720596686737719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xSorrowRain 呜呜好可爱我也想要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080720586872143872",
+            "3_2080720592723189760"
+          ]
+        },
+        "author_id": "1468616147339968513",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080720596686737719",
+        "created_at": "2026-07-24T18:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T19:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080720596686737719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FWJ1rqrcEP",
+              "end": 94,
+              "expanded_url": "https://x.com/0xSorrowRain/status/2080720596686737719/photo/1",
+              "media_key": "3_2080720586872143872",
+              "start": 71,
+              "url": "https://t.co/FWJ1rqrcEP"
+            },
+            {
+              "display_url": "pic.x.com/FWJ1rqrcEP",
+              "end": 94,
+              "expanded_url": "https://x.com/0xSorrowRain/status/2080720596686737719/photo/1",
+              "media_key": "3_2080720592723189760",
+              "start": 71,
+              "url": "https://t.co/FWJ1rqrcEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080720596686737719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 629,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚发售50h，我打了能有22h\n\n斯普拉顿害了我……\n\n诶你看这个小鱿鱼挂件是不是很可爱，出必买🤓☝️\n\n涅涅：你知道吗你头发就这样（图一） https://t.co/FWJ1rqrcEP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4828,
+          "following_count": 2684,
+          "like_count": 41047,
+          "listed_count": 18,
+          "media_count": 1585,
+          "tweet_count": 13744
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-08T16:19:28.000Z",
+        "description": "02年社畜 | B端产品画图狗 ，正在努力生活 | 请多指教哦~ | 锚点：@NeneK0SMTwTF5_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "NeneK0SMTwTF5_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "0xsr.dev",
+                "end": 23,
+                "expanded_url": "http://0xsr.dev",
+                "start": 0,
+                "url": "https://t.co/R0nmdIWIg7"
+              }
+            ]
+          }
+        },
+        "id": "1468616147339968513",
+        "name": "SorrowRain",
+        "pinned_tweet_id": "2071248766443876673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002461390054043658/7A6oWi4h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 801,
+          "like_count": 884,
+          "listed_count": 3,
+          "media_count": 736,
+          "tweet_count": 7272
+        },
+        "url": "https://t.co/R0nmdIWIg7",
+        "username": "0xSorrowRain",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2066187286526796058",
+    "created_at": "2026-06-14T15:55:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T16:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066187813608165778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1740188738469367808",
+          "start": 0,
+          "username": "HJS_2403_0"
+        },
+        {
+          "end": 20,
+          "id": "1697903165570686976",
+          "start": 12,
+          "username": "kikoxts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066187813608165778",
+    "in_reply_to_user_id": "1740188738469367808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066187286526796058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HJS_2403_0 @kikoxts 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2066187278758936576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKySYgXbgAAhUL-.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2066187286526796058",
+        "created_at": "2026-06-14T15:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066187813608165778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1740188738469367808",
+              "start": 0,
+              "username": "HJS_2403_0"
+            },
+            {
+              "end": 20,
+              "id": "1697903165570686976",
+              "start": 12,
+              "username": "kikoxts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066187813608165778",
+        "in_reply_to_user_id": "1740188738469367808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066187286526796058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HJS_2403_0 @kikoxts 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066187278758936576"
+          ]
+        },
+        "author_id": "1740188738469367808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066187286526796058",
+        "created_at": "2026-06-14T15:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066187286526796058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1697903165570686976",
+              "start": 8,
+              "username": "kikoxts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RN1KWQcCRF",
+              "end": 50,
+              "expanded_url": "https://x.com/HJS_2403_0/status/2066187286526796058/photo/1",
+              "media_key": "3_2066187278758936576",
+              "start": 27,
+              "url": "https://t.co/RN1KWQcCRF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066187286526796058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又幸福了嘻嘻w\n@kikoxts \n🥺🥺\n感谢大半夜 https://t.co/RN1KWQcCRF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 123,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053836039312084992/TPeF1NcP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4784,
+          "following_count": 2625,
+          "like_count": 41047,
+          "listed_count": 18,
+          "media_count": 1534,
+          "tweet_count": 13314
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-28T01:51:56.000Z",
+        "description": "我是一些些  \n荒景肆(Arakei Shi)\n繁花園礼肆\n⚠️精神疾患 | Florarium | 文學向@HJS_2403_2\n勘測統系 | INFP-A |🩵🩶心裏建設供給\n虛無与理想的囚徒\n無政治立場 無參與圈子\n程式 寫作 繪畫 願你幸福\n🏳️‍🌈 🏳️‍⚧️ 🦋 🦴 ❤️ ‍🩹 ✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "HJS_2403_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bio.site/AraiShi",
+                "end": 23,
+                "expanded_url": "https://bio.site/AraiShi",
+                "start": 0,
+                "url": "https://t.co/Z3lsqQxLtB"
+              }
+            ]
+          }
+        },
+        "id": "1740188738469367808",
+        "location": "꒰ঌ♫*'✟:｡-願你退此苦海以至願山-｡.:*♡'*♪໒꒱",
+        "name": "閃閃亮 毛茸茸 可可愛愛的一些些",
+        "pinned_tweet_id": "1991772859178610921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005998532231311361/Sk5ocZC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2333,
+          "following_count": 322,
+          "like_count": 55248,
+          "listed_count": 5,
+          "media_count": 973,
+          "tweet_count": 4545
+        },
+        "url": "https://t.co/Z3lsqQxLtB",
+        "username": "HJS_2403_0",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-02T09:24:11.000Z",
+        "description": "泥嚎～我是kiko，是一隻活在互聯網的電子幽靈\n叫我kiko、幽靈、小幽，怎麼都行～\n以及幽靈是沒有性別的哦～\n因為是幽靈，所以陰暗一點也是正常的，患有雙相Ⅱ型也是沒問題的，精神狀態封印不穩定當然也是理所當然的（才不會啦！\n最喜歡的猫猫@HJS_2403_0可爱奇奇@ringochichidim",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 118,
+                "username": "HJS_2403_0"
+              },
+              {
+                "end": 148,
+                "start": 133,
+                "username": "ringochichidim"
+              }
+            ]
+          }
+        },
+        "id": "1697903165570686976",
+        "location": "在你入夢后隨機刷新到你的身邊1km",
+        "name": "kiko是幽靈哦~",
+        "pinned_tweet_id": "1899655556660429124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895111547455762433/svnvayy3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 398,
+          "like_count": 5256,
+          "listed_count": 3,
+          "media_count": 232,
+          "tweet_count": 1935
+        },
+        "username": "kikoxts",
+        "verified": false
+      }
+    ]
+  }
+}

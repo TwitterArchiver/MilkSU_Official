@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2079100514273530037",
+    "created_at": "2026-07-20T07:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T08:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079100514273530037"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/show5560/statu…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/show5560/status/2078766796853977171",
+          "start": 33,
+          "url": "https://t.co/kmA9wwdAAi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079100514273530037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078766796853977171",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然但是 在杭州住久了去北京二环吃了一顿铜锅涮羊肉发现挺好吃的🥺 https://t.co/kmA9wwdAAi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 410,
+        "media_key": "3_2078432590206500865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgTbcTagAEkfZy.png",
+        "width": 482
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2079100514273530037",
+        "created_at": "2026-07-20T07:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T08:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079100514273530037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/show5560/statu…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/show5560/status/2078766796853977171",
+              "start": 33,
+              "url": "https://t.co/kmA9wwdAAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079100514273530037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078766796853977171",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然但是 在杭州住久了去北京二环吃了一顿铜锅涮羊肉发现挺好吃的🥺 https://t.co/kmA9wwdAAi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078432590206500865"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2078766796853977171",
+        "created_at": "2026-07-19T09:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078766796853977171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vmXfeBgn7i",
+              "end": 23,
+              "expanded_url": "https://x.com/show5560/status/2078766796853977171/photo/1",
+              "media_key": "3_2078432590206500865",
+              "start": 0,
+              "url": "https://t.co/vmXfeBgn7i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078766796853977171",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 13102,
+          "like_count": 321,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vmXfeBgn7i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4812,
+          "following_count": 2661,
+          "like_count": 40875,
+          "listed_count": 18,
+          "media_count": 1582,
+          "tweet_count": 13670
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5136,
+          "following_count": 1734,
+          "like_count": 31782,
+          "listed_count": 13,
+          "media_count": 2397,
+          "tweet_count": 11121
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2078726365894021482",
+    "created_at": "2026-07-19T14:20:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T15:20:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078847572014510091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1068172934630395904",
+          "start": 0,
+          "username": "jakevin7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078847572014510091",
+    "in_reply_to_user_id": "1068172934630395904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078726365894021482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jakevin7 这么强"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1980,
+        "media_key": "3_2078722892490293248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkbdQlbQAAtWYT.jpg",
+        "width": 3200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2078726365894021482",
+        "created_at": "2026-07-19T14:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078847572014510091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1068172934630395904",
+              "start": 0,
+              "username": "jakevin7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078847572014510091",
+        "in_reply_to_user_id": "1068172934630395904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078726365894021482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jakevin7 这么强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078722892490293248"
+          ]
+        },
+        "author_id": "1068172934630395904",
+        "conversation_id": "2078726365894021482",
+        "created_at": "2026-07-19T06:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:14:55.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078725252956422178",
+          "2078725333415866488",
+          "2078725563565703378",
+          "2078726365894021482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Maka — local-first AI desktop assistant. Contribute to maka-agent/maka-agent development by creating an account on GitHub.",
+              "display_url": "github.com/maka-agent/mak…",
+              "end": 86,
+              "expanded_url": "http://github.com/maka-agent/maka-agent",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2076929421659746304/gLLs0wsg?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2076929421659746304/gLLs0wsg?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 63,
+              "status": 200,
+              "title": "GitHub - maka-agent/maka-agent: Maka — local-first AI desktop assistant",
+              "unwound_url": "https://github.com/maka-agent/maka-agent",
+              "url": "https://t.co/Za3ydW9DBa"
+            },
+            {
+              "display_url": "pic.x.com/MipS4BfSlo",
+              "end": 239,
+              "expanded_url": "https://x.com/jakevin7/status/2078726365894021482/photo/1",
+              "media_key": "3_2078722892490293248",
+              "start": 216,
+              "url": "https://t.co/MipS4BfSlo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078726365894021482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/maka-agent/mak…",
+                "end": 86,
+                "expanded_url": "http://github.com/maka-agent/maka-agent",
+                "start": 63,
+                "url": "https://t.co/jf8dXmOTh1"
+              },
+              {
+                "display_url": "github.com/maka-agent/mak…",
+                "end": 991,
+                "expanded_url": "http://github.com/maka-agent/maka-agent/pull/1217",
+                "start": 968,
+                "url": "https://t.co/YI4jUCQS3J"
+              }
+            ]
+          },
+          "text": "使用Kimi K3，Maka效果比官方 KimiCode还好了20%\n\n同一个模型，配不同的 harness，差距能有多大？\nhttps://t.co/jf8dXmOTh1\n\n我们拿 Kimi K3 跑了一遍 Terminal-Bench 2.1，对比官方 Kimi Code CLI 和 Maka：整体通过率 Kimi Code 59.6%，Maka 69.7%，差 10 %。困难题子集差距更大：43.3% 对 63.3%，差 20 %。\n\n这里面有 1/3 的任务是因为 Kimi 推理服务超时失败的，跟 harness 本身无关。如果只看按时跑完的任务：Kimi Code 85.7%，接近官方给 K3 的基准分 88.3%；Maka 95.1%，比 TB 2.1 目前最高分 89.5%（gpt-5.6-sol） 还高。也就是说，把推理速度这个变量剔除掉之后，差距其实更悬殊。\n\n差距从哪来，拆开看很朴素：\n◉ 第一，context-budget tool-result prune。89 个任务全开，省了约 187 万 token。这不是 K3 专属功能，是我们对所有模型都通用的机制——6 月底做过 121 组任务的 A/B 测试，验证过它性能不降反升（+2.48pp），token 消耗降 41.7%，成本降 31.6%。\n◉第二，工具面和 system prompt。Maka 用的是精简工具面 + system prompt，Kimi Code 官方是 20KB 产品 prompt + 全量工具面。prompt 越厚、工具越多，模型要在噪音里找信号的成本就越高。另外 Maka 还根据 K3 的特点进行了一些小优化和bugfix。\n◉第二，各种工程实践的过程中，有很多细小的优化点。经过了大量的AB test积攒出来的小的优势，最终累积成了一个大的优势。\n\n不是说 Kimi 团队不用心——Kimi 在国产模型厂里已经算是对 harness 最上心的一家了。\n差距主要是来自我们从一开始就把\"跑分-看 trace-针对性改进-重跑\"当成日常迭代循环，每次改动都要确认 terminal benchmark 分数不掉才合并。这个习惯攒了两个多月，才攒出这个差距。\n\n完整报告和 harness 已经开源，欢迎复现：\nhttps://t.co/YI4jUCQS3J"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 12932,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "使用Kimi K3，Maka效果比官方 KimiCode还好了20%\n\n同一个模型，配不同的 harness，差距能有多大？\nhttps://t.co/Za3ydW9DBa\n\n我们拿 Kimi K3 跑了一遍 Terminal-Bench 2.1，对比官方 Kimi Code CLI 和 Maka：整体通过率 Kimi Code 59.6%，Maka 69.7%，差 10 %。困难题子集差距更大：43.3% 对 63.3%，差 https://t.co/MipS4BfSlo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4806,
+          "following_count": 2661,
+          "like_count": 40850,
+          "listed_count": 18,
+          "media_count": 1581,
+          "tweet_count": 13663
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2018-11-29T16:00:48.000Z",
+        "description": "Building OpenCLI & https://t.co/1aJnnxFTbI  & Maka Agent\nAI enthusiast ! Love open source! ExDatabaseer.\nApache Arrow/Datafusion/Doris PMC member & Committer",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "raft.build",
+                "end": 42,
+                "expanded_url": "http://raft.build",
+                "start": 19,
+                "url": "https://t.co/1aJnnxFTbI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/jackwener",
+                "end": 23,
+                "expanded_url": "http://github.com/jackwener",
+                "start": 0,
+                "url": "https://t.co/fB3t3tUqIV"
+              }
+            ]
+          }
+        },
+        "id": "1068172934630395904",
+        "name": "kabikabi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1420768031827841031/36-lz-Jz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20722,
+          "following_count": 693,
+          "like_count": 5380,
+          "listed_count": 219,
+          "media_count": 210,
+          "tweet_count": 2192
+        },
+        "url": "https://t.co/fB3t3tUqIV",
+        "username": "jakevin7",
+        "verified": true
+      }
+    ]
+  }
+}

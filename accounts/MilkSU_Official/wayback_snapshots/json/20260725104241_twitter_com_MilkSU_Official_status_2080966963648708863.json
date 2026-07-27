@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2080917446144528741",
+    "created_at": "2026-07-25T10:42:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T11:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080966963648708863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1089936552694693889",
+          "start": 0,
+          "username": "KaguraKurage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080966963648708863",
+    "in_reply_to_user_id": "1089936552694693889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080917446144528741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaguraKurage 呜呜羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080917427391803393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODnYAKbsAEVFEh.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080917427072929792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODnX--aEAAiFzF.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080917427081375744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODnX_Aa8AALAnp.jpg",
+        "width": 1153
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080917427068755968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODnX-9aYAA7avB.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2080917446144528741",
+        "created_at": "2026-07-25T10:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080966963648708863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1089936552694693889",
+              "start": 0,
+              "username": "KaguraKurage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080966963648708863",
+        "in_reply_to_user_id": "1089936552694693889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080917446144528741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaguraKurage 呜呜羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080917427391803393",
+            "3_2080917427072929792",
+            "3_2080917427081375744",
+            "3_2080917427068755968"
+          ]
+        },
+        "author_id": "1089936552694693889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080917446144528741",
+        "created_at": "2026-07-25T07:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080917446144528741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mHhLlL2gt4",
+              "end": 38,
+              "expanded_url": "https://x.com/KaguraKurage/status/2080917446144528741/photo/1",
+              "media_key": "3_2080917427391803393",
+              "start": 15,
+              "url": "https://t.co/mHhLlL2gt4"
+            },
+            {
+              "display_url": "pic.x.com/mHhLlL2gt4",
+              "end": 38,
+              "expanded_url": "https://x.com/KaguraKurage/status/2080917446144528741/photo/1",
+              "media_key": "3_2080917427072929792",
+              "start": 15,
+              "url": "https://t.co/mHhLlL2gt4"
+            },
+            {
+              "display_url": "pic.x.com/mHhLlL2gt4",
+              "end": 38,
+              "expanded_url": "https://x.com/KaguraKurage/status/2080917446144528741/photo/1",
+              "media_key": "3_2080917427081375744",
+              "start": 15,
+              "url": "https://t.co/mHhLlL2gt4"
+            },
+            {
+              "display_url": "pic.x.com/mHhLlL2gt4",
+              "end": 38,
+              "expanded_url": "https://x.com/KaguraKurage/status/2080917446144528741/photo/1",
+              "media_key": "3_2080917427068755968",
+              "start": 15,
+              "url": "https://t.co/mHhLlL2gt4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080917446144528741",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hello quantup👋 https://t.co/mHhLlL2gt4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4830,
+          "following_count": 2683,
+          "like_count": 41028,
+          "listed_count": 18,
+          "media_count": 1585,
+          "tweet_count": 13734
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2019-01-28T17:21:38.000Z",
+        "description": "🐱: @Neko_65536 |nihao|🪼|🍟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "Neko_65536"
+              }
+            ]
+          }
+        },
+        "id": "1089936552694693889",
+        "name": "神楽くらげ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033837934999212032/QVUihXJY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 435,
+          "like_count": 42871,
+          "listed_count": 2,
+          "media_count": 437,
+          "tweet_count": 7803
+        },
+        "url": "",
+        "username": "KaguraKurage",
+        "verified": false
+      }
+    ]
+  }
+}

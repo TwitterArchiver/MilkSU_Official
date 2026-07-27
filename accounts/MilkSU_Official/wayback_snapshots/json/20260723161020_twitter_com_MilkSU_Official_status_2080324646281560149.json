@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2080324646281560149",
+    "created_at": "2026-07-23T16:10:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T17:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080324646281560149"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hir0k1sawada/s…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/hir0k1sawada/status/2080262755899392432",
+          "start": 2,
+          "url": "https://t.co/K5PLRoRlno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080324646281560149",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080262755899392432",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😭 https://t.co/K5PLRoRlno"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1349,
+        "media_key": "3_2080262745077997568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6T8efaYAAOvQA.jpg",
+        "width": 1012
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2080324646281560149",
+        "created_at": "2026-07-23T16:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080324646281560149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hir0k1sawada/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/hir0k1sawada/status/2080262755899392432",
+              "start": 2,
+              "url": "https://t.co/K5PLRoRlno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080324646281560149",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080262755899392432",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😭 https://t.co/K5PLRoRlno"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080262745077997568"
+          ]
+        },
+        "author_id": "1647782083648163840",
+        "conversation_id": "2080262755899392432",
+        "created_at": "2026-07-23T12:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080262755899392432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nZrLbxUZhl",
+              "end": 39,
+              "expanded_url": "https://x.com/hir0k1sawada/status/2080262755899392432/photo/1",
+              "media_key": "3_2080262745077997568",
+              "start": 16,
+              "url": "https://t.co/nZrLbxUZhl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080262755899392432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1423,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不要大模型了，把SRC还我😭 https://t.co/nZrLbxUZhl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4823,
+          "following_count": 2677,
+          "like_count": 40962,
+          "listed_count": 18,
+          "media_count": 1584,
+          "tweet_count": 13704
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-17T02:00:45.000Z",
+        "description": "@VectorBits | @N0ah_2_Ark  | e/acc | INTJ  | BugBounty Hunter",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "VectorBits"
+              },
+              {
+                "end": 25,
+                "start": 14,
+                "username": "N0ah_2_Ark"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hiroki-sawada.medium.com",
+                "end": 23,
+                "expanded_url": "http://hiroki-sawada.medium.com",
+                "start": 0,
+                "url": "https://t.co/GXyu0CvYBu"
+              }
+            ]
+          }
+        },
+        "id": "1647782083648163840",
+        "name": "Hirokr",
+        "pinned_tweet_id": "2066225405061980602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014265994160611328/6x1n997y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2057,
+          "following_count": 1036,
+          "like_count": 3444,
+          "listed_count": 12,
+          "media_count": 94,
+          "tweet_count": 685
+        },
+        "url": "https://t.co/GXyu0CvYBu",
+        "username": "hir0k1sawada",
+        "verified": false
+      }
+    ]
+  }
+}

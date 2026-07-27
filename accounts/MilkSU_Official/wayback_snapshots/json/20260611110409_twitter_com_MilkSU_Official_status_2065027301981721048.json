@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2065027301981721048",
+    "created_at": "2026-06-11T11:04:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T12:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065027301981721048"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maxforai/statu…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/maxforai/status/2065017307001487743",
+          "start": 28,
+          "url": "https://t.co/FF6KIAwH4t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065027301981721048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065017307001487743",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么每个人创业都要做跨境电商 做自媒体 做 AI 剧（ https://t.co/FF6KIAwH4t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 572,
+        "media_key": "3_2065017298952568832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhqSt8awAAYIoB.png",
+        "width": 794
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2065027301981721048",
+        "created_at": "2026-06-11T11:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065027301981721048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maxforai/statu…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/maxforai/status/2065017307001487743",
+              "start": 28,
+              "url": "https://t.co/FF6KIAwH4t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065027301981721048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065017307001487743",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么每个人创业都要做跨境电商 做自媒体 做 AI 剧（ https://t.co/FF6KIAwH4t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065017298952568832"
+          ]
+        },
+        "author_id": "1699797396589588480",
+        "conversation_id": "2065017307001487743",
+        "created_at": "2026-06-11T10:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T11:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065017307001487743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yGmhwnWYcL",
+              "end": 83,
+              "expanded_url": "https://x.com/MaxForAI/status/2065017307001487743/photo/1",
+              "media_key": "3_2065017298952568832",
+              "start": 60,
+              "url": "https://t.co/yGmhwnWYcL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065017307001487743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1734,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚知道阿里又裁了一波......\n\n保守35%，部分部门50%（技术）\n\n这下轮到中国互联网人感受下前两年硅谷的风暴了 https://t.co/yGmhwnWYcL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 123,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053836039312084992/TPeF1NcP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4787,
+          "following_count": 2620,
+          "like_count": 40995,
+          "listed_count": 19,
+          "media_count": 1529,
+          "tweet_count": 13294
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "本科辍学创业，没啥好看的，也就发点AI相关的内容👌\nHead of growth @lobehub\nPrev Marswave、Sapient\n同名小红书4万粉丝，公众号01Founder（长文首发）\n\n观点仅代表个人，更多请访问网站⬇️（欢迎DM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "lobehub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6feey"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "location": "Singapore",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2062538878096130207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13546,
+          "following_count": 2008,
+          "like_count": 12124,
+          "listed_count": 130,
+          "media_count": 639,
+          "tweet_count": 5208
+        },
+        "url": "https://t.co/Sl0Wv6feey",
+        "username": "MaxForAI",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2079067695707029897",
+    "created_at": "2026-07-20T04:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T05:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079067695707029897"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/milksu_officia…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/milksu_official/status/2079042738130165925",
+          "start": 45,
+          "url": "https://t.co/QIUBA8SEFH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079067695707029897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079042738130165925",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我发现了 所有能想象到的方向 都有人在做 见到十几家做 ai infra 的公司2333 https://t.co/QIUBA8SEFH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2079042725341798400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNo-V-zboAAhzlC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2079042725291462657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNo-V-nbkAEY31p.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2079042725333377024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNo-V-xbIAAaI51.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2079067695707029897",
+        "created_at": "2026-07-20T04:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079067695707029897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/milksu_officia…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/milksu_official/status/2079042738130165925",
+              "start": 45,
+              "url": "https://t.co/QIUBA8SEFH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079067695707029897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079042738130165925",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发现了 所有能想象到的方向 都有人在做 见到十几家做 ai infra 的公司2333 https://t.co/QIUBA8SEFH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079042725341798400",
+            "3_2079042725291462657",
+            "3_2079042725333377024"
+          ]
+        },
+        "author_id": "2840236608",
+        "conversation_id": "2079042738130165925",
+        "created_at": "2026-07-20T03:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079042738130165925"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 6,
+              "tag": "WAIC2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zb3P0w3z8z",
+              "end": 39,
+              "expanded_url": "https://x.com/MilkSU_Official/status/2079042738130165925/photo/1",
+              "media_key": "3_2079042725341798400",
+              "start": 16,
+              "url": "https://t.co/zb3P0w3z8z"
+            },
+            {
+              "display_url": "pic.x.com/zb3P0w3z8z",
+              "end": 39,
+              "expanded_url": "https://x.com/MilkSU_Official/status/2079042738130165925/photo/1",
+              "media_key": "3_2079042725291462657",
+              "start": 16,
+              "url": "https://t.co/zb3P0w3z8z"
+            },
+            {
+              "display_url": "pic.x.com/zb3P0w3z8z",
+              "end": 39,
+              "expanded_url": "https://x.com/MilkSU_Official/status/2079042738130165925/photo/1",
+              "media_key": "3_2079042725333377024",
+              "start": 16,
+              "url": "https://t.co/zb3P0w3z8z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079042738130165925",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 532,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "逛AI展子！#WAIC2026 https://t.co/zb3P0w3z8z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4810,
+          "following_count": 2661,
+          "like_count": 40865,
+          "listed_count": 18,
+          "media_count": 1582,
+          "tweet_count": 13667
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2054128913186738238",
+    "created_at": "2026-05-12T11:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T12:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054161554006737007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1133338656725504001",
+          "start": 0,
+          "username": "VoxcatAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054161554006737007",
+    "in_reply_to_user_id": "1133338656725504001",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054128913186738238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VoxcatAI 好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1672,
+        "media_key": "3_2054126989339246592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIG5nRMbwAAiuTB.jpg",
+        "width": 941
+      },
+      {
+        "height": 1672,
+        "media_key": "3_2054127179643170816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIG5yWIbMAA5CKk.jpg",
+        "width": 941
+      },
+      {
+        "height": 1672,
+        "media_key": "3_2054127180972802048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIG5ybFbwAAgOLD.jpg",
+        "width": 941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2054128913186738238",
+        "created_at": "2026-05-12T11:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054161554006737007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1133338656725504001",
+              "start": 0,
+              "username": "VoxcatAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054161554006737007",
+        "in_reply_to_user_id": "1133338656725504001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054128913186738238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VoxcatAI 好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054126989339246592",
+            "3_2054127179643170816",
+            "3_2054127180972802048"
+          ]
+        },
+        "author_id": "1133338656725504001",
+        "conversation_id": "2054128913186738238",
+        "created_at": "2026-05-12T09:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T10:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054128913186738238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LVV5DiukQk",
+              "end": 154,
+              "expanded_url": "https://x.com/VoxcatAI/status/2054128913186738238/photo/1",
+              "media_key": "3_2054126989339246592",
+              "start": 131,
+              "url": "https://t.co/LVV5DiukQk"
+            },
+            {
+              "display_url": "pic.x.com/LVV5DiukQk",
+              "end": 154,
+              "expanded_url": "https://x.com/VoxcatAI/status/2054128913186738238/photo/1",
+              "media_key": "3_2054127179643170816",
+              "start": 131,
+              "url": "https://t.co/LVV5DiukQk"
+            },
+            {
+              "display_url": "pic.x.com/LVV5DiukQk",
+              "end": 154,
+              "expanded_url": "https://x.com/VoxcatAI/status/2054128913186738238/photo/1",
+              "media_key": "3_2054127180972802048",
+              "start": 131,
+              "url": "https://t.co/LVV5DiukQk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054128913186738238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实只要 prompt 里的视觉逻辑对了，image2 很容易做出“反差感”。\n\n这次我试的是：\n严肃企业年报 × 儿童蜡笔涂鸦\n\n外层是极其专业的年报版式：\n留白、网格、标题层级、KPI、柱状图、增长曲线。\n内核却全部换成儿童蜡笔。\n关键不是“画得像小孩”，\n而是让资本秩序的冷静排版和童真涂鸦的失控内容发生冲突。\n\n画面一旦同时成立：\n专业版式 + 幼稚内容 + 克制色彩\n就会从普通趣味图，变成很有概念感的视觉实验。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 2295,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其实只要 prompt 里的视觉逻辑对了，image2 很容易做出“反差感”。\n\n这次我试的是：\n严肃企业年报 × 儿童蜡笔涂鸦\n\n外层是极其专业的年报版式：\n留白、网格、标题层级、KPI、柱状图、增长曲线。\n内核却全部换成儿童蜡笔。\n关键不是“画得像小孩”， https://t.co/LVV5DiukQk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Lyon, Rhône-Alpes, France",
+              "geo": {
+                "coordinates": [
+                  4.84671,
+                  45.74846
+                ],
+                "type": "Point"
+              },
+              "locality": "Lyon",
+              "region": "Rhône-Alpes",
+              "sub_region": "Département du Rhône"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Python/Go/Rust. MSCS at CU Boulder 🔜 UGA France. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 128,
+                "start": 117,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Lyon, France",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053836039312084992/TPeF1NcP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4794,
+          "following_count": 2593,
+          "like_count": 40123,
+          "listed_count": 19,
+          "media_count": 1496,
+          "tweet_count": 12993
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-28T11:46:06.000Z",
+        "description": "Generative visual creator\nPrompt-driven character aesthetics\nStyle systems & visual stylization\nNetwork ID: voxcat",
+        "id": "1133338656725504001",
+        "name": "VoxCat",
+        "pinned_tweet_id": "2045122552482431089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996055017711894528/jvmX15oV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10762,
+          "following_count": 822,
+          "like_count": 1707,
+          "listed_count": 135,
+          "media_count": 791,
+          "tweet_count": 1803
+        },
+        "username": "VoxcatAI",
+        "verified": true
+      }
+    ]
+  }
+}

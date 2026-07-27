@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2050646604479389818",
+    "created_at": "2026-05-02T18:40:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T19:40:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050646604479389818"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/milksu_officia…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/milksu_official/status/2047619669440462997",
+          "start": 60,
+          "url": "https://t.co/KiZe33HWdS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050646604479389818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047619669440462997",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在我有个更宏大有趣的计划xxx\n\n虽然意味着更可能难产跳票\n\n但是ADHD的大脑面对枯燥的东西会降低到0.1mW一下 https://t.co/KiZe33HWdS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2050646604479389818",
+        "created_at": "2026-05-02T18:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T19:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050646604479389818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/milksu_officia…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/milksu_official/status/2047619669440462997",
+              "start": 60,
+              "url": "https://t.co/KiZe33HWdS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050646604479389818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047619669440462997",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在我有个更宏大有趣的计划xxx\n\n虽然意味着更可能难产跳票\n\n但是ADHD的大脑面对枯燥的东西会降低到0.1mW一下 https://t.co/KiZe33HWdS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2047619669440462997",
+        "created_at": "2026-04-24T10:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047619669440462997"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047619669440462997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1132,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想把推友们做成卡牌游戏或者RPG游戏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Lyon, Rhône-Alpes, France",
+              "geo": {
+                "coordinates": [
+                  4.84671,
+                  45.74846
+                ],
+                "type": "Point"
+              },
+              "locality": "Lyon",
+              "region": "Rhône-Alpes",
+              "sub_region": "Département du Rhône"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Python/Go/Rust. MSCS at CU Boulder 🔜 UGA France. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 128,
+                "start": 117,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Lyon, France",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025718358868631552/yzEh8Qr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4792,
+          "following_count": 2575,
+          "like_count": 39453,
+          "listed_count": 19,
+          "media_count": 1492,
+          "tweet_count": 12964
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      }
+    ]
+  }
+}

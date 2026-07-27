@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068339892212625408",
+        "3_2068339892246192128"
+      ]
+    },
+    "author_id": "2840236608",
+    "conversation_id": "2068339913012269329",
+    "created_at": "2026-06-20T14:27:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T15:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068339913012269329"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3fh0oUmnSA",
+          "end": 45,
+          "expanded_url": "https://x.com/MilkSU_Official/status/2068339913012269329/photo/1",
+          "media_key": "3_2068339892212625408",
+          "start": 22,
+          "url": "https://t.co/3fh0oUmnSA"
+        },
+        {
+          "display_url": "pic.x.com/3fh0oUmnSA",
+          "end": 45,
+          "expanded_url": "https://x.com/MilkSU_Official/status/2068339913012269329/photo/1",
+          "media_key": "3_2068339892246192128",
+          "start": 22,
+          "url": "https://t.co/3fh0oUmnSA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068339913012269329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "旺角这的机厅 20 几台舞萌 不赖 www https://t.co/3fh0oUmnSA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068339892212625408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQ4LGYacAAuZUF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2068339892246192128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQ4LGgaoAA0YoE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068339892212625408",
+            "3_2068339892246192128"
+          ]
+        },
+        "author_id": "2840236608",
+        "conversation_id": "2068339913012269329",
+        "created_at": "2026-06-20T14:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068339913012269329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3fh0oUmnSA",
+              "end": 45,
+              "expanded_url": "https://x.com/MilkSU_Official/status/2068339913012269329/photo/1",
+              "media_key": "3_2068339892212625408",
+              "start": 22,
+              "url": "https://t.co/3fh0oUmnSA"
+            },
+            {
+              "display_url": "pic.x.com/3fh0oUmnSA",
+              "end": 45,
+              "expanded_url": "https://x.com/MilkSU_Official/status/2068339913012269329/photo/1",
+              "media_key": "3_2068339892246192128",
+              "start": 22,
+              "url": "https://t.co/3fh0oUmnSA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068339913012269329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "旺角这的机厅 20 几台舞萌 不赖 www https://t.co/3fh0oUmnSA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 123,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053836039312084992/TPeF1NcP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4793,
+          "following_count": 2630,
+          "like_count": 41216,
+          "listed_count": 18,
+          "media_count": 1541,
+          "tweet_count": 13370
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      }
+    ]
+  }
+}

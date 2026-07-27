@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2060268445728665672",
+    "created_at": "2026-06-06T04:13:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T05:13:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063111907155001647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1773736995405385730",
+          "start": 0,
+          "username": "HJS_2403_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063111907155001647",
+    "in_reply_to_user_id": "1773736995405385730",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062987865337012426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HJS_2403_1 嗷"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2062987865337012426].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2062987865337012426",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2062987865337012426"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2060268445728665672",
+        "created_at": "2026-06-06T04:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063111907155001647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1773736995405385730",
+              "start": 0,
+              "username": "HJS_2403_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063111907155001647",
+        "in_reply_to_user_id": "1773736995405385730",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062987865337012426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HJS_2403_1 嗷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 123,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053836039312084992/TPeF1NcP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4785,
+          "following_count": 2618,
+          "like_count": 40853,
+          "listed_count": 18,
+          "media_count": 1523,
+          "tweet_count": 13234
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-29T15:41:16.000Z",
+        "description": "INFP🦋  | 「病み垢」| 治りたければ - 私はもっと良くなる. . . | \n｜繁體中文 日本語 |  !\n 🦴自傷注意  薬物過剰注意 💊!  | \n  |  日常向 ❤️‍🩹  @HJS_2403_0  | 「裏垢」\n討厭我請屏蔽不要擧報我 不然我會自殺纏上你 ^-^  ✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 95,
+                "username": "HJS_2403_0"
+              }
+            ]
+          }
+        },
+        "id": "1773736995405385730",
+        "location": "૮꒰ ˶• ༝ •˶꒱ა✧幽冥の猫小屋 .｡.:*☆",
+        "name": "➳ ☽Χρυσόνο × Rosmarinus☪︎⋆",
+        "pinned_tweet_id": "1991775000236552456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773747414534647808/VP6O5HXn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 23,
+          "like_count": 561,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 191
+        },
+        "username": "HJS_2403_1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2061385388447740034",
+    "created_at": "2026-06-02T02:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T03:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061634639207514479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "7755562",
+          "start": 0,
+          "username": "blackanger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061634639207514479",
+    "in_reply_to_user_id": "7755562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061385388447740034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blackanger 这对吗 我感觉身边没有不用的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2061385388447740034",
+        "created_at": "2026-06-02T02:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061634639207514479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "7755562",
+              "start": 0,
+              "username": "blackanger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061634639207514479",
+        "in_reply_to_user_id": "7755562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061385388447740034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackanger 这对吗 我感觉身边没有不用的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "7755562",
+        "conversation_id": "2061385388447740034",
+        "created_at": "2026-06-01T09:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061385388447740034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LunaAI519/stat…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/LunaAI519/status/2061091942931595471",
+              "start": 45,
+              "url": "https://t.co/1G4Ktfm0hN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061385388447740034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 90797,
+          "like_count": 92,
+          "quote_count": 7,
+          "reply_count": 102,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061091942931595471",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天看到一个数据，说 cc/codex 国内使用的人可能不到 2000 人，看来是真的啊 https://t.co/1G4Ktfm0hN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 123,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053836039312084992/TPeF1NcP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4786,
+          "following_count": 2623,
+          "like_count": 40770,
+          "listed_count": 18,
+          "media_count": 1521,
+          "tweet_count": 13194
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2007-07-27T07:35:57.000Z",
+        "description": "System in Rust, Application in AI.\nSlow down. Have fun. Live well.\nINTJ-A. No ism.\nLifelong Programmer and  Writer.\nStudy in Public, Building in Public.\n\n🦀 保命",
+        "id": "7755562",
+        "location": "China",
+        "name": "AlexZ 🦀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588061971714256896/Rwi_kcm7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19564,
+          "following_count": 1613,
+          "like_count": 31864,
+          "listed_count": 314,
+          "media_count": 3121,
+          "tweet_count": 27353
+        },
+        "username": "blackanger",
+        "verified": true
+      }
+    ]
+  }
+}

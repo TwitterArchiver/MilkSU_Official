@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2057389221321863550",
+    "created_at": "2026-05-21T09:13:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T10:13:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057389221321863550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1365020011123773442",
+          "start": 3,
+          "username": "Teknium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057389221321863550",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057286388299841860",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Teknium: Anthropic's terrible safety situation is making it so that I cannot have Opus review p0 issues in Hermes Agent to review and h…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2057389221321863550",
+        "created_at": "2026-05-21T09:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057389221321863550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1365020011123773442",
+              "start": 3,
+              "username": "Teknium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057389221321863550",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057286388299841860",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Teknium: Anthropic's terrible safety situation is making it so that I cannot have Opus review p0 issues in Hermes Agent to review and h…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1365020011123773442",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Privacy",
+              "id": "1088443224425807872",
+              "name": "Information Privacy Worldwide"
+            }
+          }
+        ],
+        "conversation_id": "2057286388299841860",
+        "created_at": "2026-05-21T02:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T03:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057286388299841860"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057286388299841860",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Anthropic's terrible safety situation is making it so that I cannot have Opus review p0 issues in Hermes Agent to review and help fix security issues.\n\nThis does nothing but give hackers an asymmetric advantage over everyone - they will find jailbreaks, they will find ways around this to exploit systems - and the rest of us are locked out of using AI to protect from them.\n\nWhat a joke"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 176194,
+          "like_count": 839,
+          "quote_count": 15,
+          "reply_count": 70,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "Anthropic's terrible safety situation is making it so that I cannot have Opus review p0 issues in Hermes Agent to review and help fix security issues.\n\nThis does nothing but give hackers an asymmetric advantage over everyone - they will find jailbreaks, they will find ways around"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 104,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053836039312084992/TPeF1NcP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4803,
+          "following_count": 2605,
+          "like_count": 40439,
+          "listed_count": 19,
+          "media_count": 1508,
+          "tweet_count": 13073
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-25T19:25:11.000Z",
+        "description": "Cofounder and Lead Engineer - Hermes Agent @NousResearch, prev @StabilityAI\nGithub: https://t.co/LZwHTUFwPq\nHuggingFace: https://t.co/sN2FFU8PVE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "NousResearch"
+              },
+              {
+                "end": 75,
+                "start": 63,
+                "username": "StabilityAI"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/teknium1",
+                "end": 107,
+                "expanded_url": "http://github.com/teknium1",
+                "start": 84,
+                "url": "https://t.co/LZwHTUFwPq"
+              },
+              {
+                "display_url": "huggingface.co/teknium",
+                "end": 144,
+                "expanded_url": "http://huggingface.co/teknium",
+                "start": 121,
+                "url": "https://t.co/sN2FFU8PVE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sponsors/tekni…",
+                "end": 23,
+                "expanded_url": "http://github.com/sponsors/teknium1",
+                "start": 0,
+                "url": "https://t.co/7DnNfZEOPh"
+              }
+            ]
+          }
+        },
+        "id": "1365020011123773442",
+        "location": "USA",
+        "name": "Teknium 🪽",
+        "pinned_tweet_id": "2026760653743206502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642401912648777728/2KFikPsE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88697,
+          "following_count": 6071,
+          "like_count": 168719,
+          "listed_count": 1647,
+          "media_count": 3174,
+          "tweet_count": 61816
+        },
+        "url": "https://t.co/7DnNfZEOPh",
+        "username": "Teknium",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2067094962249126272",
+    "created_at": "2026-06-17T06:05:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T07:05:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067126466786324759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1111541486200356864",
+          "start": 0,
+          "username": "M4A1_SSS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067126466786324759",
+    "in_reply_to_user_id": "1111541486200356864",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067112022094090253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@M4A1_SSS 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2067094962249126272",
+        "created_at": "2026-06-17T06:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T07:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067126466786324759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1111541486200356864",
+              "start": 0,
+              "username": "M4A1_SSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067126466786324759",
+        "in_reply_to_user_id": "1111541486200356864",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067112022094090253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@M4A1_SSS 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1111541486200356864",
+        "conversation_id": "2067094962249126272",
+        "created_at": "2026-06-17T05:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T06:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067112022094090253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2840236608",
+              "start": 0,
+              "username": "MilkSU_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067112022094090253",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067094962249126272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MilkSU_Official 没有，还是决定去码头整点薯条了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 123,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053836039312084992/TPeF1NcP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4783,
+          "following_count": 2625,
+          "like_count": 41101,
+          "listed_count": 18,
+          "media_count": 1535,
+          "tweet_count": 13326
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-29T08:11:56.000Z",
+        "description": "INFP | CTFer | Gamer especially @PlayOverwatch Pilled | ⚽ fans | No condescension🚫 | feel free to DM, I’d like to chat with different people",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 32,
+                "username": "PlayOverwatch"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/notepadxx",
+                "end": 23,
+                "expanded_url": "https://t.me/notepadxx",
+                "start": 0,
+                "url": "https://t.co/3VEdYpG5Te"
+              }
+            ]
+          }
+        },
+        "id": "1111541486200356864",
+        "location": "M78",
+        "name": "Jack1e",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055586995448303616/VW_ewO2b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 777,
+          "like_count": 9240,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 1041
+        },
+        "url": "https://t.co/3VEdYpG5Te",
+        "username": "M4A1_SSS",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2075867109045989665",
+    "created_at": "2026-07-11T11:34:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T12:34:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075906635349066202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1701474166392905729",
+          "start": 0,
+          "username": "NanaNana_os"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075906635349066202",
+    "in_reply_to_user_id": "1701474166392905729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075867109045989665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NanaNana_os 好厉害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2075867109045989665",
+        "created_at": "2026-07-11T11:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075906635349066202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1701474166392905729",
+              "start": 0,
+              "username": "NanaNana_os"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075906635349066202",
+        "in_reply_to_user_id": "1701474166392905729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075867109045989665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanaNana_os 好厉害"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701474166392905729",
+        "conversation_id": "2075867109045989665",
+        "created_at": "2026-07-11T08:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075867109045989665"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075867109045989665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "ADHD的激越/易怒通常是frustrative non-reward，挫折性非奖赏（就是本来觉得要被奖励但是没发生）\nADHD除了一般而言的两种典型症状（注意力集中困难，多动）还有一系列症状比如不耐挫，等待困难，情绪恢复慢，打断后烦躁等等，而这些很可能都和“挫折性非奖赏”有关联，并且ADHD相比要更容易触发一些（x\n而且 在动物身上也都有类似的机制...... 最近有几个实验室发了相关的论文（毕竟做实验方便w）\n\n然后也许通过这个机制 可以研究出一些可以让ADHD减少学习痛苦的行为/药物疗法...?或者说很多关于ADHD的工具其实就是建立在这个基础上的（？\n比如把一块任务/时间切的特别碎 让每一个反馈都很小很可以确认很“不容易出错”......番茄种也许对于adhd还是太僵硬了一点\n以及我怀疑可乐定是降低ADHD激越以及这种反应来增加效率的 嗯 α2A 激动剂"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 197,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ADHD的激越/易怒通常是frustrative non-reward，挫折性非奖赏（就是本来觉得要被奖励但是没发生）\nADHD除了一般而言的两种典型症状（注意力集中困难，多动）还有一系列症状比如不耐挫，等待困难，情绪恢复慢，打断后烦躁等等，而这些很可能都和“挫折性非奖赏”有关联，并且ADHD相比要更容易触发一些（x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 127,
+                "start": 116,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4809,
+          "following_count": 2659,
+          "like_count": 40640,
+          "listed_count": 18,
+          "media_count": 1572,
+          "tweet_count": 13587
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-12T05:54:01.000Z",
+        "description": "enby｜🎐@yuwilmeaning｜❤️‍🩹@_sharkee1024 ｜Sensing - BME-Neuroimaging｜Beijing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "yuwilmeaning"
+              },
+              {
+                "end": 37,
+                "start": 24,
+                "username": "_sharkee1024"
+              }
+            ]
+          }
+        },
+        "id": "1701474166392905729",
+        "location": "DLPFC",
+        "name": "7Na7Na",
+        "pinned_tweet_id": "2072350960362606902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947780376044425216/KXTmmUpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 734,
+          "like_count": 29617,
+          "listed_count": 1,
+          "media_count": 455,
+          "tweet_count": 3725
+        },
+        "url": "",
+        "username": "NanaNana_os",
+        "verified": true
+      }
+    ]
+  }
+}

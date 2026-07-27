@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2071433078099357953",
+    "created_at": "2026-06-29T05:19:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T06:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071463663249326113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1672585826633658372",
+          "start": 0,
+          "username": "HaisenMinoki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071463663249326113",
+    "in_reply_to_user_id": "1672585826633658372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071433078099357953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaisenMinoki 有感觉了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6355,
+        "height": 720,
+        "media_key": "13_2071432981223448576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071432981223448576/img/1k13R1Wwh1ZCtyVQ.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071432981223448576/vid/avc1/480x270/gUyybJpesQ5su2Vk.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071432981223448576/vid/avc1/640x360/CGILj3ma0De4AvwR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071432981223448576/vid/avc1/1280x720/N-AzB00_NZjEzagS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071432981223448576/pl/ljAjhxT8yWqqGOKT.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 14366,
+        "height": 720,
+        "media_key": "13_2071432981206724608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071432981206724608/img/TV4LOmzOh1DfjDzi.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071432981206724608/vid/avc1/480x270/JqngQPHNccVKklVG.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071432981206724608/vid/avc1/640x360/r2LJcCy_KTURyPyy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071432981206724608/vid/avc1/1280x720/tAnCYVvXkliqkJG2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071432981206724608/pl/sN__wLxACKhUX_bC.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 11948,
+        "height": 720,
+        "media_key": "13_2071432981231865856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071432981231865856/img/JZ8bZjxxPPPm5qY9.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071432981231865856/vid/avc1/480x270/9X8Sp24n9I2_0mGx.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071432981231865856/vid/avc1/640x360/knmebbSG09F47i1i.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071432981231865856/vid/avc1/1280x720/gcS5GrKVkpZo5UjN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071432981231865856/pl/1bGHdNiMJfV4DEuK.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 300,
+        "media_key": "3_2071432981202477056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL81UkyaIAA0q8h.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2071433078099357953",
+        "created_at": "2026-06-29T05:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T06:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071463663249326113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1672585826633658372",
+              "start": 0,
+              "username": "HaisenMinoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071463663249326113",
+        "in_reply_to_user_id": "1672585826633658372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071433078099357953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaisenMinoki 有感觉了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071432981223448576",
+            "13_2071432981206724608",
+            "13_2071432981231865856",
+            "3_2071432981202477056"
+          ]
+        },
+        "author_id": "1672585826633658372",
+        "conversation_id": "2071433078099357953",
+        "created_at": "2026-06-29T03:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T04:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071433078099357953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fiv6jYx3DC",
+              "end": 28,
+              "expanded_url": "https://x.com/HaisenMinoki/status/2071433078099357953/video/1",
+              "media_key": "13_2071432981223448576",
+              "start": 5,
+              "url": "https://t.co/fiv6jYx3DC"
+            },
+            {
+              "display_url": "pic.x.com/fiv6jYx3DC",
+              "end": 28,
+              "expanded_url": "https://x.com/HaisenMinoki/status/2071433078099357953/video/1",
+              "media_key": "13_2071432981206724608",
+              "start": 5,
+              "url": "https://t.co/fiv6jYx3DC"
+            },
+            {
+              "display_url": "pic.x.com/fiv6jYx3DC",
+              "end": 28,
+              "expanded_url": "https://x.com/HaisenMinoki/status/2071433078099357953/video/1",
+              "media_key": "13_2071432981231865856",
+              "start": 5,
+              "url": "https://t.co/fiv6jYx3DC"
+            },
+            {
+              "display_url": "pic.x.com/fiv6jYx3DC",
+              "end": 28,
+              "expanded_url": "https://x.com/HaisenMinoki/status/2071433078099357953/video/1",
+              "media_key": "3_2071432981202477056",
+              "start": 5,
+              "url": "https://t.co/fiv6jYx3DC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071433078099357953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有感觉吗 https://t.co/fiv6jYx3DC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 127,
+                "start": 116,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070740806483546112/Kjr6h7KF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4802,
+          "following_count": 2638,
+          "like_count": 40362,
+          "listed_count": 18,
+          "media_count": 1558,
+          "tweet_count": 13437
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-24T12:42:45.000Z",
+        "description": "喜欢初音未来，大好きミク\n我宝宝@index_ourFusion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "index_ourFusion"
+              }
+            ]
+          }
+        },
+        "id": "1672585826633658372",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "裴川巳泷",
+        "pinned_tweet_id": "2058184639924281349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060758405615415296/fsEBwLXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 706,
+          "like_count": 1491,
+          "listed_count": 2,
+          "media_count": 290,
+          "tweet_count": 3958
+        },
+        "url": "",
+        "username": "HaisenMinoki",
+        "verified": false
+      }
+    ]
+  }
+}

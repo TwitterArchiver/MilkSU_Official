@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "2070814463889227947",
+    "created_at": "2026-06-27T10:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T11:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070814463889227947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "15339596",
+          "start": 3,
+          "username": "nihui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070814463889227947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070762346323361806",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nihui: zimage-ncnn 不止能文生图了，LanPaint 修图和 ControlNet 控图也来了！\n不需要 Python 不需要 PyTorch\n不需要 diffusers 不需要 CUDA\n只依赖 C++ 和 ncnn，纯本地离线\nVulkan 能跑，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 941,
+        "media_key": "3_2070762340832985088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzTYKubQAAZgwM.jpg",
+        "width": 1672
+      },
+      {
+        "height": 1676,
+        "media_key": "3_2070762343576064000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzTYU8bUAA_JP0.jpg",
+        "width": 999
+      },
+      {
+        "height": 1827,
+        "media_key": "3_2070762341600542720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzTYNlbQAAWgI4.jpg",
+        "width": 991
+      },
+      {
+        "height": 2011,
+        "media_key": "3_2070762341608919040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzTYNnbEAAeH-m.jpg",
+        "width": 1003
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2070814463889227947",
+        "created_at": "2026-06-27T10:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070814463889227947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "15339596",
+              "start": 3,
+              "username": "nihui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070814463889227947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070762346323361806",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nihui: zimage-ncnn 不止能文生图了，LanPaint 修图和 ControlNet 控图也来了！\n不需要 Python 不需要 PyTorch\n不需要 diffusers 不需要 CUDA\n只依赖 C++ 和 ncnn，纯本地离线\nVulkan 能跑，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070762340832985088",
+            "3_2070762343576064000",
+            "3_2070762341600542720",
+            "3_2070762341608919040"
+          ]
+        },
+        "author_id": "15339596",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "2070762346323361806",
+        "created_at": "2026-06-27T06:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070762346323361806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "zhuanlan.zhihu.com/p/205388271992…",
+              "end": 159,
+              "expanded_url": "https://zhuanlan.zhihu.com/p/2053882719927530196",
+              "start": 136,
+              "unwound_url": "https://zhuanlan.zhihu.com/p/2053882719927530196",
+              "url": "https://t.co/AsMyLNAoJw"
+            },
+            {
+              "description": "ncnn implementation of Z-Image image generater. Contribute to nihui/zimage-ncnn-vulkan development by creating an account on GitHub.",
+              "display_url": "github.com/nihui/zimage-n…",
+              "end": 183,
+              "expanded_url": "https://github.com/nihui/zimage-ncnn-vulkan",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2070762413071511552/OmFU6UrL?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2070762413071511552/OmFU6UrL?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 160,
+              "status": 200,
+              "title": "GitHub - nihui/zimage-ncnn-vulkan: ncnn implementation of Z-Image image generater",
+              "unwound_url": "https://github.com/nihui/zimage-ncnn-vulkan",
+              "url": "https://t.co/JBwvNmg6RD"
+            },
+            {
+              "display_url": "pic.x.com/LiK3Z8ghrD",
+              "end": 207,
+              "expanded_url": "https://x.com/nihui/status/2070762346323361806/photo/1",
+              "media_key": "3_2070762340832985088",
+              "start": 184,
+              "url": "https://t.co/LiK3Z8ghrD"
+            },
+            {
+              "display_url": "pic.x.com/LiK3Z8ghrD",
+              "end": 207,
+              "expanded_url": "https://x.com/nihui/status/2070762346323361806/photo/1",
+              "media_key": "3_2070762343576064000",
+              "start": 184,
+              "url": "https://t.co/LiK3Z8ghrD"
+            },
+            {
+              "display_url": "pic.x.com/LiK3Z8ghrD",
+              "end": 207,
+              "expanded_url": "https://x.com/nihui/status/2070762346323361806/photo/1",
+              "media_key": "3_2070762341600542720",
+              "start": 184,
+              "url": "https://t.co/LiK3Z8ghrD"
+            },
+            {
+              "display_url": "pic.x.com/LiK3Z8ghrD",
+              "end": 207,
+              "expanded_url": "https://x.com/nihui/status/2070762346323361806/photo/1",
+              "media_key": "3_2070762341608919040",
+              "start": 184,
+              "url": "https://t.co/LiK3Z8ghrD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070762346323361806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 2311,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "zimage-ncnn 不止能文生图了，LanPaint 修图和 ControlNet 控图也来了！\n不需要 Python 不需要 PyTorch\n不需要 diffusers 不需要 CUDA\n只依赖 C++ 和 ncnn，纯本地离线\nVulkan 能跑，CPU 也能跑\nhttps://t.co/AsMyLNAoJw\nhttps://t.co/JBwvNmg6RD https://t.co/LiK3Z8ghrD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 127,
+                "start": 116,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070740806483546112/Kjr6h7KF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4800,
+          "following_count": 2639,
+          "like_count": 40321,
+          "listed_count": 18,
+          "media_count": 1555,
+          "tweet_count": 13419
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2008-07-07T06:56:13.000Z",
+        "description": "春雨为观，香月为邻 | 喜欢玩游戏时看风景 | 想成为优秀的程序员 | 看上去是女装大佬实际并不是（ | 上海老阿姨 | qwqwqwq",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/nihui",
+                "end": 23,
+                "expanded_url": "https://github.com/nihui",
+                "start": 0,
+                "url": "https://t.co/iyObHraRrK"
+              }
+            ]
+          }
+        },
+        "id": "15339596",
+        "location": "Shanghai",
+        "name": "nihui",
+        "pinned_tweet_id": "1298862529750249472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1081943284312727557/uQup2iDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43603,
+          "following_count": 933,
+          "like_count": 12117,
+          "listed_count": 133,
+          "media_count": 1172,
+          "tweet_count": 6139
+        },
+        "url": "https://t.co/iyObHraRrK",
+        "username": "nihui",
+        "verified": false
+      }
+    ]
+  }
+}

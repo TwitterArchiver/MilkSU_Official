@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2047543018882998488",
+    "created_at": "2026-04-24T05:07:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T06:07:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047543018882998488"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/milksu_officia…",
+          "end": 121,
+          "expanded_url": "https://twitter.com/milksu_official/status/2047540525126046199",
+          "start": 98,
+          "url": "https://t.co/Kz3KUy25Ml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047543018882998488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047540525126046199",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "行 不是 sota 模型的问题 是 Claude 的问题\n\n现在我觉得游戏攻略领域 grok 完爆 Claude\n\n下个月拜拜了退订 Claude\n\n改用 grok 做日常聊天  gpt 写代码 https://t.co/Kz3KUy25Ml"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047540504288808960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpTPYVb0AAUbts.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047540504255234048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpTPYNbgAAhfHU.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047540504259387392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpTPYOa4AAV3Ee.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047540504288763904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpTPYVbIAAGeFj.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2047543018882998488",
+        "created_at": "2026-04-24T05:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047543018882998488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/milksu_officia…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/milksu_official/status/2047540525126046199",
+              "start": 98,
+              "url": "https://t.co/Kz3KUy25Ml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047543018882998488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047540525126046199",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "行 不是 sota 模型的问题 是 Claude 的问题\n\n现在我觉得游戏攻略领域 grok 完爆 Claude\n\n下个月拜拜了退订 Claude\n\n改用 grok 做日常聊天  gpt 写代码 https://t.co/Kz3KUy25Ml"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047540504288808960",
+            "3_2047540504255234048",
+            "3_2047540504259387392",
+            "3_2047540504288763904"
+          ]
+        },
+        "author_id": "2840236608",
+        "conversation_id": "2047540525126046199",
+        "created_at": "2026-04-24T04:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047540525126046199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z15Zn8O9W5",
+              "end": 69,
+              "expanded_url": "https://x.com/MilkSU_Official/status/2047540525126046199/photo/1",
+              "media_key": "3_2047540504288808960",
+              "start": 46,
+              "url": "https://t.co/z15Zn8O9W5"
+            },
+            {
+              "display_url": "pic.x.com/z15Zn8O9W5",
+              "end": 69,
+              "expanded_url": "https://x.com/MilkSU_Official/status/2047540525126046199/photo/1",
+              "media_key": "3_2047540504255234048",
+              "start": 46,
+              "url": "https://t.co/z15Zn8O9W5"
+            },
+            {
+              "display_url": "pic.x.com/z15Zn8O9W5",
+              "end": 69,
+              "expanded_url": "https://x.com/MilkSU_Official/status/2047540525126046199/photo/1",
+              "media_key": "3_2047540504259387392",
+              "start": 46,
+              "url": "https://t.co/z15Zn8O9W5"
+            },
+            {
+              "display_url": "pic.x.com/z15Zn8O9W5",
+              "end": 69,
+              "expanded_url": "https://x.com/MilkSU_Official/status/2047540525126046199/photo/1",
+              "media_key": "3_2047540504288763904",
+              "start": 46,
+              "url": "https://t.co/z15Zn8O9W5"
+            },
+            {
+              "display_url": "x.com/mirujam/status…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/mirujam/status/2047537410360357240",
+              "start": 70,
+              "url": "https://t.co/ceosjHHyXy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047540525126046199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047537410360357240",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "与此同时，我：sota模型能不能争点气，在长尾知识上即使联网搜索，却依然这么自信的输出幻觉 https://t.co/z15Zn8O9W5 https://t.co/ceosjHHyXy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Lyon, Rhône-Alpes, France",
+              "geo": {
+                "coordinates": [
+                  4.84671,
+                  45.74846
+                ],
+                "type": "Point"
+              },
+              "locality": "Lyon",
+              "region": "Rhône-Alpes",
+              "sub_region": "Département du Rhône"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Python/Go/Rust. MSCS at CU Boulder 🔜 UGA France. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Lyon, France",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025718358868631552/yzEh8Qr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4627,
+          "following_count": 2473,
+          "like_count": 38355,
+          "listed_count": 19,
+          "media_count": 1486,
+          "tweet_count": 12893
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2055612038521716769",
+    "created_at": "2026-05-16T11:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T12:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055613781615710685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "829158936695623680",
+          "start": 0,
+          "username": "MiruJam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055613781615710685",
+    "in_reply_to_user_id": "829158936695623680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055612038521716769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiruJam 酱酱好厉害"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055612034792984576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcAQSnakAA97uJ.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055612035426312192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcAQU-aYAAdfSK.jpg",
+        "width": 1423
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2055612038521716769",
+        "created_at": "2026-05-16T11:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055613781615710685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "829158936695623680",
+              "start": 0,
+              "username": "MiruJam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055613781615710685",
+        "in_reply_to_user_id": "829158936695623680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055612038521716769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiruJam 酱酱好厉害"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055612034792984576",
+            "3_2055612035426312192"
+          ]
+        },
+        "author_id": "829158936695623680",
+        "conversation_id": "2055612038521716769",
+        "created_at": "2026-05-16T11:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055612038521716769"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 95,
+              "start": 86,
+              "tag": "NekoMemo"
+            },
+            {
+              "end": 100,
+              "start": 96,
+              "tag": "学习通"
+            }
+          ],
+          "urls": [
+            {
+              "description": "新增 / Added 随机测试，支持打乱题目和选项顺序 抓取页的 WebView 缩放控制功能 语言切换（Android 13+） 修复 / Fixed 修复了从题库详情页返回时，偶尔会触发导出题库 Intent 的问题。 如果网页没有标题，则不在 AppBar 显示子标题（原来是 url，url 跑到 HTML 源码页里面去了） 将输入框的占位符统一改为浮动标签 重构 / Ref...",
+              "display_url": "github.com/JamGmilk/NekoM…",
+              "end": 65,
+              "expanded_url": "https://github.com/JamGmilk/NekoMemo/releases/tag/v1.1",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2055612042678304768/EETUjxeu?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2055612042678304768/EETUjxeu?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 42,
+              "status": 200,
+              "title": "Release v1.1 · JamGmilk/NekoMemo",
+              "unwound_url": "https://github.com/JamGmilk/NekoMemo/releases/tag/v1.1",
+              "url": "https://t.co/178X7wdzIU"
+            },
+            {
+              "display_url": "pic.x.com/4HIIWBTfFW",
+              "end": 124,
+              "expanded_url": "https://x.com/MiruJam/status/2055612038521716769/photo/1",
+              "media_key": "3_2055612034792984576",
+              "start": 101,
+              "url": "https://t.co/4HIIWBTfFW"
+            },
+            {
+              "display_url": "pic.x.com/4HIIWBTfFW",
+              "end": 124,
+              "expanded_url": "https://x.com/MiruJam/status/2055612038521716769/photo/1",
+              "media_key": "3_2055612035426312192",
+              "start": 101,
+              "url": "https://t.co/4HIIWBTfFW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055612038521716769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生了新版本，原本做这个软件是想沉浸式复习的，结果大部分时间耗在改功能做优化上了（\n\nhttps://t.co/178X7wdzIU\n\n还想学数据库，下个版本会大改了（）\n\n#NekoMemo #学习通 https://t.co/4HIIWBTfFW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 104,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053836039312084992/TPeF1NcP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4799,
+          "following_count": 2595,
+          "like_count": 40301,
+          "listed_count": 19,
+          "media_count": 1501,
+          "tweet_count": 13031
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2017-02-08T02:44:30.000Z",
+        "description": "可爱果奶酱🍭丨Mirurin丨弱 ACG丨社恐丨是水月厨！🪼丨(๑`･ᴗ･´๑)",
+        "id": "829158936695623680",
+        "name": "喵喵小果酱🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664804770320875521/khZmLfRe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 515,
+          "like_count": 45465,
+          "listed_count": 2,
+          "media_count": 263,
+          "tweet_count": 2626
+        },
+        "username": "MiruJam",
+        "verified": false
+      }
+    ]
+  }
+}

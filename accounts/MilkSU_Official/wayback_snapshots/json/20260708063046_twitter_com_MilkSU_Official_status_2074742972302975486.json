@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2074693099658629468",
+    "created_at": "2026-07-08T06:30:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T07:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074742972302975486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1855842590748540928",
+          "start": 0,
+          "username": "O_J_DK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074742972302975486",
+    "in_reply_to_user_id": "1855842590748540928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074718462442979333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@O_J_DK 对，可是这种东西跟普通员工没什么关系 螺丝钉到了极致（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2074693099658629468",
+        "created_at": "2026-07-08T06:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074742972302975486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1855842590748540928",
+              "start": 0,
+              "username": "O_J_DK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074742972302975486",
+        "in_reply_to_user_id": "1855842590748540928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074718462442979333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@O_J_DK 对，可是这种东西跟普通员工没什么关系 螺丝钉到了极致（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855842590748540928",
+        "conversation_id": "2074693099658629468",
+        "created_at": "2026-07-08T04:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074718462442979333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2840236608",
+              "start": 0,
+              "username": "MilkSU_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074718462442979333",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074697208612737139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MilkSU_Official 以前听说各种链上交易追踪, 听起来好高级哒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 127,
+                "start": 116,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4808,
+          "following_count": 2644,
+          "like_count": 40559,
+          "listed_count": 18,
+          "media_count": 1571,
+          "tweet_count": 13553
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-11T05:18:56.000Z",
+        "description": "Stupid!",
+        "id": "1855842590748540928",
+        "location": "Pluto",
+        "name": "DK",
+        "pinned_tweet_id": "1928290276092596255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953360681207775233/OGGEpQRU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 225,
+          "like_count": 63,
+          "listed_count": 1,
+          "media_count": 297,
+          "tweet_count": 4877
+        },
+        "url": "",
+        "username": "O_J_DK",
+        "verified": false
+      }
+    ]
+  }
+}

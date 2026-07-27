@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044962230513639424"
+      ]
+    },
+    "author_id": "2840236608",
+    "conversation_id": "2044962237903974835",
+    "created_at": "2026-04-17T02:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T03:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044962237903974835"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UuBnuGbusU",
+          "end": 54,
+          "expanded_url": "https://x.com/MilkSU_Official/status/2044962237903974835/photo/1",
+          "media_key": "3_2044962230513639424",
+          "start": 31,
+          "url": "https://t.co/UuBnuGbusU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044962237903974835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好像我的梯子全炸了\n无论自建还是机场\n直连还是中转🥺懵... https://t.co/UuBnuGbusU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2044962230513639424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGEqUGDbIAAJVR0.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044962230513639424"
+          ]
+        },
+        "author_id": "2840236608",
+        "conversation_id": "2044962237903974835",
+        "created_at": "2026-04-17T02:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T03:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044962237903974835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UuBnuGbusU",
+              "end": 54,
+              "expanded_url": "https://x.com/MilkSU_Official/status/2044962237903974835/photo/1",
+              "media_key": "3_2044962230513639424",
+              "start": 31,
+              "url": "https://t.co/UuBnuGbusU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044962237903974835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像我的梯子全炸了\n无论自建还是机场\n直连还是中转🥺懵... https://t.co/UuBnuGbusU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "🥛🐈‍⬛🪼🍥系统 System Security Hunter. Python/Go/Rust. MSCS at CU Boulder 🔜 MAP at SUDA. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025718358868631552/yzEh8Qr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4618,
+          "following_count": 2447,
+          "like_count": 38259,
+          "listed_count": 19,
+          "media_count": 1476,
+          "tweet_count": 12832
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": false
+      }
+    ]
+  }
+}

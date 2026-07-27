@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2060188466647093278",
+    "created_at": "2026-05-29T02:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T03:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060191980010012738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1699797396589588480",
+          "start": 0,
+          "username": "MaxForAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060191980010012738",
+    "in_reply_to_user_id": "1699797396589588480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060188466647093278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaxForAI 还得吃巧乐兹跑步喝雪碧😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2060188466647093278",
+        "created_at": "2026-05-29T02:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060191980010012738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1699797396589588480",
+              "start": 0,
+              "username": "MaxForAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060191980010012738",
+        "in_reply_to_user_id": "1699797396589588480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060188466647093278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaxForAI 还得吃巧乐兹跑步喝雪碧😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699797396589588480",
+        "conversation_id": "2060188466647093278",
+        "created_at": "2026-05-29T02:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060188466647093278"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060188466647093278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "突然意识到，我这辈子可能很难成为取得成功。\n\n不是因为不够聪明，也不是因为不够努力。\n\n是因为我太需要睡觉了。\n\n很多成功人士最恐怖的地方，其实不是他们能一天工作十几个小时，而是他们好像真的能长期适应极少睡眠。\n\n每天睡三四个小时，第二天还能开会、决策、看数据、骂人、融资、上台演讲。\n\n而我不一样。\n\n我少睡两个小时，第二天连微信都不想回。\n\n世界筛选的方式，有时候朴素得令人绝望：\n\n你以为是在比野心、认知、执行力。\n\n结果第一关居然是：\n\n你能不能接受一天只睡三个小时？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然意识到，我这辈子可能很难成为取得成功。\n\n不是因为不够聪明，也不是因为不够努力。\n\n是因为我太需要睡觉了。\n\n很多成功人士最恐怖的地方，其实不是他们能一天工作十几个小时，而是他们好像真的能长期适应极少睡眠。\n\n每天睡三四个小时，第二天还能开会、决策、看数据、骂人、融资、上台演讲。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 123,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053836039312084992/TPeF1NcP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4790,
+          "following_count": 2618,
+          "like_count": 40562,
+          "listed_count": 19,
+          "media_count": 1512,
+          "tweet_count": 13119
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "没啥好看的，也就发点AI相关的内容👌\n海本辍学创业，📖Prev Marswave CMO（0-300万ARR）、美元基金SR、某知名模型团队人才负责人、AI专业媒体运营、多个百万用户AI产品经理\n小红书Max for AI（4万粉丝）\n公众号01Founder（长文首发）\n更多请访问网站⬇️（欢迎DM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6feey"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "location": "Singapore",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2005923836987154936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11541,
+          "following_count": 1769,
+          "like_count": 10193,
+          "listed_count": 111,
+          "media_count": 544,
+          "tweet_count": 4209
+        },
+        "url": "https://t.co/Sl0Wv6feey",
+        "username": "MaxForAI",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1357506193879486469",
+          "name": "Python"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2055300495351398773",
+    "created_at": "2026-05-15T15:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T16:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055311911093465190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "885874569562644481",
+          "start": 0,
+          "username": "HappyQQ_AI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055311911093465190",
+    "in_reply_to_user_id": "885874569562644481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055300495351398773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HappyQQ_AI 为什么呀 我第一门是C 第二门是Python 第三门是Java 第四门是Go"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357506193879486469",
+              "name": "Python"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2055300495351398773",
+        "created_at": "2026-05-15T15:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055311911093465190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "885874569562644481",
+              "start": 0,
+              "username": "HappyQQ_AI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055311911093465190",
+        "in_reply_to_user_id": "885874569562644481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055300495351398773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HappyQQ_AI 为什么呀 我第一门是C 第二门是Python 第三门是Java 第四门是Go"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2055300494017630208"
+          ]
+        },
+        "author_id": "885874569562644481",
+        "conversation_id": "2055300495351398773",
+        "created_at": "2026-05-15T14:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055300495351398773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055300495351398773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你想让别人不要从事程序员的工作，那么推荐他学的第一门编程语言就是RUST，90%学完就进不了程序员圈。\n我统计一下关注我的粉丝里面有多少第一门编程语言就是选RUST作为编程语言的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 104,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053836039312084992/TPeF1NcP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4794,
+          "following_count": 2594,
+          "like_count": 40277,
+          "listed_count": 19,
+          "media_count": 1500,
+          "tweet_count": 13026
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-14T14:52:10.000Z",
+        "description": "为 AI 飞速发展助力，打造 AI 相关的好用的软件平台，Just Do it ！\n专注𝗔𝗜、AI安全、软件开发、系统架构、技术战略等前沿技术领域，\n公众号：移动互联网     |    Youtube频道&微信视频号：大语言模型。\n软件内测及商务合作微信号：HappyQQ_AI  （添加时注明事由及来自X）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/HappyQQ",
+                "end": 23,
+                "expanded_url": "https://github.com/HappyQQ",
+                "start": 0,
+                "url": "https://t.co/VisJrcKuYI"
+              }
+            ]
+          }
+        },
+        "id": "885874569562644481",
+        "name": "🐉HappyQQ🌾🦜💧",
+        "pinned_tweet_id": "2050397251768578102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038916956234067968/lSe0B5lk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18877,
+          "following_count": 6003,
+          "like_count": 148608,
+          "listed_count": 122,
+          "media_count": 1757,
+          "tweet_count": 43859
+        },
+        "url": "https://t.co/VisJrcKuYI",
+        "username": "HappyQQ_AI",
+        "verified": true
+      }
+    ]
+  }
+}

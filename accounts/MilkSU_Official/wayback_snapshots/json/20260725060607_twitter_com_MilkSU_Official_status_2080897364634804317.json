@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2080714185021816907",
+    "created_at": "2026-07-25T06:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T07:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080897364634804317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1486017329662423044",
+          "start": 0,
+          "username": "mylifcc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080897364634804317",
+    "in_reply_to_user_id": "1486017329662423044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080714185021816907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mylifcc 那以后大家都自己写harness了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2080714185021816907",
+        "created_at": "2026-07-25T06:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080897364634804317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1486017329662423044",
+              "start": 0,
+              "username": "mylifcc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080897364634804317",
+        "in_reply_to_user_id": "1486017329662423044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080714185021816907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mylifcc 那以后大家都自己写harness了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486017329662423044",
+        "conversation_id": "2080714185021816907",
+        "created_at": "2026-07-24T17:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080714185021816907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/trq212/status/…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/trq212/status/2080710971228918066",
+              "start": 155,
+              "url": "https://t.co/TQtfA3v8Jb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080714185021816907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Anthropic Claude Code 团队自己把 system prompt 砍了 80%，新一代模型（Opus 5 / Fable 5）几乎没有掉点。\n\n这不是“模型变强了所以随便写”那么简单，而是他们系统性地验证了：以前很多 context engineering 的“最佳实践”，已经变成神话了。\n\n我把关键转变整理一下（也是我接下来会立刻动手改的地方）：\n\n1. 给规则 → 让模型用判断力\n\n以前我们写得很死：“默认不写注释”“永远不要写多段 docstring”“不要主动生成文档”。 现在改成：“让代码读起来像周围的代码一样——匹配它的注释密度、命名习惯和 idiom。” 原因很简单：规则一旦写死，就会和用户的临时指令、skill、CLAUDE.md 产生冲突，模型反而要花更多 token 去仲裁。新模型已经有足够判断力，过度约束只是在制造噪音。\n\n2. 给例子 → 设计好接口\n以前 tool 的使用说明堆例子。现在他们发现例子反而会把模型的探索空间锁死。 更好的做法是把工具接口设计得更有表达力（比如 Todo 的 status 直接用 enum + 明确“同时只能有一个 in_progress”的约束）。接口本身就在暗示正确用法。\n\n3. 全部塞进 system prompt → 渐进披露（Progressive Disclosure）\n以前把 code review、验证流程全塞进 system prompt。 现在拆成 skill，需要的时候再加载。工具也支持 deferred loading（先 ToolSearch 再加载完整定义）。 CLAUDE.md 和 Skill.md 也一样——别再试图做成“中央知识库”，做成可按需加载的树状结构。\n\n4. 反复强调 → 工具描述写清楚就行\n旧模型对位置敏感，需要在 system prompt 和 tool description 里重复。现在直接删掉重复，把指令放在 tool description 里。\n\n5. 手动往 CLAUDE.md 写 memory → 自动 memory\n热键存 memory 的时代基本结束了。Claude 会自己判断哪些信息值得跨 session 记住。\n\n6. 简单 markdown 规格 → 丰富引用\nplan 和 spec 不再只是 markdown。HTML artifacts、真实代码（测试套件、另一个 codebase 里的函数）、rubric（用来验证“什么是好的 API 设计”的动态评估）都比纯文字描述强得多。代码本身就是最高保真的指令。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 9746,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080710971228918066",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Anthropic Claude Code 团队自己把 system prompt 砍了 80%，新一代模型（Opus 5 / Fable 5）几乎没有掉点。\n\n这不是“模型变强了所以随便写”那么简单，而是他们系统性地验证了：以前很多 context engineering 的“最佳实践”，已经变成神话了。 https://t.co/TQtfA3v8Jb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4829,
+          "following_count": 2683,
+          "like_count": 41002,
+          "listed_count": 18,
+          "media_count": 1585,
+          "tweet_count": 13726
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-25T16:45:32.000Z",
+        "description": "每天用 AI 写代码的工程师\nClaude Code ｜ Codex深度用户  ｜Agentic engineering\n在这里分享 AI 工具实测和开发者工作流",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/majiayu000",
+                "end": 23,
+                "expanded_url": "https://github.com/majiayu000",
+                "start": 0,
+                "url": "https://t.co/ufi5xkagnA"
+              }
+            ]
+          }
+        },
+        "id": "1486017329662423044",
+        "name": "lifcc",
+        "pinned_tweet_id": "2053385535658533072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034239213487681536/2gjQXlXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4657,
+          "following_count": 256,
+          "like_count": 5338,
+          "listed_count": 47,
+          "media_count": 734,
+          "tweet_count": 9099
+        },
+        "url": "https://t.co/ufi5xkagnA",
+        "username": "mylifcc",
+        "verified": true
+      }
+    ]
+  }
+}

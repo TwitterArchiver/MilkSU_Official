@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2068562062226391223",
+    "created_at": "2026-06-21T05:25:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T06:25:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068566072979255521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1560671619218960384",
+          "start": 0,
+          "username": "silsrc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068566072979255521",
+    "in_reply_to_user_id": "1560671619218960384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068562062226391223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@silsrc 豆包语音输入法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2068562062226391223",
+        "created_at": "2026-06-21T05:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068566072979255521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1560671619218960384",
+              "start": 0,
+              "username": "silsrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068566072979255521",
+        "in_reply_to_user_id": "1560671619218960384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068562062226391223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silsrc 豆包语音输入法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560671619218960384",
+        "conversation_id": "2068562062226391223",
+        "created_at": "2026-06-21T05:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068562062226391223"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068562062226391223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给家里人开了GPT，Gemini，Claude各种会员，最后使用率最高的居然是免费的豆包，其他App都没打开过几次…\n因为其他几家的中文语音识别和发音都完全属于被豆包全方面碾压的状态…\n只是豆包基础能力太差了点，我就想能不能用豆包的语音套到别的基础模型上或者豆包有没有办法提升一下基础能力…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 123,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053836039312084992/TPeF1NcP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4793,
+          "following_count": 2629,
+          "like_count": 41227,
+          "listed_count": 18,
+          "media_count": 1544,
+          "tweet_count": 13379
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-19T16:55:06.000Z",
+        "description": "开源爱好，万能工程师（存疑），现代魔法老中登，不擅长写代码，假装是计算机科学家，Linux Kernel Hacker。",
+        "id": "1560671619218960384",
+        "location": "Beijing",
+        "name": "scr.c",
+        "pinned_tweet_id": "1619387209844682753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728125838284189698/IGci3p0y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10461,
+          "following_count": 558,
+          "like_count": 31214,
+          "listed_count": 66,
+          "media_count": 292,
+          "tweet_count": 4156
+        },
+        "url": "",
+        "username": "silsrc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060619158124191744",
+        "3_2060619158120026112",
+        "3_2060619158132576256"
+      ]
+    },
+    "author_id": "2840236608",
+    "conversation_id": "2060619168479936895",
+    "created_at": "2026-05-30T07:07:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T08:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060619168479936895"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rqSSwKEiXL",
+          "end": 25,
+          "expanded_url": "https://x.com/MilkSU_Official/status/2060619168479936895/photo/1",
+          "media_key": "3_2060619158124191744",
+          "start": 2,
+          "url": "https://t.co/rqSSwKEiXL"
+        },
+        {
+          "display_url": "pic.x.com/rqSSwKEiXL",
+          "end": 25,
+          "expanded_url": "https://x.com/MilkSU_Official/status/2060619168479936895/photo/1",
+          "media_key": "3_2060619158120026112",
+          "start": 2,
+          "url": "https://t.co/rqSSwKEiXL"
+        },
+        {
+          "display_url": "pic.x.com/rqSSwKEiXL",
+          "end": 25,
+          "expanded_url": "https://x.com/MilkSU_Official/status/2060619168479936895/photo/1",
+          "media_key": "3_2060619158132576256",
+          "start": 2,
+          "url": "https://t.co/rqSSwKEiXL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060619168479936895",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🪼 https://t.co/rqSSwKEiXL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2060619158124191744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjKNOlbYAAiLCF.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_2060619158120026112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjKNOkb0AAK8pA.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2060619158132576256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjKNOnbUAAhrLE.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060619158124191744",
+            "3_2060619158120026112",
+            "3_2060619158132576256"
+          ]
+        },
+        "author_id": "2840236608",
+        "conversation_id": "2060619168479936895",
+        "created_at": "2026-05-30T07:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060619168479936895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rqSSwKEiXL",
+              "end": 25,
+              "expanded_url": "https://x.com/MilkSU_Official/status/2060619168479936895/photo/1",
+              "media_key": "3_2060619158124191744",
+              "start": 2,
+              "url": "https://t.co/rqSSwKEiXL"
+            },
+            {
+              "display_url": "pic.x.com/rqSSwKEiXL",
+              "end": 25,
+              "expanded_url": "https://x.com/MilkSU_Official/status/2060619168479936895/photo/1",
+              "media_key": "3_2060619158120026112",
+              "start": 2,
+              "url": "https://t.co/rqSSwKEiXL"
+            },
+            {
+              "display_url": "pic.x.com/rqSSwKEiXL",
+              "end": 25,
+              "expanded_url": "https://x.com/MilkSU_Official/status/2060619168479936895/photo/1",
+              "media_key": "3_2060619158132576256",
+              "start": 2,
+              "url": "https://t.co/rqSSwKEiXL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060619168479936895",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🪼 https://t.co/rqSSwKEiXL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 123,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053836039312084992/TPeF1NcP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4795,
+          "following_count": 2623,
+          "like_count": 40647,
+          "listed_count": 19,
+          "media_count": 1519,
+          "tweet_count": 13148
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      }
+    ]
+  }
+}

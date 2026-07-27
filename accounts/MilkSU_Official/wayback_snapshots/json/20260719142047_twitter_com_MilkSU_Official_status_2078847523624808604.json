@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2078703805450121398",
+    "created_at": "2026-07-19T14:20:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T15:20:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078847523624808604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1805261700888739840",
+          "start": 0,
+          "username": "priest0223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078847523624808604",
+    "in_reply_to_user_id": "1805261700888739840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078703805450121398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@priest0223 这么强"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2078703805450121398",
+        "created_at": "2026-07-19T14:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078847523624808604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1805261700888739840",
+              "start": 0,
+              "username": "priest0223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078847523624808604",
+        "in_reply_to_user_id": "1805261700888739840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078703805450121398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@priest0223 这么强"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805261700888739840",
+        "conversation_id": "2078703805450121398",
+        "created_at": "2026-07-19T04:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T05:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078703805450121398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Architecture for bridging AI CLI agents (Claude Code, Codex) to Android phones with deep system access - rossignol6712/ai-phone-bridge",
+              "display_url": "github.com/rossignol6712/…",
+              "end": 88,
+              "expanded_url": "https://github.com/rossignol6712/ai-phone-bridge",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2078703848332693504/_KRMUHRV?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2078703848332693504/_KRMUHRV?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 65,
+              "status": 200,
+              "title": "GitHub - rossignol6712/ai-phone-bridge: Architecture for bridging AI CLI agents (Claude Code, Codex) to Android phones with deep system access",
+              "unwound_url": "https://github.com/rossignol6712/ai-phone-bridge",
+              "url": "https://t.co/WUbhFfKFWF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078703805450121398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 1627,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "第一次开源\n一套将 AI CLI agent 桥接到安卓手机的架构参考。\n( •̀ ω •́ )✧可接多cil，可自行加功能。\n\nhttps://t.co/WUbhFfKFWF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4806,
+          "following_count": 2661,
+          "like_count": 40850,
+          "listed_count": 18,
+          "media_count": 1581,
+          "tweet_count": 13662
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-24T15:28:44.000Z",
+        "description": "靠运气活下去",
+        "id": "1805261700888739840",
+        "name": "辉星",
+        "pinned_tweet_id": "1935989889004454243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073209557376245760/9Qd9pxWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 83,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 113
+        },
+        "url": "",
+        "username": "priest0223",
+        "verified": false
+      }
+    ]
+  }
+}

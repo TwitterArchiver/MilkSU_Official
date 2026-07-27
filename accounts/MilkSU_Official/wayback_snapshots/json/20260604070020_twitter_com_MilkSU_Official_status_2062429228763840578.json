@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2062118732273705287",
+    "created_at": "2026-06-04T07:00:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T08:00:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062429228763840578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2038255367990202368",
+          "start": 0,
+          "username": "pwn_bug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062429228763840578",
+    "in_reply_to_user_id": "2038255367990202368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062422059117068327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pwn_bug 诶嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2062118732273705287",
+        "created_at": "2026-06-04T07:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T08:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062429228763840578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2038255367990202368",
+              "start": 0,
+              "username": "pwn_bug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062429228763840578",
+        "in_reply_to_user_id": "2038255367990202368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062422059117068327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pwn_bug 诶嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038255367990202368",
+        "conversation_id": "2062118732273705287",
+        "created_at": "2026-06-04T06:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062422059117068327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2840236608",
+              "start": 0,
+              "username": "MilkSU_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062422059117068327",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062118732273705287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MilkSU_Official 羡慕老师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 123,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053836039312084992/TPeF1NcP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4783,
+          "following_count": 2618,
+          "like_count": 40825,
+          "listed_count": 18,
+          "media_count": 1522,
+          "tweet_count": 13222
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-29T14:02:14.000Z",
+        "description": "Security Researcher, Coder, graduate majoring in SE / CTFer, retired ACMer. / \n不讨论政治 / 反对一切封闭、固化、威权的开发生态，崇尚开放、多元化、民主的开发生态.",
+        "id": "2038255367990202368",
+        "name": "pwn_bug",
+        "pinned_tweet_id": "2060804788884033651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038255898930692098/WGizerb1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 63,
+          "like_count": 4256,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 199
+        },
+        "username": "pwn_bug",
+        "verified": false
+      }
+    ]
+  }
+}

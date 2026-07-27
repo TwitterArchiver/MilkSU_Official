@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2073759632577986843",
+    "created_at": "2026-07-06T06:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T07:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074021770831753365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2264253115",
+          "start": 0,
+          "username": "cola_net2000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074021770831753365",
+    "in_reply_to_user_id": "2264253115",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073759632577986843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cola_net2000 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2073759625279938560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMd5ZFZboAArz15.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2073759619898540033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMd5YxWaAAEpeQ_.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2073759624839430144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMd5ZDwaAAAGkX9.jpg",
+        "width": 2268
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2073759624860438528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMd5ZD1akAAu3te.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2073759632577986843",
+        "created_at": "2026-07-06T06:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T07:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074021770831753365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2264253115",
+              "start": 0,
+              "username": "cola_net2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074021770831753365",
+        "in_reply_to_user_id": "2264253115",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073759632577986843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cola_net2000 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073759625279938560",
+            "3_2073759619898540033",
+            "3_2073759624839430144",
+            "3_2073759624860438528"
+          ]
+        },
+        "author_id": "2264253115",
+        "conversation_id": "2073759632577986843",
+        "created_at": "2026-07-05T13:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073759632577986843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IBBFRPzqpf",
+              "end": 104,
+              "expanded_url": "https://x.com/cola_net2000/status/2073759632577986843/photo/1",
+              "media_key": "3_2073759625279938560",
+              "start": 81,
+              "url": "https://t.co/IBBFRPzqpf"
+            },
+            {
+              "display_url": "pic.x.com/IBBFRPzqpf",
+              "end": 104,
+              "expanded_url": "https://x.com/cola_net2000/status/2073759632577986843/photo/1",
+              "media_key": "3_2073759619898540033",
+              "start": 81,
+              "url": "https://t.co/IBBFRPzqpf"
+            },
+            {
+              "display_url": "pic.x.com/IBBFRPzqpf",
+              "end": 104,
+              "expanded_url": "https://x.com/cola_net2000/status/2073759632577986843/photo/1",
+              "media_key": "3_2073759624839430144",
+              "start": 81,
+              "url": "https://t.co/IBBFRPzqpf"
+            },
+            {
+              "display_url": "pic.x.com/IBBFRPzqpf",
+              "end": 104,
+              "expanded_url": "https://x.com/cola_net2000/status/2073759632577986843/photo/1",
+              "media_key": "3_2073759624860438528",
+              "start": 81,
+              "url": "https://t.co/IBBFRPzqpf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073759632577986843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 21428,
+          "like_count": 226,
+          "quote_count": 3,
+          "reply_count": 27,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "新机房完工www\n逐渐正规起来了（bushi\n之前的32u柜子用着太憋屈了\n这次就换上了42u大柜子\n一台6匹天花机做主空调\n两台2匹挂机接UPS电源做备用空调 https://t.co/IBBFRPzqpf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 127,
+                "start": 116,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4801,
+          "following_count": 2641,
+          "like_count": 40475,
+          "listed_count": 18,
+          "media_count": 1563,
+          "tweet_count": 13495
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-27T12:02:11.000Z",
+        "description": "是个什么都不会的家伙呢 || 有好吃的请直接给我! || 负能量溢出ing || 可能会乱说话 || 工具人cola今天被发卡了么? || 不讨论政治，不搞颜色的说 (x || 大概是个二次元技术类推主，电波对上就fo啦QWQ || 经常被白嫖设备 || 内容大概是服务器相关，网络工程？电子硬件开发！以及日常摸鱼？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "misakanet.cn",
+                "end": 23,
+                "expanded_url": "https://misakanet.cn",
+                "start": 0,
+                "url": "https://t.co/nmeKNUpT1K"
+              }
+            ]
+          }
+        },
+        "id": "2264253115",
+        "location": "Misaka Network",
+        "name": "cola整体网络",
+        "pinned_tweet_id": "1726083181814984887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1209990922605191168/ZbaAomoE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5071,
+          "following_count": 986,
+          "like_count": 23,
+          "listed_count": 32,
+          "media_count": 1030,
+          "tweet_count": 3485
+        },
+        "url": "https://t.co/nmeKNUpT1K",
+        "username": "cola_net2000",
+        "verified": false
+      }
+    ]
+  }
+}

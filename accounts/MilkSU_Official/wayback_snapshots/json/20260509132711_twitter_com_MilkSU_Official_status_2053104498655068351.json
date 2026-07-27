@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053104483253522438",
+        "3_2053104483261988868"
+      ]
+    },
+    "author_id": "2840236608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053104498655068351",
+    "created_at": "2026-05-09T13:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T14:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053104498655068351"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "If you've been redirected to this page, your Business Profile doesn't support your browser. If you’re not using the latest version of your browser, your Business Profile may not display or function pr",
+          "display_url": "business.google.com",
+          "end": 48,
+          "expanded_url": "http://business.google.com",
+          "start": 25,
+          "status": 200,
+          "title": "Update your browser to manage your Business Profile - Google Business Profile Help",
+          "unwound_url": "https://support.google.com/business/answer/3420286?visit_id=639135040012222810-2392592049&p=browser_support&rd=1",
+          "url": "https://t.co/ztkwrl3NTs"
+        },
+        {
+          "display_url": "pic.x.com/MRwm0tqjSx",
+          "end": 152,
+          "expanded_url": "https://x.com/MilkSU_Official/status/2053104498655068351/photo/1",
+          "media_key": "3_2053104483253522438",
+          "start": 129,
+          "url": "https://t.co/MRwm0tqjSx"
+        },
+        {
+          "display_url": "pic.x.com/MRwm0tqjSx",
+          "end": 152,
+          "expanded_url": "https://x.com/MilkSU_Official/status/2053104498655068351/photo/1",
+          "media_key": "3_2053104483261988868",
+          "start": 129,
+          "url": "https://t.co/MRwm0tqjSx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053104498655068351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谷歌搜索 homebrew 第一个结果链接如果是 https://t.co/ztkwrl3NTs 谷歌广告\n\n请注意是钓鱼页面，尤其是Mac上有钱包&amp;交易相关操作要小心\n\n假安装命令会弹假系统密码框，记录系统密码，并静默安装C2程序，持续读写剪贴板 https://t.co/MRwm0tqjSx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1767,
+        "media_key": "3_2053104483253522438",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4XplMWkAYk58g.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1998,
+        "media_key": "3_2053104483261988868",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4XplOXwAQWgdn.jpg",
+        "width": 1614
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053104483253522438",
+            "3_2053104483261988868"
+          ]
+        },
+        "author_id": "2840236608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053104498655068351",
+        "created_at": "2026-05-09T13:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053104498655068351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "If you've been redirected to this page, your Business Profile doesn't support your browser. If you’re not using the latest version of your browser, your Business Profile may not display or function pr",
+              "display_url": "business.google.com",
+              "end": 48,
+              "expanded_url": "http://business.google.com",
+              "start": 25,
+              "status": 200,
+              "title": "Update your browser to manage your Business Profile - Google Business Profile Help",
+              "unwound_url": "https://support.google.com/business/answer/3420286?visit_id=639135040012222810-2392592049&p=browser_support&rd=1",
+              "url": "https://t.co/ztkwrl3NTs"
+            },
+            {
+              "display_url": "pic.x.com/MRwm0tqjSx",
+              "end": 152,
+              "expanded_url": "https://x.com/MilkSU_Official/status/2053104498655068351/photo/1",
+              "media_key": "3_2053104483253522438",
+              "start": 129,
+              "url": "https://t.co/MRwm0tqjSx"
+            },
+            {
+              "display_url": "pic.x.com/MRwm0tqjSx",
+              "end": 152,
+              "expanded_url": "https://x.com/MilkSU_Official/status/2053104498655068351/photo/1",
+              "media_key": "3_2053104483261988868",
+              "start": 129,
+              "url": "https://t.co/MRwm0tqjSx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053104498655068351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谷歌搜索 homebrew 第一个结果链接如果是 https://t.co/ztkwrl3NTs 谷歌广告\n\n请注意是钓鱼页面，尤其是Mac上有钱包&amp;交易相关操作要小心\n\n假安装命令会弹假系统密码框，记录系统密码，并静默安装C2程序，持续读写剪贴板 https://t.co/MRwm0tqjSx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Lyon, Rhône-Alpes, France",
+              "geo": {
+                "coordinates": [
+                  4.84671,
+                  45.74846
+                ],
+                "type": "Point"
+              },
+              "locality": "Lyon",
+              "region": "Rhône-Alpes",
+              "sub_region": "Département du Rhône"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Python/Go/Rust. MSCS at CU Boulder 🔜 UGA France. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 128,
+                "start": 117,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Lyon, France",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025718358868631552/yzEh8Qr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4797,
+          "following_count": 2594,
+          "like_count": 39952,
+          "listed_count": 19,
+          "media_count": 1495,
+          "tweet_count": 12983
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      }
+    ]
+  }
+}

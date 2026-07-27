@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2067709939737559259",
+    "created_at": "2026-06-19T05:41:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T06:41:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067845209552273546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1699797396589588480",
+          "start": 0,
+          "username": "MaxForAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067845209552273546",
+    "in_reply_to_user_id": "1699797396589588480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067709939737559259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaxForAI 这是 Meta 员工所讨厌的那个东西吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2067709939737559259",
+        "created_at": "2026-06-19T05:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067845209552273546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1699797396589588480",
+              "start": 0,
+              "username": "MaxForAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067845209552273546",
+        "in_reply_to_user_id": "1699797396589588480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067709939737559259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaxForAI 这是 Meta 员工所讨厌的那个东西吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699797396589588480",
+        "conversation_id": "2067709939737559259",
+        "created_at": "2026-06-18T20:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T21:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067709939737559259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OpenAIDevs/sta…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/OpenAIDevs/status/2067681320281723113",
+              "start": 165,
+              "url": "https://t.co/cHXOZsNP4y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067709939737559259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Codex刚更新了一个超级牛逼的功能：Record&Replay\n\n你可以让Codex录制你的操作，比如完成特定的工作，然后Codex可以将演示的工作流程转化为可重用的Skills。\n\n它不是简单录屏重放，而是让你在 Mac 上给 Codex 演示一次工作流，然后 Codex 自动把这套流程转成一个可复用 Skill。\n\n比如报销、订停车位、创建 issue、发布视频、下载周期性报表。\n\n目前已更新到MacOS的Codex（需要计算机使用权限）\n\n我觉得这代表一个很重要的趋势：\n\nAgent 的能力获取方式，正在从写 prompt变成演示 workflow。\n\n我们小瘦猴子不再只是给模型下命令，而是在给模型做示范训练了🤣"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 15415,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067681320281723113",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Codex刚更新了一个超级牛逼的功能：Record&amp;Replay\n\n你可以让Codex录制你的操作，比如完成特定的工作，然后Codex可以将演示的工作流程转化为可重用的Skills。\n\n它不是简单录屏重放，而是让你在 Mac 上给 Codex 演示一次工作流，然后 Codex 自动把这套流程转成一个可复用 Skill。 https://t.co/cHXOZsNP4y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 123,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053836039312084992/TPeF1NcP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4790,
+          "following_count": 2630,
+          "like_count": 41189,
+          "listed_count": 18,
+          "media_count": 1540,
+          "tweet_count": 13363
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "本科辍学创业，没啥好看的，也就发点AI相关的内容🫡\nHead of growth @lobehub（78.4K🌟）\nPrev @listenhub @Sapient_Int \n同名小红书4万粉丝，公众号01Founder（长文首发）\n观点仅代表个人\n更多请访问网站⬇️（欢迎DM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "lobehub"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "listenhub"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "Sapient_Int"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6feey"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "location": "Singapore",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2062538878096130207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14462,
+          "following_count": 2111,
+          "like_count": 13031,
+          "listed_count": 139,
+          "media_count": 684,
+          "tweet_count": 5696
+        },
+        "url": "https://t.co/Sl0Wv6feey",
+        "username": "MaxForAI",
+        "verified": true
+      }
+    ]
+  }
+}

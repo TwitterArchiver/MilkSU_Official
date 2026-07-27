@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2067094787539480696",
+    "created_at": "2026-06-18T04:43:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T05:43:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067468109393584250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "368245720",
+          "start": 0,
+          "username": "taresky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067468109393584250",
+    "in_reply_to_user_id": "368245720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067094787539480696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taresky 听起来像钓鱼邮件"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2067094787539480696",
+        "created_at": "2026-06-18T04:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067468109393584250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067468109393584250",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067094787539480696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taresky 听起来像钓鱼邮件"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "368245720",
+        "conversation_id": "2067094787539480696",
+        "created_at": "2026-06-17T03:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067094787539480696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067094787539480696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 75313,
+          "like_count": 212,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "购买日本服务器，在填写了所有个人信息、信用卡之后。\n\n对方发了封邮件，说因为不可明说的原因，我的购买没有成功，让我邮件提供昨天已经填写过的信息，才表示购买意向继续。\n\nOK，让 AI 帮我查日本的法律法规，拟一封回信，引用一堆法律法规，要求对方删除我的个人信息。\n\n用日本的方法来应对。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 123,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053836039312084992/TPeF1NcP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4783,
+          "following_count": 2625,
+          "like_count": 41135,
+          "listed_count": 18,
+          "media_count": 1536,
+          "tweet_count": 13338
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2011-09-05T09:55:55.000Z",
+        "description": "💰 DeFi / 套利 | 100x | 2021~2025.6\n\n🌊 定居日本 | 2024~\n\n📨 我想捡点钱 https://t.co/6wJHAMv9zF\n\n🔗 AffHub 优惠返佣 https://t.co/gRn1X0sfU4\n\n🤖 域名出售 https://t.co/OGndi1dRKb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "s.taresky.me/telegram",
+                "end": 81,
+                "expanded_url": "https://s.taresky.me/telegram",
+                "start": 58,
+                "url": "https://t.co/6wJHAMv9zF"
+              },
+              {
+                "display_url": "s.taresky.me/aff",
+                "end": 120,
+                "expanded_url": "https://s.taresky.me/aff",
+                "start": 97,
+                "url": "https://t.co/gRn1X0sfU4"
+              },
+              {
+                "display_url": "sol.bot",
+                "end": 152,
+                "expanded_url": "http://sol.bot",
+                "start": 129,
+                "url": "https://t.co/OGndi1dRKb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "taresky.com",
+                "end": 23,
+                "expanded_url": "https://taresky.com",
+                "start": 0,
+                "url": "https://t.co/V6pzEt8zrU"
+              }
+            ]
+          }
+        },
+        "id": "368245720",
+        "name": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "pinned_tweet_id": "1700606366606565686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54699,
+          "following_count": 344,
+          "like_count": 30591,
+          "listed_count": 875,
+          "media_count": 2869,
+          "tweet_count": 32213
+        },
+        "url": "https://t.co/V6pzEt8zrU",
+        "username": "taresky",
+        "verified": true
+      }
+    ]
+  }
+}

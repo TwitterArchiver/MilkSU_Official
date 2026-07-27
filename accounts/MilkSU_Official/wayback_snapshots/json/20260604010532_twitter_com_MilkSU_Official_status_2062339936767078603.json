@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2062176327634235605",
+    "created_at": "2026-06-04T01:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T02:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062339936767078603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1552015702474625024",
+          "start": 0,
+          "username": "LinkAnUnknown"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062339936767078603",
+    "in_reply_to_user_id": "1552015702474625024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062176327634235605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LinkAnUnknown 听技术大佬讲产品吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2062176327634235605",
+        "created_at": "2026-06-04T01:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T02:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062339936767078603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552015702474625024",
+              "start": 0,
+              "username": "LinkAnUnknown"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062339936767078603",
+        "in_reply_to_user_id": "1552015702474625024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062176327634235605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LinkAnUnknown 听技术大佬讲产品吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552015702474625024",
+        "conversation_id": "2062176327634235605",
+        "created_at": "2026-06-03T14:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062176327634235605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/beefnoode/stat…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/beefnoode/status/2062138431678153192",
+              "start": 102,
+              "url": "https://t.co/WmHC6BWX4a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062176327634235605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "周末跟一个技术大佬聊了一下午\n给我最直接的反馈就是对纯vibecoding祛魅了。\n\n引用他的原话就是：“Codex和ClaudeCode本身就是产品，你想用产品去做产品，本身就是一件没有意义的事情。”\n\n当然不否认现在Vibe-Coding能快速的完成很多前端后端的事。但想要做一个长期且成熟的产品/项目，你的工程结构最重要的。做这件事就好像在建房子，从地基到建筑每个墙体、承重结构，是不能接受混乱和错误的。而ai 只能是给房子封顶那一步。\n\n举个简单的例子：\n\n英雄联盟的屎山代码是业界闻名的，萨勒芬妮这个英雄的诞生仅仅是因为琴女这个英雄是治疗的底层代码所以没法更新。\n\n所以如果想纯靠Vibe-Coding去做项目，唯一的可能就是你是一个具备顶级工程思维的设计师。\n\n你能将每一个部份，每一个结构设计的非常清楚。且在移除任何一部份都不会对其他部份造成影响。\n\n这给我的感觉就像在下围棋。你沉浸在前期看似顺利的构筑中，其实你可能在一步一步走出一坨屎一样的盘面。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 5354,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062138431678153192",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "周末跟一个技术大佬聊了一下午\n给我最直接的反馈就是对纯vibecoding祛魅了。\n\n引用他的原话就是：“Codex和ClaudeCode本身就是产品，你想用产品去做产品，本身就是一件没有意义的事情。” https://t.co/WmHC6BWX4a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 123,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053836039312084992/TPeF1NcP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4781,
+          "following_count": 2617,
+          "like_count": 40827,
+          "listed_count": 18,
+          "media_count": 1522,
+          "tweet_count": 13220
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-26T19:39:20.000Z",
+        "description": "05｜ AI Agent 研究者｜拆解代码型Agent如何使用工具｜OpenCode实验笔记｜链上废物玩家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LinkLeung",
+                "end": 23,
+                "expanded_url": "https://t.me/LinkLeung",
+                "start": 0,
+                "url": "https://t.co/7MSQRSHzBo"
+              }
+            ]
+          }
+        },
+        "id": "1552015702474625024",
+        "location": "Manchester, England",
+        "name": "Link",
+        "pinned_tweet_id": "1912845761622261896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043897150342586368/v7S5FSp8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 789,
+          "like_count": 4447,
+          "listed_count": 10,
+          "media_count": 130,
+          "tweet_count": 1651
+        },
+        "url": "https://t.co/7MSQRSHzBo",
+        "username": "LinkAnUnknown",
+        "verified": true
+      }
+    ]
+  }
+}

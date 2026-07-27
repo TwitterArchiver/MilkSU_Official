@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2055498834734952561",
+    "created_at": "2026-05-16T12:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055631314947342753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "121908437",
+          "start": 0,
+          "username": "tualatrix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055631314947342753",
+    "in_reply_to_user_id": "121908437",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055498834734952561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tualatrix 4.6 or 5.5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2055498834734952561",
+        "created_at": "2026-05-16T12:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055631314947342753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "121908437",
+              "start": 0,
+              "username": "tualatrix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055631314947342753",
+        "in_reply_to_user_id": "121908437",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055498834734952561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tualatrix 4.6 or 5.5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2055498833787060224"
+          ]
+        },
+        "author_id": "121908437",
+        "conversation_id": "2055498834734952561",
+        "created_at": "2026-05-16T04:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T05:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055498834734952561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055498834734952561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 9166,
+          "like_count": 15,
+          "quote_count": 3,
+          "reply_count": 24,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "继续做个小调查，你的主力 Coding 模型是哪个？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 104,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053836039312084992/TPeF1NcP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4799,
+          "following_count": 2595,
+          "like_count": 40309,
+          "listed_count": 19,
+          "media_count": 1501,
+          "tweet_count": 13033
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2010-03-11T00:35:59.000Z",
+        "description": "新晋奶爸，生活在杭州良渚的开发者。最近在做 https://t.co/Fu0JLSMTGF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "poptranslate.app",
+                "end": 45,
+                "expanded_url": "https://poptranslate.app",
+                "start": 22,
+                "url": "https://t.co/Fu0JLSMTGF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "imtx.me",
+                "end": 23,
+                "expanded_url": "https://imtx.me",
+                "start": 0,
+                "url": "https://t.co/NP9nPh438N"
+              }
+            ]
+          }
+        },
+        "id": "121908437",
+        "location": "Hangzhou, China",
+        "name": "图拉鼎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/675270246509350912/lV9-F5ey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109010,
+          "following_count": 1314,
+          "like_count": 24297,
+          "listed_count": 1116,
+          "media_count": 20172,
+          "tweet_count": 108083
+        },
+        "url": "https://t.co/NP9nPh438N",
+        "username": "tualatrix",
+        "verified": true
+      }
+    ]
+  }
+}
