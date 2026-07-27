@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-27T20:46:26",
+  "last_updated": "2026-07-27T20:47:36",
   "html": {
     "https://web.archive.org/web/20260416173949if_/https://twitter.com/MilkSU_Official/status/2044833152573833335": {
       "status": "done",
@@ -4393,13 +4393,13 @@
       "last_updated": "2026-07-27T16:07:35"
     },
     "https://pbs.twimg.com/media/Gt5wpO9WkAAGnQP.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260512105127_twitter_com_MilkSU_Official_status_2054152468510953519.json"
       ],
-      "last_updated": "2026-07-27T20:44:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512105127im_/https://pbs.twimg.com/media/Gt5wpO9WkAAGnQP.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff6d0488cb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-27T20:47:09",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260512105127/https://pbs.twimg.com/media/Gt5wpO9WkAAGnQP.jpg",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HIG5nRMbwAAiuTB.jpg": {
       "status": "done",
@@ -4448,9 +4448,9 @@
       "referenced_by": [
         "20260513102330_twitter_com_MilkSU_Official_status_2054507821333610865.json"
       ],
-      "last_updated": "2026-07-27T20:44:03",
+      "last_updated": "2026-07-27T20:47:13",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260513102330/https://pbs.twimg.com/media/HIMTArJagAAjQt_.jpg",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HINRstWaoAEAPHv.jpg": {
       "status": "done",
@@ -4481,13 +4481,13 @@
       "last_updated": "2026-07-27T16:07:34"
     },
     "https://pbs.twimg.com/media/HISkhfgaQAAgP9b.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260514154402_twitter_com_MilkSU_Official_status_2054950877014933709.json"
       ],
-      "last_updated": "2026-07-27T16:07:40",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260514154402/https://pbs.twimg.com/media/HISkhfgaQAAgP9b.jpg",
-      "miss_count": 1
+      "last_updated": "2026-07-27T20:47:18",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260514154402im_/https://pbs.twimg.com/media/HISkhfgaQAAgP9b.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc37c72fe90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/media/HIXOo-EawAAiiAF.jpg": {
       "status": "done",
@@ -5255,18 +5255,18 @@
       "referenced_by": [
         "20260606132532_twitter_com_MilkSU_Official_status_2063250940325724426.json"
       ],
-      "last_updated": "2026-07-27T20:44:18",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260606132532im_/https://pbs.twimg.com/media/GX-l4JgaUAI-yfq.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff6cfd59490>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-27T20:47:23",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260606132532im_/https://pbs.twimg.com/media/GX-l4JgaUAI-yfq.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc37c761c10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/GX-l4H1aUAAC9Rd.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260606132532_twitter_com_MilkSU_Official_status_2063250940325724426.json"
       ],
-      "last_updated": "2026-07-27T20:44:23",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260606132532im_/https://pbs.twimg.com/media/GX-l4H1aUAAC9Rd.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff6cfd58e60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-27T20:47:27",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260606132532im_/https://pbs.twimg.com/media/GX-l4H1aUAAC9Rd.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc37c72c830>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HKIYaD6bYAAaIPZ.jpg": {
       "status": "done",
@@ -5931,9 +5931,9 @@
       "referenced_by": [
         "20260625120039_twitter_com_MilkSU_Official_status_2070114950396494216.json"
       ],
-      "last_updated": "2026-07-27T20:44:28",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260625120039im_/https://pbs.twimg.com/media/HLqCdMcaIAArdxT.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff6cfd17050>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-27T20:47:31",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260625120039im_/https://pbs.twimg.com/media/HLqCdMcaIAArdxT.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc37c7602c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HLpRtLrbYAA_oI_.jpg": {
       "status": "done",
@@ -6123,9 +6123,9 @@
         "20260630063711_twitter_com_MilkSU_Official_status_2071845487255441592.json",
         "20260630063740_twitter_com_MilkSU_Official_status_2071845609045438855.json"
       ],
-      "last_updated": "2026-07-27T20:44:32",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260630063711im_/https://pbs.twimg.com/media/HL_rXxNawAA3Pvf.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff6cfd14aa0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-07-27T20:47:36",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260630063711im_/https://pbs.twimg.com/media/HL_rXxNawAA3Pvf.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc37c7615b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HMC_DUXWYAAzIPY.jpg": {
       "status": "done",
@@ -13759,7 +13759,7 @@
       "last_updated": "2026-07-27T16:09:00"
     },
     "20260512105127_twitter_com_MilkSU_Official_status_2054152468510953519.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/Gt5wpO9WkAAGnQP.jpg"
@@ -13771,7 +13771,7 @@
           "https://pbs.twimg.com/profile_images/2040262760144175104/Kyeycx3d_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-27T20:44:52",
+      "last_updated": "2026-07-27T20:47:09",
       "miss_count": 2
     },
     "20260512112733_twitter_com_MilkSU_Official_status_2054161554006737007.json": {
@@ -13985,7 +13985,7 @@
       "last_updated": "2026-07-27T16:09:00"
     },
     "20260514154402_twitter_com_MilkSU_Official_status_2054950877014933709.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HISkhfgaQAAgP9b.jpg"
@@ -13996,7 +13996,7 @@
           "https://pbs.twimg.com/profile_images/2052221080052674560/erKoHu5y_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-27T16:09:00"
+      "last_updated": "2026-07-27T20:47:18"
     },
     "20260515131631_twitter_com_MilkSU_Official_status_2055276139334213919.json": {
       "status": "done",
