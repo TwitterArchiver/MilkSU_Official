@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2077690891452690764",
+    "created_at": "2026-07-16T12:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T13:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077726462992588888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "21855954",
+          "start": 0,
+          "username": "CMGS1988"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077726462992588888",
+    "in_reply_to_user_id": "21855954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077690891452690764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CMGS1988 这么强"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 74668,
+        "height": 3840,
+        "media_key": "13_2077690355244580864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077690355244580864/img/dxZrQcEruhD23Ztq.jpg",
+        "public_metrics": {
+          "view_count": 6037
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077690355244580864/vid/avc1/480x852/cFFrt2uww81pUkA0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077690355244580864/vid/avc1/720x1280/OswV9zso4BxJ3rNe.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077690355244580864/vid/avc1/1080x1920/-jOtn1URW8dopaZe.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077690355244580864/vid/avc1/320x568/pMJ-P2ou4AfGJwCL.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077690355244580864/vid/avc1/2160x3840/HWvWvYn1oPd96sHE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077690355244580864/pl/g2LV1h3fk0Iifwr6.m3u8?v=cfc"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2077690891452690764",
+        "created_at": "2026-07-16T12:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077726462992588888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "21855954",
+              "start": 0,
+              "username": "CMGS1988"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077726462992588888",
+        "in_reply_to_user_id": "21855954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077690891452690764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CMGS1988 这么强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077690355244580864"
+          ]
+        },
+        "author_id": "21855954",
+        "conversation_id": "2077690891452690764",
+        "created_at": "2026-07-16T09:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077690891452690764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pscnonyn9K",
+              "end": 50,
+              "expanded_url": "https://x.com/CMGS1988/status/2077690891452690764/video/1",
+              "media_key": "13_2077690355244580864",
+              "start": 27,
+              "url": "https://t.co/pscnonyn9K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077690891452690764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 14330,
+          "like_count": 67,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "调了几天…云安卓搞完了…我这套系统真他妈…灰产圣体… https://t.co/pscnonyn9K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4805,
+          "following_count": 2661,
+          "like_count": 40747,
+          "listed_count": 18,
+          "media_count": 1577,
+          "tweet_count": 13619
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2009-02-25T11:22:16.000Z",
+        "description": "Blog https://t.co/volRyyWPp1\nAuthor of https://t.co/cvLGe9DZ6A https://t.co/3inMhtUZrQ \ntravel around china 33/34 \ntravel around world 30/200 \nhave enough money 100/100",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cmgs.me",
+                "end": 28,
+                "expanded_url": "https://cmgs.me",
+                "start": 5,
+                "url": "https://t.co/volRyyWPp1"
+              },
+              {
+                "display_url": "run2.sg",
+                "end": 62,
+                "expanded_url": "https://run2.sg",
+                "start": 39,
+                "url": "https://t.co/cvLGe9DZ6A"
+              },
+              {
+                "display_url": "cs.town",
+                "end": 86,
+                "expanded_url": "https://cs.town",
+                "start": 63,
+                "url": "https://t.co/3inMhtUZrQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cmgs.me",
+                "end": 23,
+                "expanded_url": "http://cmgs.me",
+                "start": 0,
+                "url": "https://t.co/I73DOB9iNK"
+              }
+            ]
+          }
+        },
+        "id": "21855954",
+        "location": "Singapore",
+        "name": "CMGS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620065651552567299/jsDz8bjQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13266,
+          "following_count": 315,
+          "like_count": 2936,
+          "listed_count": 102,
+          "media_count": 1513,
+          "tweet_count": 15985
+        },
+        "url": "https://t.co/I73DOB9iNK",
+        "username": "CMGS1988",
+        "verified": true
+      }
+    ]
+  }
+}
