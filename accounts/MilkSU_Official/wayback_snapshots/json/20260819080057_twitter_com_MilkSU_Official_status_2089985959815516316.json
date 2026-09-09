@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2089984965568299256",
+    "created_at": "2026-08-19T08:00:57.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T09:00:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089985959815516316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1909562414162755584",
+          "start": 0,
+          "username": "ThirteenYizuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089985959815516316",
+    "in_reply_to_user_id": "1909562414162755584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089984965568299256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ThirteenYizuka 好诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2089984965568299256",
+        "created_at": "2026-08-19T08:00:57.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T09:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089985959815516316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1909562414162755584",
+              "start": 0,
+              "username": "ThirteenYizuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089985959815516316",
+        "in_reply_to_user_id": "1909562414162755584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089984965568299256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThirteenYizuka 好诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909562414162755584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2089984965568299256",
+        "created_at": "2026-08-19T07:57:00.000Z",
+        "display_text_range": [
+          0,
+          162
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089984965568299256"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089984965568299256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "词元流动现已新增 「自部署分组」，模型由本站自行租赁 GPU 进行部署，独立于第三方上游，后续将持续增加更多开源模型。\n\n目前已开放模型：\n\nQwen3.8-27B-NVFP4\n\n* 当前上下文：**24K**\n* 后续将开放 128K 上下文版本\n* 支持 OpenAI / Anthropic 格式\n* Token 计费\n\n目前该分组处于持续扩展阶段，后续我们会根据 GPU 资源和模型情况，陆续部署更多开源模型。\n\n欢迎大家体验🥰"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "词元流动现已新增 「自部署分组」，模型由本站自行租赁 GPU 进行部署，独立于第三方上游，后续将持续增加更多开源模型。\n\n目前已开放模型：\n\nQwen3.8-27B-NVFP4\n\n* 当前上下文：**24K**\n* 后续将开放 128K 上下文版本\n* 支持 OpenAI / Anthropic 格式\n* Token 计费"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2089985959815516316",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4832,
+          "following_count": 2721,
+          "like_count": 41739,
+          "listed_count": 19,
+          "media_count": 1599,
+          "tweet_count": 13986
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-08T11:02:28.000Z",
+        "description": "Student & Developer | 🩵🩷🤍🩷🩵 @JyushitiYizuka\n高性价比的大模型服务 https://t.co/H6HxLqxAqO\n交流群 https://t.co/9ekuuVmk3V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "JyushitiYizuka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tokenflux.dev",
+                "end": 78,
+                "expanded_url": "https://tokenflux.dev",
+                "start": 55,
+                "url": "https://t.co/H6HxLqxAqO"
+              },
+              {
+                "display_url": "t.me/tokenflux_chat",
+                "end": 106,
+                "expanded_url": "https://t.me/tokenflux_chat",
+                "start": 83,
+                "url": "https://t.co/9ekuuVmk3V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/smartcmd",
+                "end": 23,
+                "expanded_url": "http://github.com/smartcmd",
+                "start": 0,
+                "url": "https://t.co/f9cf7yDTE8"
+              }
+            ]
+          }
+        },
+        "id": "1909562414162755584",
+        "is_identity_verified": false,
+        "location": "クローゼットの中",
+        "most_recent_tweet_id": "2089985127577456774",
+        "name": "芒果刀🥭",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909562414162755584/1765525005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086871763401756672/iVdJDNFz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2760,
+          "following_count": 316,
+          "like_count": 9225,
+          "listed_count": 9,
+          "media_count": 211,
+          "tweet_count": 2043
+        },
+        "url": "https://t.co/f9cf7yDTE8",
+        "username": "ThirteenYizuka",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2092924398512861536",
+    "created_at": "2026-08-27T12:40:20.000Z",
+    "display_text_range": [
+      11,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T13:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092955370599915933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1488080791125237760",
+          "start": 0,
+          "username": "MengXi969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092955370599915933",
+    "in_reply_to_user_id": "1488080791125237760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092925201885650986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MengXi969 Mac呢🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2092924398512861536",
+        "created_at": "2026-08-27T12:40:20.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092955370599915933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1488080791125237760",
+              "start": 0,
+              "username": "MengXi969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092955370599915933",
+        "in_reply_to_user_id": "1488080791125237760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092925201885650986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MengXi969 Mac呢🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488080791125237760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2092924398512861536",
+        "created_at": "2026-08-27T10:40:27.000Z",
+        "display_text_range": [
+          0,
+          166
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T11:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092925201885650986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Zero typing, zero typos. Contribute to Nexaorion/UnTypo development by creating an account on GitHub.",
+              "display_url": "github.com/Nexaorion/UnTy…",
+              "end": 55,
+              "expanded_url": "https://github.com/Nexaorion/UnTypo",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2092925208764227584/AvhE62Mp?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2092925208764227584/AvhE62Mp?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 32,
+              "status": 200,
+              "title": "GitHub - Nexaorion/UnTypo: Zero typing, zero typos.",
+              "unwound_url": "https://github.com/Nexaorion/UnTypo",
+              "url": "https://t.co/GUga9U2TVx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092925201885650986",
+        "in_reply_to_user_id": "1488080791125237760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092924398512861536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "目前 UnTypo 仅支持 Windows 系统\nGitHub：https://t.co/GUga9U2TVx\n目前是开发预览早期版本，部分功能并未完善或者一些功能工作不如预期。欢迎提 issues 帮助我们变得更好！\n\n此外，Untypo Cloud 正处于邀请内测阶段，如果您对我们的订阅服务感兴趣，欢迎 pm 我申请加入内测。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2092955370599915933",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4860,
+          "following_count": 2760,
+          "like_count": 42316,
+          "listed_count": 19,
+          "media_count": 1613,
+          "tweet_count": 14133
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-31T09:25:09.000Z",
+        "description": "15 y.r. / Full-Stack / CTFer / Student / @ch3rryzhu\n\n👀 Work for @nexaorion @_entropyhq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "ch3rryzhu"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "nexaorion"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "_entropyhq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengxiblog.top",
+                "end": 23,
+                "expanded_url": "http://www.mengxiblog.top",
+                "start": 0,
+                "url": "https://t.co/TIHBlJvNBL"
+              }
+            ]
+          }
+        },
+        "id": "1488080791125237760",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2092944456182022603",
+        "name": "梦溪MengXi",
+        "pinned_tweet_id": "1971529195089166440",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1488080791125237760/1759223214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972886853398462464/5fIOa1dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2537,
+          "following_count": 3338,
+          "like_count": 101312,
+          "listed_count": 8,
+          "media_count": 1328,
+          "tweet_count": 7465
+        },
+        "url": "https://t.co/TIHBlJvNBL",
+        "username": "MengXi969",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

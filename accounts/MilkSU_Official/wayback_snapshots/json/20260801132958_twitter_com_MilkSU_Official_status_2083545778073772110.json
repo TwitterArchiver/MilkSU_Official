@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2083515882379395197",
+    "created_at": "2026-08-01T13:29:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083545778073772110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1912449457595248646",
+          "start": 0,
+          "username": "G1n030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083545778073772110",
+    "in_reply_to_user_id": "1912449457595248646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083544557481066616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@G1n030 好诶 我试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2083515882379395197",
+        "created_at": "2026-08-01T13:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083545778073772110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1912449457595248646",
+              "start": 0,
+              "username": "G1n030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083545778073772110",
+        "in_reply_to_user_id": "1912449457595248646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083544557481066616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@G1n030 好诶 我试试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912449457595248646",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2083515882379395197",
+        "created_at": "2026-08-01T13:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083544557481066616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2840236608",
+              "start": 0,
+              "username": "MilkSU_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083544557481066616",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083515882379395197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MilkSU_Official 我推荐智谱，我用智谱逆向APP的，烧了10几亿了吧，很稳定，帮客户做。grok做逆向会有点问题，容易陷入死循环。补环境的时候错误的方案会反复，glm5.2就不会，非常聪明。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4827,
+          "following_count": 2691,
+          "like_count": 41340,
+          "listed_count": 18,
+          "media_count": 1586,
+          "tweet_count": 13845
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-16T10:14:31.000Z",
+        "description": "AI的大航海时代即将来临，世界充满无限的机会，谁会成为新世界的王，从互相关注开始吧，让我们彼此见证。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kreonis.com",
+                "end": 23,
+                "expanded_url": "https://kreonis.com/",
+                "start": 0,
+                "url": "https://t.co/XKGCPHKOjs"
+              }
+            ]
+          }
+        },
+        "id": "1912449457595248646",
+        "location": "United States",
+        "name": "030 Gin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041542935578370048/e5bP0X1c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 191,
+          "like_count": 357,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 418
+        },
+        "url": "https://t.co/XKGCPHKOjs",
+        "username": "G1n030",
+        "verified": true
+      }
+    ]
+  }
+}

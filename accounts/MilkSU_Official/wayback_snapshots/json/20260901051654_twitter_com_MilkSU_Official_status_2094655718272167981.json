@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2094647248265347158",
+    "created_at": "2026-09-01T05:16:54.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T06:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094655718272167981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1488080791125237760",
+          "start": 0,
+          "username": "MengXi969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094655718272167981",
+    "in_reply_to_user_id": "1488080791125237760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094647248265347158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@MengXi969 好诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2094647248265347158",
+        "created_at": "2026-09-01T05:16:54.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T06:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094655718272167981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1488080791125237760",
+              "start": 0,
+              "username": "MengXi969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094655718272167981",
+        "in_reply_to_user_id": "1488080791125237760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094647248265347158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@MengXi969 好诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488080791125237760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2094647248265347158",
+        "created_at": "2026-09-01T04:43:15.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T05:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094647248265347158"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 113,
+              "start": 106,
+              "tag": "UnTypo"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "AI"
+            },
+            {
+              "end": 131,
+              "start": 118,
+              "tag": "SpeechToText"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094647248265347158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 287,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "我们很高兴地宣布，UnTypo 的下一个版本将大幅提升转写效率：\n• 简单语句（1-2句）：响应时间缩短至 2 秒左右\n• 复杂语句：响应时间控制在 6 秒以内\n强烈建议中国大陆用户使用中国模型以获得最佳体验🚀 #UnTypo #AI #SpeechToText\n（这条消息使用UnTypo转译）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2094655718272167981",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4866,
+          "following_count": 2763,
+          "like_count": 42451,
+          "listed_count": 19,
+          "media_count": 1616,
+          "tweet_count": 14177
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-31T09:25:09.000Z",
+        "description": "15 y.r. / Full-Stack / CTFer / Student / @ch3rryzhu\n\n👀 Work for @nexaorion @_entropyhq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "ch3rryzhu"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "nexaorion"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "_entropyhq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengxiblog.top",
+                "end": 23,
+                "expanded_url": "http://www.mengxiblog.top",
+                "start": 0,
+                "url": "https://t.co/TIHBlJvNBL"
+              }
+            ]
+          }
+        },
+        "id": "1488080791125237760",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2094647853125972188",
+        "name": "梦溪MengXi",
+        "pinned_tweet_id": "1971529195089166440",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1488080791125237760/1759223214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972886853398462464/5fIOa1dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2546,
+          "following_count": 3342,
+          "like_count": 102055,
+          "listed_count": 8,
+          "media_count": 1335,
+          "tweet_count": 7514
+        },
+        "url": "https://t.co/TIHBlJvNBL",
+        "username": "MengXi969",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

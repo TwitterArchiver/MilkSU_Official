@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068318007043252224"
+      ],
+      "media_source_tweet_id": [
+        "2068318342327472520"
+      ]
+    },
+    "author_id": "2840236608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2091795664388972558",
+    "created_at": "2026-08-24T07:52:04.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T08:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091795664388972558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "335776639",
+          "start": 3,
+          "username": "15424578268"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MDQDF4qO6I",
+          "end": 49,
+          "expanded_url": "https://x.com/15424578268/status/2068318342327472520/video/1",
+          "media_key": "13_2068318007043252224",
+          "start": 26,
+          "url": "https://t.co/MDQDF4qO6I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091795664388972558",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2068318007043252224"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70011
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068318342327472520",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @15424578268: 単位を変える魔法 https://t.co/MDQDF4qO6I"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25000,
+        "height": 1240,
+        "media_key": "13_2068318007043252224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068318007043252224/img/PUkGUDyaN3M9gdwh.jpg",
+        "public_metrics": {
+          "view_count": 8509734
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068318007043252224/vid/avc1/720x720/05lvKB3dqnfn2fT5.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068318007043252224/vid/avc1/540x540/gyMcjdhT9KR4mGQk.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068318007043252224/vid/avc1/1240x1240/UD9UYrLf-r0509ek.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068318007043252224/vid/avc1/320x320/YBZ9pEiISah6dTVX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068318007043252224/pl/zWq4gtzbGueuE9iO.m3u8?v=cfc"
+          }
+        ],
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068318007043252224"
+          ],
+          "media_source_tweet_id": [
+            "2068318342327472520"
+          ]
+        },
+        "author_id": "2840236608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091795664388972558",
+        "created_at": "2026-08-24T07:52:04.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T08:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091795664388972558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "335776639",
+              "start": 3,
+              "username": "15424578268"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MDQDF4qO6I",
+              "end": 49,
+              "expanded_url": "https://x.com/15424578268/status/2068318342327472520/video/1",
+              "media_key": "13_2068318007043252224",
+              "start": 26,
+              "url": "https://t.co/MDQDF4qO6I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091795664388972558",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2068318007043252224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70011
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068318342327472520",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @15424578268: 単位を変える魔法 https://t.co/MDQDF4qO6I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068318007043252224"
+          ]
+        },
+        "author_id": "335776639",
+        "conversation_id": "2068318342327472520",
+        "created_at": "2026-06-20T13:01:34.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068318342327472520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MDQDF4qO6I",
+              "end": 32,
+              "expanded_url": "https://x.com/15424578268/status/2068318342327472520/video/1",
+              "media_key": "13_2068318007043252224",
+              "start": 9,
+              "url": "https://t.co/MDQDF4qO6I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068318342327472520",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2068318007043252224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83055,
+          "impression_count": 21726368,
+          "like_count": 592833,
+          "quote_count": 1018,
+          "reply_count": 756,
+          "retweet_count": 70011
+        },
+        "reply_settings": "everyone",
+        "text": "単位を変える魔法 https://t.co/MDQDF4qO6I"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2091795664388972558",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4850,
+          "following_count": 2744,
+          "like_count": 42185,
+          "listed_count": 19,
+          "media_count": 1608,
+          "tweet_count": 14104
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-07-15T06:39:17.000Z",
+        "description": "design, music, animation 👾 @THEBLUEHAMHAM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "THEBLUEHAMHAM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/ArimuraTaish…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/ArimuraTaishi12",
+                "start": 0,
+                "url": "https://t.co/8M6dnvyjJP"
+              }
+            ]
+          }
+        },
+        "id": "335776639",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088207056709042415",
+        "name": "有村泰志",
+        "pinned_tweet_id": "1833797752230498341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/335776639/1765738664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000279048883437568/gUlBdLBi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171997,
+          "following_count": 984,
+          "like_count": 5652,
+          "listed_count": 978,
+          "media_count": 74,
+          "tweet_count": 106
+        },
+        "url": "https://t.co/8M6dnvyjJP",
+        "username": "15424578268",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2083166556205600968",
+    "created_at": "2026-07-31T12:49:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T13:49:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083173122174587230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1954601674083053569",
+          "start": 0,
+          "username": "JuSakuyuLime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083173122174587230",
+    "in_reply_to_user_id": "1954601674083053569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083166556205600968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JuSakuyuLime 酒驾"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2083166547535937536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjk8BnbQAAY2QZ.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2083166556205600968",
+        "created_at": "2026-07-31T12:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083173122174587230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1954601674083053569",
+              "start": 0,
+              "username": "JuSakuyuLime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083173122174587230",
+        "in_reply_to_user_id": "1954601674083053569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083166556205600968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JuSakuyuLime 酒驾"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083166547535937536"
+          ]
+        },
+        "author_id": "1954601674083053569",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083166556205600968",
+        "created_at": "2026-07-31T12:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083166556205600968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tnvtj15PEX",
+              "end": 29,
+              "expanded_url": "https://x.com/JuSakuyuLime/status/2083166556205600968/photo/1",
+              "media_key": "3_2083166547535937536",
+              "start": 6,
+              "url": "https://t.co/Tnvtj15PEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083166556205600968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舞萌配酒。 https://t.co/Tnvtj15PEX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4825,
+          "following_count": 2691,
+          "like_count": 41284,
+          "listed_count": 18,
+          "media_count": 1585,
+          "tweet_count": 13822
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-10T17:52:21.000Z",
+        "description": "Antipathy World🌏\n琦鏡主理人 偽物實驗室監修中\n同位体@SakiYuringOL（互fo only）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 35,
+                "username": "SakiYuringOL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2078453471729303811/0GDHO7B6kp",
+                "start": 0,
+                "url": "https://t.co/1QxVED8BHb"
+              }
+            ]
+          }
+        },
+        "id": "1954601674083053569",
+        "location": "衢州西驛",
+        "name": "雎咲柚檸Sakiyuring",
+        "pinned_tweet_id": "1998412348437246269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004824422449061888/mOUlFOHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 2113,
+          "like_count": 4297,
+          "listed_count": 0,
+          "media_count": 304,
+          "tweet_count": 2093
+        },
+        "url": "https://t.co/1QxVED8BHb",
+        "username": "JuSakuyuLime",
+        "verified": false
+      }
+    ]
+  }
+}

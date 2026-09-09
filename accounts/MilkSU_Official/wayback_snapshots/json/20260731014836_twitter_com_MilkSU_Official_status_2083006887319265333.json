@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2082989620346708417",
+    "created_at": "2026-07-31T01:48:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T02:48:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083006887319265333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1327292278000349185",
+          "start": 0,
+          "username": "Xudong07452910"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083006887319265333",
+    "in_reply_to_user_id": "1327292278000349185",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082989620346708417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xudong07452910 好诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2082989620346708417",
+        "created_at": "2026-07-31T01:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083006887319265333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1327292278000349185",
+              "start": 0,
+              "username": "Xudong07452910"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083006887319265333",
+        "in_reply_to_user_id": "1327292278000349185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082989620346708417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xudong07452910 好诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1327292278000349185",
+        "conversation_id": "2082989620346708417",
+        "created_at": "2026-07-31T00:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T01:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082989620346708417"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082989620346708417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 709,
+                "id": "1692126794055647232",
+                "start": 695,
+                "username": "QuantumTransf"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/tommy0103/obel…",
+                "end": 735,
+                "expanded_url": "https://github.com/tommy0103/obelisk",
+                "start": 712,
+                "url": "https://t.co/AwgGXoUrAL"
+              }
+            ]
+          },
+          "text": "很多 Coding Agent 浪费掉的，往往是上一轮 Session 里已经积累下来的经验。\n\n开源项目 Obelisk 是一个给 Claude Code、Codex 和 Kimi Code 补上「历史记忆」的开源项目。它会把过去的会话、消息、工具调用、子 Agent 和工作流统一索引到本地 SQLite 数据库里。之后可以直接问：\n\n「上次那个 Auth Bug 最后改了哪些文件？」\n「这个文件最近在哪些 Session 里被反复修改？」\n「之前 Review Agent 的结论是什么？」\n\n我比较喜欢它的检索方式。Obelisk 不会把全部历史记录一股脑塞进上下文，而是让 Agent 自己写一小段 JS 查询，在本地数据库里找到相关证据，再根据结果回答。\n它也把原始记录和长期记忆分成了两层。\n\n过去的 Session 负责保留完整证据；真正值得长期复用的设计决策、失败原因和项目约定，会先由 Agent 整理成 Markdown，经过用户同意后再写入记忆。以后还能追溯来源、更新或撤销。\n\n项目还提供了桌面应用，可以浏览 Session、工具调用和子 Agent，查看 Token 使用情况，也能生成每周或每月的工作回顾。\n\n我觉得这类工具会变得越来越重要。我们每天让 Agent 写下大量代码，也留下了很多试错、判断和决策过程，但这些经验经常随着 Session 关闭一起消失。\n\n当 Coding Agent 真正进入长期工作，能不能接着过去的经验继续往前走，可能会和模型本身的能力一样重要。\n\n大家遇到使用上的困惑或者有啥改进建议，可以反馈给这个项目的负责人 Yuu @QuantumTransf。\n\nhttps://t.co/AwgGXoUrAL"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 303,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "很多 Coding Agent 浪费掉的，往往是上一轮 Session 里已经积累下来的经验。\n\n开源项目 Obelisk 是一个给 Claude Code、Codex 和 Kimi Code 补上「历史记忆」的开源项目。它会把过去的会话、消息、工具调用、子 Agent 和工作流统一索引到本地 SQLite 数据库里。之后可以直接问：\n\n「上次那个 Auth Bug"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4822,
+          "following_count": 2691,
+          "like_count": 41257,
+          "listed_count": 18,
+          "media_count": 1584,
+          "tweet_count": 13809
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-13T16:49:45.000Z",
+        "description": "🎓PhD ing @ University of Sussex | LLM & AI Agents\n📖Building Personal AI Agents |  Vibe Coding\n🛠️分享AI 技术解析 | AI 应用心得\n📩DM for collab",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/hxdflying/EvoP…",
+                "end": 23,
+                "expanded_url": "https://github.com/hxdflying/EvoPaw",
+                "start": 0,
+                "url": "https://t.co/vWPtJssQ8E"
+              }
+            ]
+          }
+        },
+        "id": "1327292278000349185",
+        "location": "London, England",
+        "name": "Xudong Han",
+        "pinned_tweet_id": "2062087939547332948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1327292688736034816/vJTxjjLU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8704,
+          "following_count": 548,
+          "like_count": 7720,
+          "listed_count": 65,
+          "media_count": 346,
+          "tweet_count": 4053
+        },
+        "url": "https://t.co/vWPtJssQ8E",
+        "username": "Xudong07452910",
+        "verified": true
+      }
+    ]
+  }
+}

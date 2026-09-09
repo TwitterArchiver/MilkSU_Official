@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2085169367722217501",
+    "created_at": "2026-08-06T01:01:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T02:01:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085169367722217501"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ahmetb/status/…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/ahmetb/status/2084788603985797401",
+          "start": 2,
+          "url": "https://t.co/np7aRCXpao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085169367722217501",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084788603985797401",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇 https://t.co/np7aRCXpao"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1064,
+        "media_key": "3_2084788423999819776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO6oBqRbEAAbX-S.jpg",
+        "width": 3204
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2085169367722217501",
+        "created_at": "2026-08-06T01:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T02:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085169367722217501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ahmetb/status/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/ahmetb/status/2084788603985797401",
+              "start": 2,
+              "url": "https://t.co/np7aRCXpao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085169367722217501",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084788603985797401",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇 https://t.co/np7aRCXpao"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084788423999819776"
+          ]
+        },
+        "author_id": "15652782",
+        "conversation_id": "2084788603985797401",
+        "created_at": "2026-08-04T23:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T00:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084788603985797401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rTPxvzMyaV",
+              "end": 297,
+              "expanded_url": "https://x.com/ahmetb/status/2084788603985797401/photo/1",
+              "media_key": "3_2084788423999819776",
+              "start": 274,
+              "url": "https://t.co/rTPxvzMyaV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084788603985797401",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 8971,
+          "like_count": 116,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "go1.27 release is gonna be HUGE for the go-linq package: methods can finally declare their own generic type parameters.\n\nthis was the biggest syntactic/type safety limitation against method chaining like pictured (also improves speed, and is much fewer allocs!) stay tuned. https://t.co/rTPxvzMyaV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4833,
+          "following_count": 2710,
+          "like_count": 41561,
+          "listed_count": 18,
+          "media_count": 1591,
+          "tweet_count": 13897
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2008-07-29T22:48:51.000Z",
+        "description": "inference infra at @baseten 🌹 oss: https://t.co/LbCjmbdcvb did large-scale (X00 MW) baremetal compute in a past life",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "baseten"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/ahmetb",
+                "end": 58,
+                "expanded_url": "https://github.com/ahmetb",
+                "start": 35,
+                "url": "https://t.co/LbCjmbdcvb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ahmet.dev",
+                "end": 23,
+                "expanded_url": "http://ahmet.dev",
+                "start": 0,
+                "url": "https://t.co/tO00V1PM6p"
+              }
+            ]
+          }
+        },
+        "id": "15652782",
+        "location": "seattle",
+        "name": "ahmet alp balkan",
+        "pinned_tweet_id": "2079724485465583813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621769650412584961/MbnqgDNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50174,
+          "following_count": 352,
+          "like_count": 61478,
+          "listed_count": 571,
+          "media_count": 2442,
+          "tweet_count": 34198
+        },
+        "url": "https://t.co/tO00V1PM6p",
+        "username": "ahmetb",
+        "verified": true
+      }
+    ]
+  }
+}

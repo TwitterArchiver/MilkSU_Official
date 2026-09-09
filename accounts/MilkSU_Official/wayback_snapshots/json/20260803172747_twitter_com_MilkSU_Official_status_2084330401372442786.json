@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2084251178305737030",
+    "created_at": "2026-08-03T17:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T18:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084330401372442786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1507697433593098244",
+          "start": 0,
+          "username": "wzenus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084330401372442786",
+    "in_reply_to_user_id": "1507697433593098244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084252510458630477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wzenus 我感觉身边有些朋友已经被 Claude 带得说话有点像 Claude 了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2084251178305737030",
+        "created_at": "2026-08-03T17:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084330401372442786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1507697433593098244",
+              "start": 0,
+              "username": "wzenus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084330401372442786",
+        "in_reply_to_user_id": "1507697433593098244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084252510458630477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wzenus 我感觉身边有些朋友已经被 Claude 带得说话有点像 Claude 了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507697433593098244",
+        "conversation_id": "2084251178305737030",
+        "created_at": "2026-08-03T12:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T13:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084252510458630477"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084252510458630477",
+        "in_reply_to_user_id": "1507697433593098244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "让 Claude Code 说人话的 instruction\n\n1. 使用标准术语。已有通用说法的概念不要另造表述。\n2. 不要使用比喻。如果一个说法需要读者推断其指代对象，改为直接说明。\n3. 表头和分类名使用中性名词，如“问题”“现象”“影响”“结果”。\n4. 不使用“是 X，不是 Y”的对比句式。\n5. 表格条目不要求每条都包含数字或结论。部分条目可以只说明发生了什么。\n6. 未查明原因的问题写“原因未查明”。\n7. 不使用口语词。\n8. 不使用拟人表述。\n\n规则 1：使用标准术语\n\n超长度 / 超不超长度 → 截断 / 是否触及长度上限\nRay 的端口会跟自己撞 → 多个任务的 Ray 抢占同一端口\n臂 → 方案\n只看长度那条线 → 长度启发式基线\n刷奖励 → 奖励被优化但评测指标未改善\n存档 → checkpoint\n\n规则 2：不发明比喻作为术语\n\n血统 → 基座来源\n8 个不同血统 → 8 个不同基座的模型\n那是尺寸差异，不是血统差异 → 原有区间由 Qwen 的 14B、32B、72B 构成，差异来自参数量而非基座\n已经吃掉一半空间 → 已覆盖一半区间\n变成了一个认题目的检索器 → 退化为问题识别，与学习价值无关\n挑出来的题目看上去健康得多 → 选中问题的截断比例更低\n误差范围还盖着基准线 → 置信区间与基线重叠\n\n规则 3：表头和分类名使用中性名词\n\n坑 / 代价和教训 → 问题 / 影响\n把握 → 确认程度\n怎么做的 → 实验设置\n重挑一次还剩多少重合 → 重采样后的重合率\n有几种不同取值 → 取值数量\n还在跑的 → 进行中\n一个必须关掉的开关 → 需要关闭的过滤器\n\n章节状态标签需要保持一致。\n\n如果前面使用：\n\n已完成\n已确认\n未达到基线\n结论待定\n\n后面出现了：\n\n做通了\n意外发现\n需要修\n没有买到想要的\n\n统一使用前面部分的中性状态标签。\n\n规则 4：不使用“是 X，不是 Y”的对比句式\n\n梯度对齐：是噪声，不是信号 → 梯度对齐：三项检查结果均在噪声范围内\n我们买到了血统上的多样性，但没有买到能力上的多样性 → 新增模型覆盖了更多基座，但正确率均低于原有区间下界\n考法和用法对不上 → 评测口径为成对比较，与实际使用方式不一致\n稳定是靠粗糙换来的 → 取值数量少的指标重合率高\n越稳定的指标越挑不出东西，越挑得出东西的指标越不稳定 → 重合率与取值数量呈反向关系\n\n规则 5：允许条目不包含数字或结论\n\n例如：\n\n对照组为随机选取的 32 个问题。\n\n这条内容已经完整，不需要继续补充其他方案与对照组的关系。\n\n规则 6：未查明原因时直接写“原因未查明”\n\n前文已经写明“原因未查明”时，后文不要继续补充未经验证的解释。\n\n这可能也解释了前文那个现象 → 该现象与截断的关系尚未验证\n\n第十章“后来查明了机制”之后的内容已经得到确认，可以保留。\n\n规则 7：不使用口语词\n\n赢得很干脆 → 差值为 0.030\n测得更准 / 测得更糙 → 估计精度更高 / 更低\n可选的余地很小 → 候选范围小\n基本上等于抓阄 → 接近随机选取\n本来就分不出高下 → 真实差距低于可分辨范围\n白跑 / 白占 → 无效运行 / 空占\n不是白捡的 → 需要 79 GPU·小时\n一个致命问题 → 主要问题\n有事后找补的嫌疑 → 该切分方式在观察结果之后确定\n原因不复杂 → 删除\n既然预测这条路走不通，那就退一步 → 删除，直接进入实验设置\n\n规则 8：不使用拟人表述\n\n天生需要几百到上千次采样 → 该信号所需的采样量为几百到上千次\n一旦超就制造出参差 → 截断发生时会增大奖励方差\n24 步训练只挪动 0.05 → 24 步训练后正确率变化为 0.05\n超得越彻底反而越稳定 → 截断率越高，奖励方差越低\n回答内容本身的好坏参差 → 答案质量的差异"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 2443,
+          "like_count": 29,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084251178305737030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "让 Claude Code 说人话的 instruction\n\n1. 使用标准术语。已有通用说法的概念不要另造表述。\n2. 不要使用比喻。如果一个说法需要读者推断其指代对象，改为直接说明。\n3. 表头和分类名使用中性名词，如“问题”“现象”“影响”“结果”。\n4. 不使用“是 X，不是 Y”的对比句式。\n5."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4832,
+          "following_count": 2704,
+          "like_count": 41464,
+          "listed_count": 18,
+          "media_count": 1589,
+          "tweet_count": 13876
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-26T12:34:32.000Z",
+        "description": "Reasoning agent / RL / efficiency research @NorthwesternU & @nvidia. Ex @Microsoft @yutori_ai @deepseek_ai @uiuc_nlp @RUC1937.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "NorthwesternU"
+              },
+              {
+                "end": 67,
+                "start": 60,
+                "username": "nvidia"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "Microsoft"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "yutori_ai"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "deepseek_ai"
+              },
+              {
+                "end": 116,
+                "start": 107,
+                "username": "uiuc_nlp"
+              },
+              {
+                "end": 125,
+                "start": 117,
+                "username": "RUC1937"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zenus.me",
+                "end": 23,
+                "expanded_url": "http://zenus.me",
+                "start": 0,
+                "url": "https://t.co/l7cpYD3tut"
+              }
+            ]
+          }
+        },
+        "id": "1507697433593098244",
+        "name": "Zihan \"Zenus\" Wang",
+        "pinned_tweet_id": "2060397732846612489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019567962672316416/vCTCjuep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22947,
+          "following_count": 688,
+          "like_count": 4559,
+          "listed_count": 245,
+          "media_count": 158,
+          "tweet_count": 1291
+        },
+        "url": "https://t.co/l7cpYD3tut",
+        "username": "wzenus",
+        "verified": true
+      }
+    ]
+  }
+}

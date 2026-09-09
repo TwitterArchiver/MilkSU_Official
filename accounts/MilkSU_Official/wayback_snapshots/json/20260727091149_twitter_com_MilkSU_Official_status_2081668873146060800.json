@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2081425609352413544",
+    "created_at": "2026-07-27T09:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T10:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081668873146060800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081668873146060800",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081425609352413544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@AcboxLiu 👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2081425609352413544",
+        "created_at": "2026-07-27T09:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081668873146060800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081668873146060800",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081425609352413544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@AcboxLiu 👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601893417549967360",
+        "conversation_id": "2081425609352413544",
+        "created_at": "2026-07-26T17:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081425609352413544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081425609352413544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7210,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "想发点毁人设的照片，，还是算了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4829,
+          "following_count": 2688,
+          "like_count": 41121,
+          "listed_count": 18,
+          "media_count": 1586,
+          "tweet_count": 13772
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "/ 📦神秘纸箱 / 🐱家里有小猫和大猫\n/ https://t.co/hUTrNHa19i\n/ Co-founder of https://t.co/gLiVpv8l1t https://t.co/PSLnUgusnm\n/ Building https://t.co/1QoAcF6sm4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 45,
+                "expanded_url": "http://github.com/sheepbox8646",
+                "start": 22,
+                "url": "https://t.co/hUTrNHa19i"
+              },
+              {
+                "display_url": "memoh.ai",
+                "end": 85,
+                "expanded_url": "http://memoh.ai",
+                "start": 62,
+                "url": "https://t.co/gLiVpv8l1t"
+              },
+              {
+                "display_url": "felinic.ai",
+                "end": 109,
+                "expanded_url": "http://felinic.ai",
+                "start": 86,
+                "url": "https://t.co/PSLnUgusnm"
+              },
+              {
+                "display_url": "oh-my-github.app",
+                "end": 144,
+                "expanded_url": "http://oh-my-github.app",
+                "start": 121,
+                "url": "https://t.co/1QoAcF6sm4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ac.box",
+                "end": 23,
+                "expanded_url": "https://ac.box",
+                "start": 0,
+                "url": "https://t.co/UNw6tpT9C0"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "上海/深圳",
+        "name": "📦Acbox",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038245960967741441/70mSKMEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12623,
+          "following_count": 2737,
+          "like_count": 3530,
+          "listed_count": 63,
+          "media_count": 1154,
+          "tweet_count": 6587
+        },
+        "url": "https://t.co/UNw6tpT9C0",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

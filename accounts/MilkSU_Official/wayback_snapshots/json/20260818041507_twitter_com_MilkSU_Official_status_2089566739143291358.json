@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2089315818056401202",
+    "created_at": "2026-08-18T04:15:07.000Z",
+    "display_text_range": [
+      14,
+      137
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T05:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089566739143291358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "863624313299128320",
+          "start": 0,
+          "username": "Lan_zhijiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089566739143291358",
+    "in_reply_to_user_id": "863624313299128320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089315818056401202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lan_zhijiang 20X 的用量大概每周有 20 亿 token 可以用。如果是 5X 的话，那就是 5 亿   一天用一半应该是有可能的\n主要是现在 5.6sol 花费了大量的用量做它的防御性编程，就搞得没干多少正经活，却花了很多 token 去干一些无意义的活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2089315818056401202",
+        "created_at": "2026-08-18T04:15:07.000Z",
+        "display_text_range": [
+          14,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T05:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089566739143291358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "863624313299128320",
+              "start": 0,
+              "username": "Lan_zhijiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089566739143291358",
+        "in_reply_to_user_id": "863624313299128320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089315818056401202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lan_zhijiang 20X 的用量大概每周有 20 亿 token 可以用。如果是 5X 的话，那就是 5 亿   一天用一半应该是有可能的\n主要是现在 5.6sol 花费了大量的用量做它的防御性编程，就搞得没干多少正经活，却花了很多 token 去干一些无意义的活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "863624313299128320",
+        "conversation_id": "2089315818056401202",
+        "created_at": "2026-08-17T11:38:03.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T12:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089315818056401202"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089315818056401202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 43577,
+          "like_count": 207,
+          "quote_count": 2,
+          "reply_count": 106,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Codex 的用量真的没有缩水吗？好歹是 Pro 5x 啊，这才一天就 44% 不见了 ... 之前 Pro 20x 感觉花不完来着..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2089566739143291358",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4834,
+          "following_count": 2728,
+          "like_count": 41706,
+          "listed_count": 19,
+          "media_count": 1599,
+          "tweet_count": 13980
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-05-14T05:17:36.000Z",
+        "description": "Python Vue Homelab Minecraft  🏳️‍🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lanzhijiang.dev",
+                "end": 23,
+                "expanded_url": "https://lanzhijiang.dev",
+                "start": 0,
+                "url": "https://t.co/IrIZrPJ4Mb"
+              }
+            ]
+          }
+        },
+        "id": "863624313299128320",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089529914219504079",
+        "name": "蓝汁酱",
+        "pinned_tweet_id": "1956015008229532152",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/863624313299128320/1712631856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039359197973016576/flw2rCBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 388,
+          "like_count": 50526,
+          "listed_count": 6,
+          "media_count": 603,
+          "tweet_count": 3819
+        },
+        "url": "https://t.co/IrIZrPJ4Mb",
+        "username": "Lan_zhijiang",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

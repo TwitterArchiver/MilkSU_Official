@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2096063143319625988",
+    "created_at": "2026-09-05T05:22:17.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T06:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096106622464782467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1516582189772644352",
+          "start": 0,
+          "username": "Master_HanChan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096106622464782467",
+    "in_reply_to_user_id": "1516582189772644352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096063143319625988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Master_HanChan 炸！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1467,
+        "media_key": "3_2096063132859002880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRa2UFzacAAFJ6H.jpg",
+        "width": 1072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2096063143319625988",
+        "created_at": "2026-09-05T05:22:17.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T06:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096106622464782467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1516582189772644352",
+              "start": 0,
+              "username": "Master_HanChan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096106622464782467",
+        "in_reply_to_user_id": "1516582189772644352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096063143319625988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Master_HanChan 炸！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096063132859002880"
+          ]
+        },
+        "author_id": "1516582189772644352",
+        "conversation_id": "2096063143319625988",
+        "created_at": "2026-09-05T02:29:30.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T03:26:33.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096062399703089394",
+          "2096063143319625988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3aHT4zeRVM",
+              "end": 158,
+              "expanded_url": "https://x.com/Master_HanChan/status/2096063143319625988/photo/1",
+              "media_key": "3_2096063132859002880",
+              "start": 135,
+              "url": "https://t.co/3aHT4zeRVM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096063143319625988",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096063132859002880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "我要死掉了\n\n周末加班，看9台设备，虽然核心就2-4台，但是要写日报啊，每个设备日报想想就麻烦\n\n还要去TG和论坛搜集单位泄露的信息做文档下班汇报\n\n还要梳理最近分析内网防火墙的安全策略自己脑子琢磨一套架构图做汇报。\n\n还要整理昨天巡检的8台设备的基线，还要写成报告。\n\n我要起飞了，妈的，你招那么多人，啥用没有，工作量依旧给我超你X！我生气了，我要给PM炸了😡😡😡"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 497,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要死掉了\n\n周末加班，看9台设备，虽然核心就2-4台，但是要写日报啊，每个设备日报想想就麻烦\n\n还要去TG和论坛搜集单位泄露的信息做文档下班汇报\n\n还要梳理最近分析内网防火墙的安全策略自己脑子琢磨一套架构图做汇报。\n\n还要整理昨天巡检的8台设备的基线，还要写成报告。 https://t.co/3aHT4zeRVM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2096106622464782467",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4888,
+          "following_count": 2763,
+          "like_count": 42642,
+          "listed_count": 19,
+          "media_count": 1620,
+          "tweet_count": 14216
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-20T00:59:14.000Z",
+        "description": "✨ 折腾技术，研究安全，也在认真生活\n🛡️ 安全运营｜渗透测试｜恶意程序开发，前厂商仔\n主攻免杀与漏洞挖掘\n📈 副业交易｜定投纳指标普｜Price Action｜偶尔撸毛\n🔧 业余焊板子｜玩安卓｜折腾数码科技\n🤓 喜欢发癫｜吐槽日常｜高强度发帖\n🚫 拒绝 OD & 自伤\n欢迎同好交流｜互Fo请私信 🥰",
+        "id": "1516582189772644352",
+        "is_identity_verified": false,
+        "location": "-0.00018 km",
+        "most_recent_tweet_id": "2096063143319625988",
+        "name": "Master_寒蝉",
+        "pinned_tweet_id": "2088649950364356748",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1516582189772644352/1651022671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619947570385784833/LH3Y7mSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3523,
+          "following_count": 1111,
+          "like_count": 21560,
+          "listed_count": 20,
+          "media_count": 329,
+          "tweet_count": 4501
+        },
+        "url": "",
+        "username": "Master_HanChan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

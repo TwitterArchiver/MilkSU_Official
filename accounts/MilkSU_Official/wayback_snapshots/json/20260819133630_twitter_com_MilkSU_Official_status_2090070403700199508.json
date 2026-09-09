@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2090049841854648418",
+    "created_at": "2026-08-19T13:36:30.000Z",
+    "display_text_range": [
+      13,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T14:36:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090070403700199508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1395031782014205953",
+          "start": 0,
+          "username": "komacyan_zZ"
+        },
+        {
+          "end": 21,
+          "id": "2085609053917777921",
+          "start": 13,
+          "username": "j1m1_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090070403700199508",
+    "in_reply_to_user_id": "1395031782014205953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090049841854648418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@komacyan_zZ @j1m1_11 哇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090049220145463296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFYsTHaQAAzbKz.jpg",
+        "width": 820
+      },
+      {
+        "height": 1624,
+        "media_key": "3_2090049220179046401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFYsTPasAElpzL.jpg",
+        "width": 844
+      },
+      {
+        "height": 1248,
+        "media_key": "3_2090049220170670080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFYsTNa4AAIY0q.jpg",
+        "width": 720
+      },
+      {
+        "height": 909,
+        "media_key": "3_2090049220158062592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFYsTKagAA3nJF.jpg",
+        "width": 1806
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2090049841854648418",
+        "created_at": "2026-08-19T13:36:30.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090070403700199508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1395031782014205953",
+              "start": 0,
+              "username": "komacyan_zZ"
+            },
+            {
+              "end": 21,
+              "id": "2085609053917777921",
+              "start": 13,
+              "username": "j1m1_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090070403700199508",
+        "in_reply_to_user_id": "1395031782014205953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090049841854648418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@komacyan_zZ @j1m1_11 哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090049220145463296",
+            "3_2090049220179046401",
+            "3_2090049220170670080",
+            "3_2090049220158062592"
+          ]
+        },
+        "author_id": "1395031782014205953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090049841854648418",
+        "created_at": "2026-08-19T12:14:48.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T13:12:22.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090049228689305836",
+          "2090049841854648418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VaqmmsaJuC",
+              "end": 71,
+              "expanded_url": "https://x.com/komacyan_zZ/status/2090049841854648418/photo/1",
+              "media_key": "3_2090049220145463296",
+              "start": 48,
+              "url": "https://t.co/VaqmmsaJuC"
+            },
+            {
+              "display_url": "pic.x.com/VaqmmsaJuC",
+              "end": 71,
+              "expanded_url": "https://x.com/komacyan_zZ/status/2090049841854648418/photo/1",
+              "media_key": "3_2090049220179046401",
+              "start": 48,
+              "url": "https://t.co/VaqmmsaJuC"
+            },
+            {
+              "display_url": "pic.x.com/VaqmmsaJuC",
+              "end": 71,
+              "expanded_url": "https://x.com/komacyan_zZ/status/2090049841854648418/photo/1",
+              "media_key": "3_2090049220170670080",
+              "start": 48,
+              "url": "https://t.co/VaqmmsaJuC"
+            },
+            {
+              "display_url": "pic.x.com/VaqmmsaJuC",
+              "end": 71,
+              "expanded_url": "https://x.com/komacyan_zZ/status/2090049841854648418/photo/1",
+              "media_key": "3_2090049220158062592",
+              "start": 48,
+              "url": "https://t.co/VaqmmsaJuC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090049841854648418",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090049220145463296"
+          },
+          {
+            "media_key": "3_2090049220179046401"
+          },
+          {
+            "media_key": "3_2090049220170670080"
+          },
+          {
+            "media_key": "3_2090049220158062592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "鸭嘴兽、飞雾、冰爆、烟杆有售（质保一年）\n来孩子这买吧，一只也包邮哦～\n其他有需要也欢迎私信！ https://t.co/VaqmmsaJuC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2090070403700199508",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4835,
+          "following_count": 2723,
+          "like_count": 41784,
+          "listed_count": 19,
+          "media_count": 1602,
+          "tweet_count": 14002
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-19T15:01:25.000Z",
+        "description": "躁うつ病 / JLPT-N2 / 日常垢 / フォロバをご希望の方はDMお願いします /懦弱是无形的怪物 ⚡️🚬有售  ⭐️ @MoeQike",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "MoeQike"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "komacyan.moe",
+                "end": 23,
+                "expanded_url": "https://komacyan.moe",
+                "start": 0,
+                "url": "https://t.co/xocU8WklXz"
+              }
+            ]
+          }
+        },
+        "id": "1395031782014205953",
+        "is_identity_verified": false,
+        "location": "キミのとなり",
+        "most_recent_tweet_id": "2090059740416233915",
+        "name": "小鞠（烟代版）",
+        "pinned_tweet_id": "2078985977952186721",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1395031782014205953/1753111296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087495117770985472/9-YLmMJ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3235,
+          "following_count": 750,
+          "like_count": 15565,
+          "listed_count": 10,
+          "media_count": 1737,
+          "tweet_count": 7858
+        },
+        "url": "https://t.co/xocU8WklXz",
+        "username": "komacyan_zZ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-07T06:09:56.000Z",
+        "description": "宇宙冷漠爱好者",
+        "id": "2085609053917777921",
+        "is_identity_verified": false,
+        "location": "Amsterdam, The Netherlands",
+        "most_recent_tweet_id": "2089975514979254741",
+        "name": "叽米",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085609053917777921/1786083502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085609534509477888/ItBu79Z5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 63,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "j1m1_11",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

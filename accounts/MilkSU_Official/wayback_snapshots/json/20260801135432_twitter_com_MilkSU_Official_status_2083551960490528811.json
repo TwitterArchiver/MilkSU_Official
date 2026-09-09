@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2083519855203078320",
+    "created_at": "2026-08-01T13:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083551960490528811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1473591",
+          "start": 0,
+          "username": "tianyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083551960490528811",
+    "in_reply_to_user_id": "1473591",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083519855203078320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianyi 哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2083519855203078320",
+        "created_at": "2026-08-01T13:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083551960490528811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1473591",
+              "start": 0,
+              "username": "tianyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083551960490528811",
+        "in_reply_to_user_id": "1473591",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083519855203078320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianyi 哇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473591",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2083519855203078320",
+        "created_at": "2026-08-01T11:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:36:47.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083517293485814100",
+          "2083519855203078320"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083519855203078320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 37320,
+          "like_count": 416,
+          "quote_count": 26,
+          "reply_count": 141,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "如果你是 Agent Harness 相关开源项目的开发者，希望参加 DeepSeek Harness 的内测，可以回复或私信联系我。请附上 GitHub id 以及开源代表作。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4827,
+          "following_count": 2692,
+          "like_count": 41345,
+          "listed_count": 18,
+          "media_count": 1586,
+          "tweet_count": 13848
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2007-03-19T05:24:31.000Z",
+        "description": "Member of Technical Staff @ DeepSeek, Harness Team\n\nI'd love to connect with members of international frontier LLM labs! DM is open. Opinions are my own.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tianyicui.com",
+                "end": 23,
+                "expanded_url": "https://tianyicui.com",
+                "start": 0,
+                "url": "https://t.co/llGaZbRlM3"
+              }
+            ]
+          }
+        },
+        "id": "1473591",
+        "location": "Beijing",
+        "name": "Tianyi Cui",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/378800000650737082/b849b67d6470fafe8b3deb2ae97acfda_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15731,
+          "following_count": 459,
+          "like_count": 560,
+          "listed_count": 147,
+          "media_count": 48,
+          "tweet_count": 7200
+        },
+        "url": "https://t.co/llGaZbRlM3",
+        "username": "tianyi",
+        "verified": true
+      }
+    ]
+  }
+}

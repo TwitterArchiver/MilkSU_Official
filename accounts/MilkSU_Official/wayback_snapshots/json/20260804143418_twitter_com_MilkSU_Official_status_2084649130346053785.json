@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2084604936852324690",
+    "created_at": "2026-08-04T14:34:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T15:34:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084649130346053785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1692126794055647232",
+          "start": 0,
+          "username": "QuantumTransf"
+        },
+        {
+          "end": 23,
+          "id": "2010620448883838976",
+          "start": 15,
+          "username": "lody_ai"
+        },
+        {
+          "end": 33,
+          "id": "1614449907787784194",
+          "start": 24,
+          "username": "leon7hao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084649130346053785",
+    "in_reply_to_user_id": "1692126794055647232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084604936852324690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuantumTransf @lody_ai @leon7hao 好诶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1338,
+        "media_key": "3_2084603965011005440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4AQu_aEAACQxo.jpg",
+        "width": 1738
+      },
+      {
+        "height": 1268,
+        "media_key": "3_2084604059068293120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4AWNYaYAAOrLv.jpg",
+        "width": 1710
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2084604936852324690",
+        "created_at": "2026-08-04T14:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084649130346053785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1692126794055647232",
+              "start": 0,
+              "username": "QuantumTransf"
+            },
+            {
+              "end": 23,
+              "id": "2010620448883838976",
+              "start": 15,
+              "username": "lody_ai"
+            },
+            {
+              "end": 33,
+              "id": "1614449907787784194",
+              "start": 24,
+              "username": "leon7hao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084649130346053785",
+        "in_reply_to_user_id": "1692126794055647232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084604936852324690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuantumTransf @lody_ai @leon7hao 好诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084603965011005440",
+            "3_2084604059068293120"
+          ]
+        },
+        "author_id": "1692126794055647232",
+        "conversation_id": "2084604936852324690",
+        "created_at": "2026-08-04T11:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:35:46.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084604201011962222",
+          "2084604390963556425",
+          "2084604792853455169",
+          "2084604936852324690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/boONrDP1Om",
+              "end": 209,
+              "expanded_url": "https://x.com/QuantumTransf/status/2084604936852324690/photo/1",
+              "media_key": "3_2084603965011005440",
+              "start": 186,
+              "url": "https://t.co/boONrDP1Om"
+            },
+            {
+              "display_url": "pic.x.com/boONrDP1Om",
+              "end": 209,
+              "expanded_url": "https://x.com/QuantumTransf/status/2084604936852324690/photo/1",
+              "media_key": "3_2084604059068293120",
+              "start": 186,
+              "url": "https://t.co/boONrDP1Om"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084604936852324690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/tommy0103/obel…",
+                "end": 311,
+                "expanded_url": "https://github.com/tommy0103/obelisk/pull/27",
+                "start": 288,
+                "url": "https://t.co/FY9pSycyA7"
+              }
+            ]
+          },
+          "text": "最近 obelisk 项目收到了很多 pr，这些 pr 的质量都不低，但是很难一次合并，问题并不来自于 contributor，而来自于我难以将脑海中的标准量化成 contributor 需要 follow 的 principle，写进 contributing.md 里，但 obelisk 最终帮助我很好做到了这点，算是让我有点震惊的地方吧\n于是关于 obelisk 能帮助开发者做什么，有了一些更清晰的认知：一个让历史 session 变得可查询的基础设施，究竟能扩展出什么，预计会发一篇文章讲讲这件事情  \n\n关于最终的产物，可以看 pull request #27：https://t.co/FY9pSycyA7\n\n多提一句，lody 的 gui 确实很好用，再也不用看 claude code 的 tui 面板了（而且也可以和 obelisk 一起使用（"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1050,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近 obelisk 项目收到了很多 pr，这些 pr 的质量都不低，但是很难一次合并，问题并不来自于 contributor，而来自于我难以将脑海中的标准量化成 contributor 需要 follow 的 principle，写进 contributing.md 里，但 obelisk 最终帮助我很好做到了这点，算是让我有点震惊的地方吧\n于是关于 obelisk https://t.co/boONrDP1Om"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4835,
+          "following_count": 2708,
+          "like_count": 41508,
+          "listed_count": 18,
+          "media_count": 1589,
+          "tweet_count": 13887
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-17T10:52:09.000Z",
+        "description": "Building Kairos Agent for coding | ACMer & Computer Science Enthusiast | Lesbian | 💖love maimai & 📝writing | 🐱Catgirl | 💝I'll always be with you.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/tommy0103/obel…",
+                "end": 23,
+                "expanded_url": "http://github.com/tommy0103/obelisk",
+                "start": 0,
+                "url": "https://t.co/WB3ynJKHt9"
+              }
+            ]
+          }
+        },
+        "id": "1692126794055647232",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Yuu💖",
+        "pinned_tweet_id": "2020909686434955672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999276127014256644/c3JQXTfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3239,
+          "following_count": 462,
+          "like_count": 30113,
+          "listed_count": 29,
+          "media_count": 658,
+          "tweet_count": 8465
+        },
+        "url": "https://t.co/WB3ynJKHt9",
+        "username": "QuantumTransf",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-12T07:51:16.000Z",
+        "description": "Orchestrate coding agents, together.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lody.ai",
+                "end": 23,
+                "expanded_url": "http://lody.ai",
+                "start": 0,
+                "url": "https://t.co/05GPKtz9lK"
+              }
+            ]
+          }
+        },
+        "id": "2010620448883838976",
+        "name": "lody",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010622443740901376/L30Dr1mz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 10,
+          "like_count": 114,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 105
+        },
+        "url": "https://t.co/05GPKtz9lK",
+        "username": "lody_ai",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-15T02:31:12.000Z",
+        "description": "building @lody_ai \nco-founder @loro_dev \nlocal-first \nprev DAMO Academy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "lody_ai"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "loro_dev"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Leeeon233",
+                "end": 23,
+                "expanded_url": "https://github.com/Leeeon233",
+                "start": 0,
+                "url": "https://t.co/9EfsG4qjqK"
+              }
+            ]
+          }
+        },
+        "id": "1614449907787784194",
+        "name": "leon7hao",
+        "pinned_tweet_id": "2043993684656697604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659045486903578624/Fp_n53vj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2912,
+          "following_count": 609,
+          "like_count": 6118,
+          "listed_count": 29,
+          "media_count": 367,
+          "tweet_count": 4124
+        },
+        "url": "https://t.co/9EfsG4qjqK",
+        "username": "leon7hao",
+        "verified": true
+      }
+    ]
+  }
+}

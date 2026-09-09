@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2081881834850496988",
+    "created_at": "2026-07-28T02:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T03:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081928321869418669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1286241253621817344",
+          "start": 0,
+          "username": "CldGeo"
+        },
+        {
+          "end": 23,
+          "id": "887575245921558529",
+          "start": 8,
+          "username": "_SAIGONOHOSHI_"
+        },
+        {
+          "end": 38,
+          "id": "1144143792",
+          "start": 24,
+          "username": "__Crazy_Kid__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081928321869418669",
+    "in_reply_to_user_id": "1286241253621817344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081881834850496988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CldGeo @_SAIGONOHOSHI_ @__Crazy_Kid__ 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2081881658756829184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HORUVp6aEAAJVmD.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2081881658752700416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HORUVp5bEAAM3oE.jpg",
+        "width": 4032
+      },
+      {
+        "duration_ms": 7360,
+        "height": 3840,
+        "media_key": "13_2081881658782044160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081881658782044160/img/My-4P2RUjbACDn4H.jpg",
+        "public_metrics": {
+          "view_count": 104
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081881658782044160/vid/avc1/480x852/LybNhLop9iN7V2X4.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081881658782044160/vid/avc1/2160x3840/I053sIQG8mp1ZL-x.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081881658782044160/vid/avc1/320x568/5HX7cFHQIGrAdSOz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081881658782044160/vid/avc1/720x1280/ZDl3FPF3OC9szOUn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081881658782044160/pl/t68fgD5p1OOlZVRL.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081881658782044160/vid/avc1/1080x1920/IGkCHOyCwHCocQj2.mp4"
+          }
+        ],
+        "width": 2160
+      },
+      {
+        "duration_ms": 2766,
+        "height": 1280,
+        "media_key": "13_2081881658844958720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081881658844958720/img/zpPZxC7DByNjWTn-.jpg",
+        "public_metrics": {
+          "view_count": 23
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081881658844958720/vid/avc1/320x568/E50cpQQoNs55YULZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081881658844958720/vid/avc1/480x852/ec3Zay3uiqh2UwaL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081881658844958720/vid/avc1/720x1280/qKxl95yOzOR6Prsa.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081881658844958720/pl/S4TvIOul9NRMWFZw.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2081881834850496988",
+        "created_at": "2026-07-28T02:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081928321869418669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1286241253621817344",
+              "start": 0,
+              "username": "CldGeo"
+            },
+            {
+              "end": 23,
+              "id": "887575245921558529",
+              "start": 8,
+              "username": "_SAIGONOHOSHI_"
+            },
+            {
+              "end": 38,
+              "id": "1144143792",
+              "start": 24,
+              "username": "__Crazy_Kid__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081928321869418669",
+        "in_reply_to_user_id": "1286241253621817344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081881834850496988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CldGeo @_SAIGONOHOSHI_ @__Crazy_Kid__ 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081881658756829184",
+            "3_2081881658752700416",
+            "13_2081881658782044160",
+            "13_2081881658844958720"
+          ]
+        },
+        "author_id": "1286241253621817344",
+        "conversation_id": "2081881834850496988",
+        "created_at": "2026-07-27T23:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T00:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081881834850496988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 104,
+              "id": "2840236608",
+              "start": 88,
+              "username": "MilkSU_Official"
+            },
+            {
+              "end": 126,
+              "id": "887575245921558529",
+              "start": 111,
+              "username": "_SAIGONOHOSHI_"
+            },
+            {
+              "end": 147,
+              "id": "1144143792",
+              "start": 133,
+              "username": "__Crazy_Kid__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/29Lz4JmZGq",
+              "end": 196,
+              "expanded_url": "https://x.com/CldGeo/status/2081881834850496988/video/1",
+              "media_key": "3_2081881658756829184",
+              "start": 173,
+              "url": "https://t.co/29Lz4JmZGq"
+            },
+            {
+              "display_url": "pic.x.com/29Lz4JmZGq",
+              "end": 196,
+              "expanded_url": "https://x.com/CldGeo/status/2081881834850496988/video/1",
+              "media_key": "3_2081881658752700416",
+              "start": 173,
+              "url": "https://t.co/29Lz4JmZGq"
+            },
+            {
+              "display_url": "pic.x.com/29Lz4JmZGq",
+              "end": 196,
+              "expanded_url": "https://x.com/CldGeo/status/2081881834850496988/video/1",
+              "media_key": "13_2081881658782044160",
+              "start": 173,
+              "url": "https://t.co/29Lz4JmZGq"
+            },
+            {
+              "display_url": "pic.x.com/29Lz4JmZGq",
+              "end": 196,
+              "expanded_url": "https://x.com/CldGeo/status/2081881834850496988/video/1",
+              "media_key": "13_2081881658844958720",
+              "start": 173,
+              "url": "https://t.co/29Lz4JmZGq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081881834850496988",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 299,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【鸠の旅行记录】\n时间：2026年6月25日～7月29日。\n位置：杭州、上海。\n在杭州居住了一个月时间，中途也短暂去过几次上海，现在也是要告一段落了。\n这个7月，我收获满满。和@MilkSU_Official 合租一屋，陪@_SAIGONOHOSHI_ 同床共枕，与@__Crazy_Kid__ 共赴缀梦…\n图片与视频只是冰山一角，感谢所有人。 https://t.co/29Lz4JmZGq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4829,
+          "following_count": 2689,
+          "like_count": 41150,
+          "listed_count": 18,
+          "media_count": 1586,
+          "tweet_count": 13782
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-23T10:06:45.000Z",
+        "description": "見つめていた世界を 横で見たいって思う\n@Cldeop / @YunJiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 20,
+                "username": "Cldeop"
+              },
+              {
+                "end": 37,
+                "start": 30,
+                "username": "YunJiu"
+              }
+            ]
+          }
+        },
+        "id": "1286241253621817344",
+        "location": "「絶え間ない光」が降り注ぐ",
+        "name": "九鸟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937922553181573124/5BJVMBBg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4776,
+          "following_count": 376,
+          "like_count": 5377,
+          "listed_count": 8,
+          "media_count": 554,
+          "tweet_count": 2180
+        },
+        "url": "",
+        "username": "CldGeo",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-19T07:30:03.000Z",
+        "description": "半径25cmの窓で きみを見ている",
+        "id": "887575245921558529",
+        "location": "「無音の調和」に満ちた世界",
+        "name": "ホシ",
+        "pinned_tweet_id": "1772983632518414675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980677204989054976/IA-vulJZ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 37855,
+          "following_count": 200,
+          "like_count": 28,
+          "listed_count": 54,
+          "media_count": 3170,
+          "tweet_count": 9124
+        },
+        "url": "",
+        "username": "_SAIGONOHOSHI_",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-03T04:12:28.000Z",
+        "description": "7.22-7.26 杭州缀梦 / Backend Developer / Vibe Coding / Rhythm Game Fever /バンドリ! / 全网首台maimai主题痛四轮车主 / 🇨🇳 中文 🇭🇰🇲🇴粵語 🇯🇵日本語N5レベル初心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crazykid.moe",
+                "end": 23,
+                "expanded_url": "https://crazykid.moe/",
+                "start": 0,
+                "url": "https://t.co/bAk8eapyNo"
+              }
+            ]
+          }
+        },
+        "id": "1144143792",
+        "location": "中国",
+        "name": "CrazyKid",
+        "pinned_tweet_id": "1709067298974371886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871838337549606912/3vqW7t43_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5283,
+          "following_count": 1590,
+          "like_count": 19396,
+          "listed_count": 31,
+          "media_count": 11006,
+          "tweet_count": 50812
+        },
+        "url": "https://t.co/bAk8eapyNo",
+        "username": "__Crazy_Kid__",
+        "verified": true
+      }
+    ]
+  }
+}

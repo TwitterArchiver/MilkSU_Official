@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2096579187746443769",
+    "created_at": "2026-09-06T13:04:58.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T14:04:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096585450450493695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096585450450493695",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096579187746443769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcboxLiu 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 428,
+        "media_key": "3_2096579181455028225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiLqEobMAEZWeI.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2096579187746443769",
+        "created_at": "2026-09-06T13:04:58.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096585450450493695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096585450450493695",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096579187746443769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096579181455028225"
+          ]
+        },
+        "author_id": "1601893417549967360",
+        "conversation_id": "2096579187746443769",
+        "created_at": "2026-09-06T12:40:05.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096579187746443769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FhewFwqU8K",
+              "end": 31,
+              "expanded_url": "https://x.com/AcboxLiu/status/2096579187746443769/photo/1",
+              "media_key": "3_2096579181455028225",
+              "start": 8,
+              "url": "https://t.co/FhewFwqU8K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096579187746443769",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096579181455028225"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 388,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "23号曼谷见！ https://t.co/FhewFwqU8K"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2096585450450493695",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4891,
+          "following_count": 2763,
+          "like_count": 42697,
+          "listed_count": 19,
+          "media_count": 1621,
+          "tweet_count": 14229
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "/ 📦神秘纸箱 / 🐱家里有大猫和两只小猫\n/ https://t.co/hUTrNH9tjK\n/ Co-founder of https://t.co/gLiVpv7NbV https://t.co/PSLnUgtUxO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 47,
+                "expanded_url": "http://github.com/sheepbox8646",
+                "start": 24,
+                "url": "https://t.co/hUTrNH9tjK"
+              },
+              {
+                "display_url": "memoh.ai",
+                "end": 87,
+                "expanded_url": "http://memoh.ai",
+                "start": 64,
+                "url": "https://t.co/gLiVpv7NbV"
+              },
+              {
+                "display_url": "felinic.ai",
+                "end": 111,
+                "expanded_url": "http://felinic.ai",
+                "start": 88,
+                "url": "https://t.co/PSLnUgtUxO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ac.box",
+                "end": 23,
+                "expanded_url": "https://ac.box",
+                "start": 0,
+                "url": "https://t.co/UNw6tpSBMs"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "is_identity_verified": false,
+        "location": "上海/深圳",
+        "most_recent_tweet_id": "2096579187746443769",
+        "name": "📦Acbox",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1601893417549967360/1764649898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038245960967741441/70mSKMEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12828,
+          "following_count": 2745,
+          "like_count": 3624,
+          "listed_count": 64,
+          "media_count": 354,
+          "tweet_count": 5007
+        },
+        "url": "https://t.co/UNw6tpSBMs",
+        "username": "AcboxLiu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

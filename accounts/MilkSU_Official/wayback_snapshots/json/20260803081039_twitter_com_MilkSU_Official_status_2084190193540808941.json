@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2084117568777027967",
+    "created_at": "2026-08-03T08:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T09:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084190193540808941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1795603153414508544",
+          "start": 0,
+          "username": "Xiaochen520qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084190193540808941",
+    "in_reply_to_user_id": "1795603153414508544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084117568777027967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaochen520qwq 富"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2084117565782298624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxF4kqbEAA3Vnl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2084117568777027967",
+        "created_at": "2026-08-03T08:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084190193540808941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1795603153414508544",
+              "start": 0,
+              "username": "Xiaochen520qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084190193540808941",
+        "in_reply_to_user_id": "1795603153414508544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084117568777027967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaochen520qwq 富"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084117565782298624"
+          ]
+        },
+        "author_id": "1795603153414508544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084117568777027967",
+        "created_at": "2026-08-03T03:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084117568777027967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eS18dON3FJ",
+              "end": 27,
+              "expanded_url": "https://x.com/Xiaochen520qwq/status/2084117568777027967/photo/1",
+              "media_key": "3_2084117565782298624",
+              "start": 4,
+              "url": "https://t.co/eS18dON3FJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084117568777027967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 63,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "陋室铭 https://t.co/eS18dON3FJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4830,
+          "following_count": 2705,
+          "like_count": 41448,
+          "listed_count": 18,
+          "media_count": 1589,
+          "tweet_count": 13868
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-28T23:48:57.000Z",
+        "description": "17岁/srs 27.1/持证含糖/浙江/INTP/车迷/Minecraft /私信互fo/老婆@_Nix24_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "_Nix24_"
+              }
+            ]
+          }
+        },
+        "id": "1795603153414508544",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "淆晨Xiaochen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006928349059575808/LU-eQleY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 135,
+          "like_count": 1065,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 172
+        },
+        "url": "",
+        "username": "Xiaochen520qwq",
+        "verified": false
+      }
+    ]
+  }
+}

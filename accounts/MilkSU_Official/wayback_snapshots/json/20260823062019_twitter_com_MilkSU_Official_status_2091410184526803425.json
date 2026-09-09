@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2091090855167991813",
+    "created_at": "2026-08-23T06:20:19.000Z",
+    "display_text_range": [
+      8,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T07:20:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091410184526803425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1877440800",
+          "start": 0,
+          "username": "li9292"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091410184526803425",
+    "in_reply_to_user_id": "1877440800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091090855167991813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@li9292 羡慕会做agent调度🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2091090855167991813",
+        "created_at": "2026-08-23T06:20:19.000Z",
+        "display_text_range": [
+          8,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T07:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091410184526803425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1877440800",
+              "start": 0,
+              "username": "li9292"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091410184526803425",
+        "in_reply_to_user_id": "1877440800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091090855167991813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li9292 羡慕会做agent调度🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877440800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2091090855167991813",
+        "created_at": "2026-08-22T09:11:25.000Z",
+        "display_text_range": [
+          0,
+          193
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T10:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091090855167991813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/10xmylife/stat…",
+              "end": 217,
+              "expanded_url": "https://twitter.com/10xmylife/status/2090746640495964545",
+              "start": 194,
+              "url": "https://t.co/9CBI8r3Kap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091090855167991813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我做了个开源 skill：gemini-writer 🛠️\n\n1️⃣主模型贵在推理，成篇写作却极耗输出 token\n\n2️⃣这个 skill 让它们把初稿自动外包给便宜快速的 gemini-3.7-flash，主 agent 只做审校定稿——省额度、提速度。\n\n3️⃣双端通用：Claude Code 和 Codex 都能装，更新一次两端生效\n\n4️⃣双后端：Google AI Pro 会员额度零成本，或 API key 直连\n\n5️⃣真实透明：每次调用如实标注实际执笔的模型，不糊弄👇"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 2421,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090746640495964545",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我做了个开源 skill：gemini-writer 🛠️\n\n1️⃣主模型贵在推理，成篇写作却极耗输出 token\n\n2️⃣这个 skill 让它们把初稿自动外包给便宜快速的 gemini-3.7-flash，主 agent 只做审校定稿——省额度、提速度。\n\n3️⃣双端通用：Claude Code 和 Codex 都能装，更新一次两端生效\n\n4️⃣双后端：Google AI Pro https://t.co/9CBI8r3Kap"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2091410184526803425",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4842,
+          "following_count": 2735,
+          "like_count": 42068,
+          "listed_count": 19,
+          "media_count": 1608,
+          "tweet_count": 14072
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2030792985101926401/ia9mNmWL_bigger.png",
+          "description": "EverMind",
+          "url": "https://twitter.com/evermind",
+          "user_id": [
+            "1988455688323166215"
+          ]
+        },
+        "created_at": "2013-09-18T00:52:13.000Z",
+        "description": "🤓AI-naive builder 🤖Agentic coder \n💻Learning AI in public📈@evermind ambassador \n @lijiuer9888 微信同号 All wrong reserved \n📮toyofbob@hotmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "evermind"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "lijiuer9888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "evermind.ai",
+                "end": 23,
+                "expanded_url": "https://evermind.ai/",
+                "start": 0,
+                "url": "https://t.co/9lRYy7O4h7"
+              }
+            ]
+          }
+        },
+        "id": "1877440800",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2091385559067554049",
+        "name": "李韭二",
+        "pinned_tweet_id": "2091030252197966264",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877440800/1783960244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958447835365707776/pezBwxG9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13586,
+          "following_count": 1298,
+          "like_count": 19984,
+          "listed_count": 108,
+          "media_count": 598,
+          "tweet_count": 8760
+        },
+        "url": "https://t.co/9lRYy7O4h7",
+        "username": "li9292",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

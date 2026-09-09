@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2084538413789983148",
+    "created_at": "2026-08-04T08:00:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T09:00:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084550114371387662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1699797396589588480",
+          "start": 0,
+          "username": "MaxForAI"
+        },
+        {
+          "end": 24,
+          "id": "1863959670169501696",
+          "start": 10,
+          "username": "Kimi_Moonshot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084550114371387662",
+    "in_reply_to_user_id": "1699797396589588480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084538413789983148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaxForAI @Kimi_Moonshot 天好蓝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2084538294357127168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3EiMva8AAx0_9.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2084538413789983148",
+        "created_at": "2026-08-04T08:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084550114371387662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1699797396589588480",
+              "start": 0,
+              "username": "MaxForAI"
+            },
+            {
+              "end": 24,
+              "id": "1863959670169501696",
+              "start": 10,
+              "username": "Kimi_Moonshot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084550114371387662",
+        "in_reply_to_user_id": "1699797396589588480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084538413789983148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaxForAI @Kimi_Moonshot 天好蓝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084538294357127168"
+          ]
+        },
+        "author_id": "1699797396589588480",
+        "conversation_id": "2084538413789983148",
+        "created_at": "2026-08-04T07:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084538413789983148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1863959670169501696",
+              "start": 0,
+              "username": "Kimi_Moonshot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4184QXNP28",
+              "end": 61,
+              "expanded_url": "https://x.com/MaxForAI/status/2084538413789983148/photo/1",
+              "media_key": "3_2084538294357127168",
+              "start": 38,
+              "url": "https://t.co/4184QXNP28"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084538413789983148",
+        "in_reply_to_user_id": "1863959670169501696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1134,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@Kimi_Moonshot 太有排面了！！\n\nOpen Model🔥🔥🔥 https://t.co/4184QXNP28"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4832,
+          "following_count": 2706,
+          "like_count": 41484,
+          "listed_count": 18,
+          "media_count": 1589,
+          "tweet_count": 13882
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "本科辍学创业，没啥好看的，也就发点AI相关的内容🫡\nHead of growth @lobehub（81K🌟）\nPrev @listenhub @Sapient_Int \n同名小红书4万粉丝，公众号01Founder（长文首发）\n观点仅代表个人\n更多请访问网站⬇️（欢迎商务、合作",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "lobehub"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "username": "listenhub"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Sapient_Int"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6feey"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "location": "Singapore",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2062538878096130207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25377,
+          "following_count": 2630,
+          "like_count": 19132,
+          "listed_count": 223,
+          "media_count": 1152,
+          "tweet_count": 8615
+        },
+        "url": "https://t.co/Sl0Wv6feey",
+        "username": "MaxForAI",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-03T14:54:14.000Z",
+        "description": "Built by Moonshot AI to empower everyone to be superhuman. \n@Kimidevs built for developers\nAPI: https://t.co/XCrgjXzSWY\nDC: https://t.co/wBsBTn6fmE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Kimidevs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "platform.kimi.ai",
+                "end": 119,
+                "expanded_url": "http://platform.kimi.ai",
+                "start": 96,
+                "url": "https://t.co/XCrgjXzSWY"
+              },
+              {
+                "display_url": "discord.gg/9SY8CenBNh",
+                "end": 147,
+                "expanded_url": "https://discord.gg/9SY8CenBNh",
+                "start": 124,
+                "url": "https://t.co/wBsBTn6fmE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kimi.ai",
+                "end": 23,
+                "expanded_url": "https://www.kimi.ai/",
+                "start": 0,
+                "url": "https://t.co/ZDNzlrMopi"
+              }
+            ]
+          }
+        },
+        "id": "1863959670169501696",
+        "name": "Kimi.ai",
+        "pinned_tweet_id": "2081760186235289764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910294000927645696/QseOV0uF_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350646,
+          "following_count": 137,
+          "like_count": 319,
+          "listed_count": 2548,
+          "media_count": 177,
+          "tweet_count": 441
+        },
+        "url": "https://t.co/ZDNzlrMopi",
+        "username": "Kimi_Moonshot",
+        "verified": true
+      }
+    ]
+  }
+}

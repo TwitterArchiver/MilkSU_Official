@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2082530611495883260",
+    "created_at": "2026-07-30T04:51:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T05:51:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082690625699553618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1562153864",
+          "start": 0,
+          "username": "BigMiIkBottIe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082690625699553618",
+    "in_reply_to_user_id": "1562153864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082530611495883260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@BigMiIkBottIe 奶瓶猫是博士！刀客塔！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2082530611495883260",
+        "created_at": "2026-07-30T04:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T05:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082690625699553618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1562153864",
+              "start": 0,
+              "username": "BigMiIkBottIe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082690625699553618",
+        "in_reply_to_user_id": "1562153864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082530611495883260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@BigMiIkBottIe 奶瓶猫是博士！刀客塔！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1562153864",
+        "conversation_id": "2082530611495883260",
+        "created_at": "2026-07-29T18:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082530611495883260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dearemon/statu…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/dearemon/status/2081903074722054630",
+              "start": 136,
+              "url": "https://t.co/IDV9A5M32V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082530611495883260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 489,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081903074722054630",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "現在的我就是這麼個內耗的狀態\n跟現在的老闆工作方式不適合，後面如果還沒找到工作的話考慮換個別的組了\n當然，現在的組也沒有別的錢再讓我繼續混著了，客觀上講也得找個別的金主\n雖然私下裡還挺喜歡我老闆這個人的，但工作上我跟她確實不太搭，或者說我的感覺至少是比讀博時更內耗的狀態 https://t.co/IDV9A5M32V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4823,
+          "following_count": 2691,
+          "like_count": 41236,
+          "listed_count": 18,
+          "media_count": 1584,
+          "tweet_count": 13807
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2013-07-02T03:54:31.000Z",
+        "description": "400 mL 的大容量奶瓶｜奶牛貓貓娘｜貓咪中心主義｜National Honour ID: XXKM220803KCH55P",
+        "id": "1562153864",
+        "location": "117 公館，廚房的櫃子裏",
+        "name": "奶瓶貓 🍼😺 ᠴᡳᠮᡳᡴᡡ ᡴᡝᠰᡳᡴᡝ chat à biberon",
+        "pinned_tweet_id": "1678596763320729600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1570667703274450944/uIwnUF6R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 864,
+          "like_count": 139133,
+          "listed_count": 8,
+          "media_count": 1038,
+          "tweet_count": 24570
+        },
+        "url": "",
+        "username": "BigMiIkBottIe",
+        "verified": false
+      }
+    ]
+  }
+}

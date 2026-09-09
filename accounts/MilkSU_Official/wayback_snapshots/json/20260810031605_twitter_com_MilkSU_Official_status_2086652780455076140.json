@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2086646888544272719",
+    "created_at": "2026-08-10T03:16:05.000Z",
+    "display_text_range": [
+      32,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T04:16:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086652780455076140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1581738468547301376",
+          "start": 0,
+          "username": "ProbiusOfficial"
+        },
+        {
+          "end": 31,
+          "id": "1996428473125269504",
+          "start": 17,
+          "username": "SnowyWar36965"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086652780455076140",
+    "in_reply_to_user_id": "1581738468547301376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086650746439938487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ProbiusOfficial @SnowyWar36965 确实好看诶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1516,
+        "media_key": "3_2086650084847165440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVFMlXaoAAuQmG.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2086646888544272719",
+        "created_at": "2026-08-10T03:16:05.000Z",
+        "display_text_range": [
+          32,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T04:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086652780455076140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1581738468547301376",
+              "start": 0,
+              "username": "ProbiusOfficial"
+            },
+            {
+              "end": 31,
+              "id": "1996428473125269504",
+              "start": 17,
+              "username": "SnowyWar36965"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086652780455076140",
+        "in_reply_to_user_id": "1581738468547301376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086650746439938487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ProbiusOfficial @SnowyWar36965 确实好看诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086650084847165440"
+          ]
+        },
+        "author_id": "1581738468547301376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086646888544272719",
+        "created_at": "2026-08-10T03:08:00.000Z",
+        "display_text_range": [
+          15,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T04:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086650746439938487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1996428473125269504",
+              "start": 0,
+              "username": "SnowyWar36965"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6H40IfcgMg",
+              "end": 88,
+              "expanded_url": "https://x.com/ProbiusOfficial/status/2086650746439938487/photo/1",
+              "media_key": "3_2086650084847165440",
+              "start": 65,
+              "url": "https://t.co/6H40IfcgMg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086650746439938487",
+        "in_reply_to_user_id": "1996428473125269504",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086650084847165440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086646888544272719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowyWar36965 同压榨双机跑的 但是前端提示词是让k3写的\n至少个人觉得好看（就是一个题都不能解 除了好看没啥用😇 https://t.co/6H40IfcgMg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2086652780455076140",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4840,
+          "following_count": 2728,
+          "like_count": 41714,
+          "listed_count": 18,
+          "media_count": 1594,
+          "tweet_count": 13930
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-16T20:07:43.000Z",
+        "description": "founder of @cyclens_tech | CTF教程 - HelloCTF: https://t.co/qIGhtUfXk2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "cyclens_tech"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hello-ctf.com",
+                "end": 68,
+                "expanded_url": "https://hello-ctf.com/",
+                "start": 45,
+                "url": "https://t.co/qIGhtUfXk2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/ProbiusOfficial",
+                "end": 23,
+                "expanded_url": "https://github.com/ProbiusOfficial",
+                "start": 0,
+                "url": "https://t.co/E9lZZ7BIjH"
+              }
+            ]
+          }
+        },
+        "id": "1581738468547301376",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2086650746439938487",
+        "name": "探姬 | Hello-CTF 🚩",
+        "pinned_tweet_id": "2030395405083763109",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1581738468547301376/1784695414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998788213247541248/eoyKSlKi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9644,
+          "following_count": 507,
+          "like_count": 15148,
+          "listed_count": 46,
+          "media_count": 2106,
+          "tweet_count": 13462
+        },
+        "url": "https://t.co/E9lZZ7BIjH",
+        "username": "ProbiusOfficial",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-04T03:57:05.000Z",
+        "description": "CTFer | Security Development Engineer | W&M | EIMSOUND",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "snowywar.top",
+                "end": 23,
+                "expanded_url": "http://www.snowywar.top",
+                "start": 0,
+                "url": "https://t.co/E8SfL13sZ7"
+              }
+            ]
+          }
+        },
+        "id": "1996428473125269504",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086646888544272719",
+        "name": "Sn1waR",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996429903978446848/WCMLN3cw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 13,
+          "like_count": 23,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 195
+        },
+        "url": "https://t.co/E8SfL13sZ7",
+        "username": "SnowyWar36965",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

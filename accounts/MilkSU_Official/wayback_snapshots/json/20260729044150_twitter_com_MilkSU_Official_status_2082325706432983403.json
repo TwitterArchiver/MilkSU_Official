@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2082142533820494154",
+    "created_at": "2026-07-29T04:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T05:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082325706432983403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1787032539624099840",
+          "start": 0,
+          "username": "miruku2937"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082325706432983403",
+    "in_reply_to_user_id": "1787032539624099840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082142533820494154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miruku2937 好强"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2082140899900010496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOVAHebaMAAD7g_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2082142533820494154",
+        "created_at": "2026-07-29T04:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082325706432983403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1787032539624099840",
+              "start": 0,
+              "username": "miruku2937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082325706432983403",
+        "in_reply_to_user_id": "1787032539624099840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082142533820494154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miruku2937 好强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082140899900010496"
+          ]
+        },
+        "author_id": "1787032539624099840",
+        "conversation_id": "2082142533820494154",
+        "created_at": "2026-07-28T16:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082142533820494154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GUicrnczZR",
+              "end": 65,
+              "expanded_url": "https://x.com/miruku2937/status/2082142533820494154/photo/1",
+              "media_key": "3_2082140899900010496",
+              "start": 42,
+              "url": "https://t.co/GUicrnczZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082142533820494154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就这样持续输出计算机跨女的刻板印象\n（弥补了往届领奖没有xyn的缺失）\n*重发抱歉 https://t.co/GUicrnczZR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4828,
+          "following_count": 2691,
+          "like_count": 41199,
+          "listed_count": 18,
+          "media_count": 1586,
+          "tweet_count": 13800
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-05T08:13:06.000Z",
+        "description": "She/Her. \nCTF w/@Nu1L_Team & Spirit Team.\n*CPC player.\nNixOS/Combinators enjoyer.\nI love solving puzzles qwq.\nLover: @calsys456 @Yume33550336.\n🐱: @rosmarinou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "Nu1L_Team"
+              },
+              {
+                "end": 127,
+                "start": 117,
+                "username": "calsys456"
+              },
+              {
+                "end": 141,
+                "start": 128,
+                "username": "Yume33550336"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "rosmarinou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "miruku.moe",
+                "end": 23,
+                "expanded_url": "http://miruku.moe",
+                "start": 0,
+                "url": "https://t.co/cICPJnaHx5"
+              }
+            ]
+          }
+        },
+        "id": "1787032539624099840",
+        "location": "miruku@miruku.moe",
+        "name": "御坂みるく",
+        "pinned_tweet_id": "1992823445814730796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060262953170178048/WAhqJ_e3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 297,
+          "like_count": 5881,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 766
+        },
+        "url": "https://t.co/cICPJnaHx5",
+        "username": "miruku2937",
+        "verified": false
+      }
+    ]
+  }
+}

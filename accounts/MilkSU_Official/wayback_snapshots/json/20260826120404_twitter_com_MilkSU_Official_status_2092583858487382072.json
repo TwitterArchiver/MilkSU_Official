@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2092566795735687286",
+    "created_at": "2026-08-26T12:04:04.000Z",
+    "display_text_range": [
+      9,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T13:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092583858487382072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1910137141570740225",
+          "start": 0,
+          "username": "TwiASLZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092583858487382072",
+    "in_reply_to_user_id": "1910137141570740225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092571744913780799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TwiASLZ GPT批量阐释"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2092566795735687286",
+        "created_at": "2026-08-26T12:04:04.000Z",
+        "display_text_range": [
+          9,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092583858487382072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1910137141570740225",
+              "start": 0,
+              "username": "TwiASLZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092583858487382072",
+        "in_reply_to_user_id": "1910137141570740225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092571744913780799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TwiASLZ GPT批量阐释"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910137141570740225",
+        "conversation_id": "2092566795735687286",
+        "created_at": "2026-08-26T11:15:56.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T12:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092571744913780799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2840236608",
+              "start": 0,
+              "username": "MilkSU_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092571744913780799",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092566795735687286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MilkSU_Official 让它自动动！w"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2092583858487382072",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4861,
+          "following_count": 2753,
+          "like_count": 42268,
+          "listed_count": 19,
+          "media_count": 1610,
+          "tweet_count": 14126
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-10T01:06:09.000Z",
+        "description": "记录乱七八糟的情绪和一些善意 | 洛",
+        "id": "1910137141570740225",
+        "is_identity_verified": false,
+        "location": "地球",
+        "most_recent_tweet_id": "2092571744913780799",
+        "name": "AsabaLazy⭐️",
+        "pinned_tweet_id": "2010675861171982804",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910137141570740225/1748995737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066249669244858368/H2TuPBz7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 160,
+          "like_count": 11858,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 250
+        },
+        "url": "",
+        "username": "TwiASLZ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

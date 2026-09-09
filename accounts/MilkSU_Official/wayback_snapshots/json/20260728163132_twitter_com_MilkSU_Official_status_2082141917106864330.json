@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2082030802859164122",
+    "created_at": "2026-07-28T16:31:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T17:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082141917106864330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1882844316475019264",
+          "start": 0,
+          "username": "Charles77xixi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082141917106864330",
+    "in_reply_to_user_id": "1882844316475019264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082030802859164122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Charles77xixi 感觉在大公司呆的快抑郁了qaq 好在过两天 last day"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2081925222777896960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOR79aiaQAAvIes.jpg",
+        "width": 1707
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2082030802859164122",
+        "created_at": "2026-07-28T16:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082141917106864330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1882844316475019264",
+              "start": 0,
+              "username": "Charles77xixi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082141917106864330",
+        "in_reply_to_user_id": "1882844316475019264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082030802859164122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Charles77xixi 感觉在大公司呆的快抑郁了qaq 好在过两天 last day"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081925222777896960"
+          ]
+        },
+        "author_id": "1882844316475019264",
+        "conversation_id": "2082030802859164122",
+        "created_at": "2026-07-28T09:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082030802859164122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cZYxRmYAGF",
+              "end": 128,
+              "expanded_url": "https://x.com/Charles77xixi/status/2082030802859164122/photo/1",
+              "media_key": "3_2081925222777896960",
+              "start": 105,
+              "url": "https://t.co/cZYxRmYAGF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082030802859164122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "算算从大厂出来到 AI 初创快两个月了，之前在大厂待了挺久，两边的节奏和环境差别还是挺大的，说几个体感最深的点\n\n1.工作节奏差异\n\n在大厂也忙，但所有需求都有明确排期，一般在一周之前，你就知道本周要干什么。\n\n而在初创不是这样，大家都在找方向，方向本身没那么确定，重心每天都可能变，需求的优先级甚至需求本身也会跟着变，interrupt 也会比大厂多很多(需要刻意培养同事减少interrupt)，整个节奏快了很多。\n\n会出现很多看似非常高优的事情，实则稍微拖一会就无人在意了，对工程师辨别需求的能力要求比较高，需要刻意区分哪些是真正重要的事情，最好是利用经验和权威把”重要的事“在一定范围内达成共识，让项目始终保持在正轨上，多做高ROI的事情。\n\n2.真正做事的时间变多了\n\n大厂有各种层级，每个人有自己的利益，个人利益、组织利益和公司利益的夹角太大了。你会做很多无用功，比如为了汇报而做的活，真正落在产品上的工作没那么多，整体效率打了很大折扣。\n\n在初创这边，沟通摩擦和向上汇报的摩擦都少很多，你把事情做好、把效果做好，比其他什么都重要。\n\n所以初创适合真正想做事的人，这句话并不是鸡汤。\n\n当然，万事都是trade-off，同样这个点也会有一些负面效果：消化成果和方案的时间变少、output\\reward 不一定相关、人力更少更容易导致鞭打快牛，产出多的人更容易承担更多。\n\n3.忙起来是真的忙\n\n初创的各种事都更草莽一些，流程、工具、规范很多是边跑边搭的，忙起来的时候遭不住，经常会有一口气开多个Agent、工作数个小时的情况，回过神来的时候只觉得脑子被榨干了。\n\n最紧急的时候晚上接到的需求，当天晚上就直接做完了。\n\n4. AI Native的研发方式\n\n我的判断是，AI Native 的研发方式在现在的大厂组织架构下几乎不可能落地。\n\n一方面大厂的技术架构和人员分配都非常固定，推 AI Native 意味着要打破原有的利益分配，这在大厂太难了。\n\n另一方面大厂对个人用 AI 工具是有 ROI 考核的，我之前 token 用得多，就会被质疑产出，哪怕产出确实比别人高，token 消耗太多照样面临压力。\n\n还有一个点：大厂对各种权限的管理是非常严格的，不可能给本地的coding agent太多权限，比如看线上日志、看数据库表、甚至修改数据库的权限。\n\n而初创完全反过来，所有人都希望你有更高的 output，token 随便烧，权限完全放开，每个人都可以尽情发挥，搭建效率最高的工作流。\n\n同样的工具，在两种组织里能发挥的效果是完全不一样的。\n\n这也是为什么我觉得，离开大厂出来不是个坏选择。倒不是劝所有人都跑，大厂的现金流和稳定性，对多数人依然是最优解；但如果你想用最一线的方式做事，想把 AI 真正用进生产，现有的大厂架构确实不会鼓励你这么干。\n\n换个环境，本质上是换一种对待你产出的方式。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 13372,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "算算从大厂出来到 AI 初创快两个月了，之前在大厂待了挺久，两边的节奏和环境差别还是挺大的，说几个体感最深的点\n\n1.工作节奏差异\n\n在大厂也忙，但所有需求都有明确排期，一般在一周之前，你就知道本周要干什么。 https://t.co/cZYxRmYAGF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4827,
+          "following_count": 2688,
+          "like_count": 41170,
+          "listed_count": 18,
+          "media_count": 1586,
+          "tweet_count": 13792
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T17:34:58.000Z",
+        "description": "00后程序员👨🏻‍💻｜前大厂 Infra，目前在做 Game Agent\n把 AI 真正用进项目、把工资变成资产\n合作 📮：charles77xixi@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "charles-cheng.com",
+                "end": 23,
+                "expanded_url": "http://www.charles-cheng.com",
+                "start": 0,
+                "url": "https://t.co/MI8k62NOfU"
+              }
+            ]
+          }
+        },
+        "id": "1882844316475019264",
+        "location": "China, Shenzhen",
+        "name": "Charles在路上",
+        "pinned_tweet_id": "2077345943213818302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047866644459048960/cOHLnyyK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3716,
+          "following_count": 214,
+          "like_count": 815,
+          "listed_count": 18,
+          "media_count": 111,
+          "tweet_count": 1375
+        },
+        "url": "https://t.co/MI8k62NOfU",
+        "username": "Charles77xixi",
+        "verified": true
+      }
+    ]
+  }
+}

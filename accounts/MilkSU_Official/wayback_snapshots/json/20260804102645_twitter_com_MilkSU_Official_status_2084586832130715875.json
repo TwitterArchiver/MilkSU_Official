@@ -1,0 +1,462 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "description": "Sega",
+          "id": "943877135894056966",
+          "name": "Sega"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sega",
+          "id": "943877135894056966",
+          "name": "Sega"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      }
+    ],
+    "conversation_id": "2084586832130715875",
+    "created_at": "2026-08-04T10:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T11:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084586832130715875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sega_official/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/sega_official/status/2084101820658667788",
+          "start": 15,
+          "url": "https://t.co/rsuNju7Ja8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084586832130715875",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084101820658667788",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "快改回刷aime卡上机ww🥵 https://t.co/rsuNju7Ja8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "2084586832130715875",
+        "created_at": "2026-08-04T10:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084586832130715875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sega_official/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/sega_official/status/2084101820658667788",
+              "start": 15,
+              "url": "https://t.co/rsuNju7Ja8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084586832130715875",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084101820658667788",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "快改回刷aime卡上机ww🥵 https://t.co/rsuNju7Ja8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "177110380",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "2084101820658667788",
+        "created_at": "2026-08-03T02:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084101820658667788"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "セガ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "セガ、中国・上海に現地法人「世嘉（上海）軟件有限公司（SEGA (Shanghai) Entertainment Technology Co., Ltd.）」を設立",
+              "display_url": "sega.co.jp/release/260803…",
+              "end": 131,
+              "expanded_url": "https://www.sega.co.jp/release/260803_1.html",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2084100734463913984/cdveglug?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2084100734463913984/cdveglug?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 108,
+              "status": 200,
+              "title": "株式会社セガ",
+              "unwound_url": "https://www.sega.co.jp/release/260803_1.html",
+              "url": "https://t.co/ECkuPdLJxR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084101820658667788",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 82898,
+          "like_count": 507,
+          "quote_count": 34,
+          "reply_count": 27,
+          "retweet_count": 162
+        },
+        "reply_settings": "everyone",
+        "text": "セガ、中国・上海に現地法人「世嘉（上海）軟件有限公司」を設立\n\n現地市場理解の深化、パートナーシップの強化及び事業機能の構築を進め、世界中のより多くの方々に自社IP含めたコンテンツをお届けすべく努めてまいります。\n\nhttps://t.co/ECkuPdLJxR\n\n#セガ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4833,
+          "following_count": 2707,
+          "like_count": 41498,
+          "listed_count": 18,
+          "media_count": 1589,
+          "tweet_count": 13885
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2010-08-11T07:55:56.000Z",
+        "description": "【創造は生命】ゲーム/イベント/グッズ等、感動体験を創造し続けるセガのニュースやセガ社内の様子を担当4名で広くお報せ。■お問合せ➡️https://t.co/kvkibMxgCM　■プレイ動画利用ガイドライン■カスタマーハラスメントポリシー⇒https://t.co/AA7kcoc5g0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sega.jp/contact/",
+                "end": 89,
+                "expanded_url": "http://sega.jp/contact/",
+                "start": 66,
+                "url": "https://t.co/kvkibMxgCM"
+              },
+              {
+                "display_url": "tinyurl.com/2clss78z",
+                "end": 144,
+                "expanded_url": "http://tinyurl.com/2clss78z",
+                "start": 121,
+                "url": "https://t.co/AA7kcoc5g0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sega.jp",
+                "end": 23,
+                "expanded_url": "http://sega.jp/",
+                "start": 0,
+                "url": "https://t.co/MtlLwADKZ9"
+              }
+            ]
+          }
+        },
+        "id": "177110380",
+        "location": "創造は生命",
+        "name": "セガ公式アカウント🦔",
+        "pinned_tweet_id": "2083017394906370085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046106447092883456/OSFe8seY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605229,
+          "following_count": 3767,
+          "like_count": 10401,
+          "listed_count": 5461,
+          "media_count": 91617,
+          "tweet_count": 156255
+        },
+        "url": "https://t.co/MtlLwADKZ9",
+        "username": "SEGA_OFFICIAL",
+        "verified": true
+      }
+    ]
+  }
+}

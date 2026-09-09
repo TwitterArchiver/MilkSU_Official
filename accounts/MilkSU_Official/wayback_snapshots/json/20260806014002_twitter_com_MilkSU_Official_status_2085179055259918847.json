@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2084948630256189803",
+    "created_at": "2026-08-06T01:40:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T02:40:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085179055259918847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1692126794055647232",
+          "start": 0,
+          "username": "QuantumTransf"
+        },
+        {
+          "end": 24,
+          "id": "364478145",
+          "start": 15,
+          "username": "xicilion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085179055259918847",
+    "in_reply_to_user_id": "1692126794055647232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084948630256189803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuantumTransf @xicilion 好诶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1650,
+        "media_key": "3_2084946188751785984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO83gxxa0AAXh-X.jpg",
+        "width": 3396
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2084948630256189803",
+        "created_at": "2026-08-06T01:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T02:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085179055259918847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1692126794055647232",
+              "start": 0,
+              "username": "QuantumTransf"
+            },
+            {
+              "end": 24,
+              "id": "364478145",
+              "start": 15,
+              "username": "xicilion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085179055259918847",
+        "in_reply_to_user_id": "1692126794055647232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084948630256189803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuantumTransf @xicilion 好诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084946188751785984"
+          ]
+        },
+        "author_id": "1692126794055647232",
+        "conversation_id": "2084948630256189803",
+        "created_at": "2026-08-05T10:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:16:47.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084946712096068079",
+          "2084946961866907815",
+          "2084948556931326288",
+          "2084948630256189803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 45,
+              "id": "364478145",
+              "start": 36,
+              "username": "xicilion"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1u55o2wIp9",
+              "end": 152,
+              "expanded_url": "https://x.com/QuantumTransf/status/2084948630256189803/photo/1",
+              "media_key": "3_2084946188751785984",
+              "start": 129,
+              "url": "https://t.co/1u55o2wIp9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084948630256189803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 45,
+                "id": "364478145",
+                "start": 36,
+                "username": "xicilion"
+              }
+            ]
+          },
+          "text": "docu.md 在 review 过程中真的给我提供了很大的帮助，感谢 @xicilion 创造出这么好的工具\n预告一下之后会有一本 pi codebase book（最快一两周？），每个地方我都认真看过，保证说人话（呃呃，但是我还是必须承认这个是有 ai 帮助的情况下去做的，自己从零开始写一本书实在太费精力，也希望大家可以理解，当然，肯定会区分于 ai slop"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 10483,
+          "like_count": 49,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "docu.md 在 review 过程中真的给我提供了很大的帮助，感谢 @xicilion 创造出这么好的工具\n预告一下之后会有一本 pi codebase book（最快一两周？），每个地方我都认真看过，保证说人话（呃呃，但是我还是必须承认这个是有 ai https://t.co/1u55o2wIp9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4833,
+          "following_count": 2710,
+          "like_count": 41563,
+          "listed_count": 18,
+          "media_count": 1591,
+          "tweet_count": 13898
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-17T10:52:09.000Z",
+        "description": "Building Kairos Agent for coding | ACMer & Computer Science Enthusiast | Lesbian | 💖love maimai & 📝writing | 🐱Catgirl | 💝I'll always be with you.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/tommy0103/obel…",
+                "end": 23,
+                "expanded_url": "http://github.com/tommy0103/obelisk",
+                "start": 0,
+                "url": "https://t.co/WB3ynJKHt9"
+              }
+            ]
+          }
+        },
+        "id": "1692126794055647232",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Yuu💖",
+        "pinned_tweet_id": "2020909686434955672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999276127014256644/c3JQXTfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3269,
+          "following_count": 464,
+          "like_count": 30157,
+          "listed_count": 28,
+          "media_count": 664,
+          "tweet_count": 8510
+        },
+        "url": "https://t.co/WB3ynJKHt9",
+        "username": "QuantumTransf",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-29T20:52:12.000Z",
+        "description": "。。。。。。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fibjs.org",
+                "end": 23,
+                "expanded_url": "https://fibjs.org/",
+                "start": 0,
+                "url": "https://t.co/PAD078hDt5"
+              }
+            ]
+          }
+        },
+        "id": "364478145",
+        "name": "响马",
+        "pinned_tweet_id": "1339204590558826496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792551913969631232/tBrYW9Vq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69477,
+          "following_count": 3403,
+          "like_count": 19,
+          "listed_count": 694,
+          "media_count": 1,
+          "tweet_count": 31
+        },
+        "url": "https://t.co/PAD078hDt5",
+        "username": "xicilion",
+        "verified": false
+      }
+    ]
+  }
+}

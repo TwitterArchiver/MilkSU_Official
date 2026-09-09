@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2093637253767860625",
+    "created_at": "2026-09-02T07:09:05.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T08:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095046338656530529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1192067927777742848",
+          "start": 0,
+          "username": "canyie2977"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095046338656530529",
+    "in_reply_to_user_id": "1192067927777742848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093637253767860625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@canyie2977 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2093637250177519616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ4X_IlbUAAN5ot.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2093637253767860625",
+        "created_at": "2026-09-02T07:09:05.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T08:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095046338656530529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1192067927777742848",
+              "start": 0,
+              "username": "canyie2977"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095046338656530529",
+        "in_reply_to_user_id": "1192067927777742848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093637253767860625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@canyie2977 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093637250177519616"
+          ]
+        },
+        "author_id": "1192067927777742848",
+        "conversation_id": "2093637253767860625",
+        "created_at": "2026-08-29T09:49:53.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T10:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093637253767860625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pJqhPql2lZ",
+              "end": 41,
+              "expanded_url": "https://x.com/canyie2977/status/2093637253767860625/photo/1",
+              "media_key": "3_2093637250177519616",
+              "start": 18,
+              "url": "https://t.co/pJqhPql2lZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093637253767860625",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093637250177519616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 398,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "向曾经的自己祈祷\n解算我未来的人生 https://t.co/pJqhPql2lZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2095046338656530529",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4868,
+          "following_count": 2764,
+          "like_count": 42511,
+          "listed_count": 19,
+          "media_count": 1616,
+          "tweet_count": 14182
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-11-06T13:15:23.000Z",
+        "description": "脑袋里只装了棉花糖的凄惨残页 Android 开发&安全研究 20岁大二学生前中职 所有使用或曾经使用过 blockchain 的人会被屏蔽 https://t.co/JXDB06hG9M https://t.co/8r7kqyERQV https://t.co/Js3e2AU7S4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/canyie",
+                "end": 94,
+                "expanded_url": "https://github.com/canyie",
+                "start": 71,
+                "url": "https://t.co/JXDB06hG9M"
+              },
+              {
+                "display_url": "blog.canyie.top",
+                "end": 118,
+                "expanded_url": "https://blog.canyie.top/",
+                "start": 95,
+                "url": "https://t.co/8r7kqyERQV"
+              },
+              {
+                "display_url": "t.me/CanyieChannel",
+                "end": 142,
+                "expanded_url": "https://t.me/CanyieChannel",
+                "start": 119,
+                "url": "https://t.co/Js3e2AU7S4"
+              }
+            ]
+          }
+        },
+        "id": "1192067927777742848",
+        "is_identity_verified": false,
+        "location": "IP 归属地：你心里",
+        "most_recent_tweet_id": "2095046119885869192",
+        "name": "canyie 残页",
+        "pinned_tweet_id": "1888131203493998674",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1408999027031478276/6QR0yGKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 208,
+          "like_count": 3020,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 396
+        },
+        "url": "",
+        "username": "canyie2977",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

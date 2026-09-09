@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2082056981028987376",
+    "created_at": "2026-07-28T16:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T17:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082142100653785191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1286241253621817344",
+          "start": 0,
+          "username": "CldGeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082142100653785191",
+    "in_reply_to_user_id": "1286241253621817344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082056981028987376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CldGeo 羡慕去香港玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1995,
+        "media_key": "3_2082056963467399168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTzxu2aUAAKrg-.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2082056981028987376",
+        "created_at": "2026-07-28T16:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082142100653785191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1286241253621817344",
+              "start": 0,
+              "username": "CldGeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082142100653785191",
+        "in_reply_to_user_id": "1286241253621817344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082056981028987376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CldGeo 羡慕去香港玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082056963467399168"
+          ]
+        },
+        "author_id": "1286241253621817344",
+        "conversation_id": "2082056981028987376",
+        "created_at": "2026-07-28T10:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082056981028987376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o3IVXkML3h",
+              "end": 92,
+              "expanded_url": "https://x.com/CldGeo/status/2082056981028987376/photo/1",
+              "media_key": "3_2082056963467399168",
+              "start": 69,
+              "url": "https://t.co/o3IVXkML3h"
+            },
+            {
+              "display_url": "x.com/cldgeo/status/…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/cldgeo/status/2081881859332726911",
+              "start": 93,
+              "url": "https://t.co/zEbpK0JkFN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082056981028987376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 521,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081881859332726911",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没忍住，实付353（傻逼飞猪捆绑我40块钱保险联系人工给退了，下次还是航旅纵横下单吧）\n国际/港澳台航班没有机建燃油这一点真的夯爆！！！ https://t.co/o3IVXkML3h https://t.co/zEbpK0JkFN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4827,
+          "following_count": 2688,
+          "like_count": 41170,
+          "listed_count": 18,
+          "media_count": 1586,
+          "tweet_count": 13793
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-23T10:06:45.000Z",
+        "description": "見つめていた世界を 横で見たいって思う\n@Cldeop / @YunJiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 20,
+                "username": "Cldeop"
+              },
+              {
+                "end": 37,
+                "start": 30,
+                "username": "YunJiu"
+              }
+            ]
+          }
+        },
+        "id": "1286241253621817344",
+        "location": "「絶え間ない光」が降り注ぐ",
+        "name": "九鸟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937922553181573124/5BJVMBBg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4773,
+          "following_count": 375,
+          "like_count": 5379,
+          "listed_count": 8,
+          "media_count": 557,
+          "tweet_count": 2186
+        },
+        "url": "",
+        "username": "CldGeo",
+        "verified": true
+      }
+    ]
+  }
+}

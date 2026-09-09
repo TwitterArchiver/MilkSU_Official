@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2082275652129137021",
+    "created_at": "2026-07-29T02:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T03:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082299282074587517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1089936552694693889",
+          "start": 0,
+          "username": "KaguraKurage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082299282074587517",
+    "in_reply_to_user_id": "1089936552694693889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082275652129137021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaguraKurage 羡慕小情侣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 228,
+        "media_key": "3_2082275649860030464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOW6q9JaUAA7a_5.jpg",
+        "width": 452
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2082275652129137021",
+        "created_at": "2026-07-29T02:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T03:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082299282074587517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1089936552694693889",
+              "start": 0,
+              "username": "KaguraKurage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082299282074587517",
+        "in_reply_to_user_id": "1089936552694693889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082275652129137021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaguraKurage 羡慕小情侣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082275649860030464"
+          ]
+        },
+        "author_id": "1089936552694693889",
+        "conversation_id": "2082275652129137021",
+        "created_at": "2026-07-29T01:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T02:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082275652129137021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2TSNLN6lAo",
+              "end": 123,
+              "expanded_url": "https://x.com/KaguraKurage/status/2082275652129137021/photo/1",
+              "media_key": "3_2082275649860030464",
+              "start": 100,
+              "url": "https://t.co/2TSNLN6lAo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082275652129137021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚npy考完雅思来我这里玩了一晚上，叔叔阿姨说:注意安全。我:?嘶\n然后npy在我屋子里开心玩水弹，很不巧，跳弹了（呀，脱发），直接打我身上了（按T向队友道歉），于是狠狠的教训了npy一顿（?🤔） https://t.co/2TSNLN6lAo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4828,
+          "following_count": 2689,
+          "like_count": 41184,
+          "listed_count": 18,
+          "media_count": 1586,
+          "tweet_count": 13796
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2019-01-28T17:21:38.000Z",
+        "description": "🐱: @Neko_65536 |nihao|🪼|🍟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "Neko_65536"
+              }
+            ]
+          }
+        },
+        "id": "1089936552694693889",
+        "name": "神楽くらげ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033837934999212032/QVUihXJY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 435,
+          "like_count": 43449,
+          "listed_count": 2,
+          "media_count": 439,
+          "tweet_count": 7825
+        },
+        "url": "",
+        "username": "KaguraKurage",
+        "verified": false
+      }
+    ]
+  }
+}

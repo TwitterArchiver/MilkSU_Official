@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2083120596351959481",
+    "created_at": "2026-07-31T11:41:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T12:41:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083155986811134363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1218028959109210113",
+          "start": 0,
+          "username": "RizumuA3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083155986811134363",
+    "in_reply_to_user_id": "1218028959109210113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083120596351959481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RizumuA3 这么好！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1802,
+        "media_key": "3_2083119291034185728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOi59VbbMAAxKK3.jpg",
+        "width": 1888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2083120596351959481",
+        "created_at": "2026-07-31T11:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083155986811134363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1218028959109210113",
+              "start": 0,
+              "username": "RizumuA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083155986811134363",
+        "in_reply_to_user_id": "1218028959109210113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083120596351959481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RizumuA3 这么好！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083119291034185728"
+          ]
+        },
+        "author_id": "1218028959109210113",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083120596351959481",
+        "created_at": "2026-07-31T09:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083120596351959481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zzjn6S37pK",
+              "end": 170,
+              "expanded_url": "https://x.com/RizumuA3/status/2083120596351959481/photo/1",
+              "media_key": "3_2083119291034185728",
+              "start": 147,
+              "url": "https://t.co/Zzjn6S37pK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083120596351959481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "event.rizumu.me",
+                "end": 170,
+                "expanded_url": "https://event.rizumu.me/",
+                "start": 147,
+                "url": "https://t.co/pSAUG83LLy"
+              }
+            ]
+          },
+          "text": "贡献、修改活动现在支持一键复制 Agent 提示词了。大大降低贡献门槛。有什么活动想添加、发现信息有误。都可以一句话搞定。 \n——————\n「中国及周边科技活动日历」 可以方便的查询有什么新的开发者活动、conf 会议、AI 会议、黑客松。直接看到活动地点、社交媒体链接等。不用到处搜索查找。\nhttps://t.co/pSAUG83LLy\n——————\n害怕错过有趣的活动吗。可以来看看有什么你还不知道，但是想参加的活动 😚"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 777,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "贡献、修改活动现在支持一键复制 Agent 提示词了。大大降低贡献门槛。有什么活动想添加、发现信息有误。都可以一句话搞定。 \n——————\n「中国及周边科技活动日历」 可以方便的查询有什么新的开发者活动、conf 会议、AI 会议、黑客松。直接看到活动地点、社交媒体链接等。不用到处搜索查找。 https://t.co/Zzjn6S37pK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4824,
+          "following_count": 2691,
+          "like_count": 41280,
+          "listed_count": 18,
+          "media_count": 1584,
+          "tweet_count": 13818
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-17T04:35:33.000Z",
+        "description": "aka 小音 LittleSound｜💚 Member of Vue，参与开发 Vapor 模式中｜🪀 玩 3D 打印并制作了大量程序员周边｜ 🔥热爱开源｜Pride → 🧠 AuDHD、🏳️‍⚧️ she/her｜🎮 喜欢玩 魂系、任天堂游戏｜🐙: LittleSound",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rizumu.me",
+                "end": 23,
+                "expanded_url": "https://rizumu.me",
+                "start": 0,
+                "url": "https://t.co/n9mkxZ2oxy"
+              }
+            ]
+          }
+        },
+        "id": "1218028959109210113",
+        "name": "绚香音 Rizumu",
+        "pinned_tweet_id": "1943899998770581632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945018573166141440/CZ-NTqXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12302,
+          "following_count": 1602,
+          "like_count": 45846,
+          "listed_count": 59,
+          "media_count": 2013,
+          "tweet_count": 15220
+        },
+        "url": "https://t.co/n9mkxZ2oxy",
+        "username": "RizumuA3",
+        "verified": true
+      }
+    ]
+  }
+}

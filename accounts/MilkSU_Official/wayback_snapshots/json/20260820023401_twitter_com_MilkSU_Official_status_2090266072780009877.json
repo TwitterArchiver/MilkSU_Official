@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2090127800212897880",
+    "created_at": "2026-08-20T02:34:01.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T03:34:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090266072780009877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1896576496472633344",
+          "start": 0,
+          "username": "lcxyyds1145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090266072780009877",
+    "in_reply_to_user_id": "1896576496472633344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090127800212897880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lcxyyds1145 太强了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 174426,
+        "height": 1280,
+        "media_key": "13_2090127306614583296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090127306614583296/img/5Q9tP2iNUXzEFrpd.jpg",
+        "public_metrics": {
+          "view_count": 1894
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090127306614583296/vid/avc1/320x568/vSSyia53pH9DeucN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090127306614583296/vid/avc1/480x852/FE_UDBib9RKLzqlo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090127306614583296/vid/avc1/720x1280/ROrzLWcK-8DYzi4I.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090127306614583296/pl/WiVarBZT3LceqbSh.m3u8?v=eb3"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090127306593599490",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGfthzbAAIXVaV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090127306593558528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGfthzaYAAunnB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2090127800212897880",
+        "created_at": "2026-08-20T02:34:01.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T03:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090266072780009877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1896576496472633344",
+              "start": 0,
+              "username": "lcxyyds1145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090266072780009877",
+        "in_reply_to_user_id": "1896576496472633344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090127800212897880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lcxyyds1145 太强了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090127306614583296",
+            "3_2090127306593599490",
+            "3_2090127306593558528"
+          ]
+        },
+        "author_id": "1896576496472633344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090127800212897880",
+        "created_at": "2026-08-19T17:24:34.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090127800212897880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NzaiR33ySH",
+              "end": 109,
+              "expanded_url": "https://x.com/lcxyyds1145/status/2090127800212897880/video/1",
+              "media_key": "13_2090127306614583296",
+              "start": 86,
+              "url": "https://t.co/NzaiR33ySH"
+            },
+            {
+              "display_url": "pic.x.com/NzaiR33ySH",
+              "end": 109,
+              "expanded_url": "https://x.com/lcxyyds1145/status/2090127800212897880/video/1",
+              "media_key": "3_2090127306593599490",
+              "start": 86,
+              "url": "https://t.co/NzaiR33ySH"
+            },
+            {
+              "display_url": "pic.x.com/NzaiR33ySH",
+              "end": 109,
+              "expanded_url": "https://x.com/lcxyyds1145/status/2090127800212897880/video/1",
+              "media_key": "3_2090127306593558528",
+              "start": 86,
+              "url": "https://t.co/NzaiR33ySH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090127800212897880",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2090127306614583296"
+          },
+          {
+            "media_key": "3_2090127306593599490"
+          },
+          {
+            "media_key": "3_2090127306593558528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3656,
+          "like_count": 187,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "Re.master QZkago Requiem\n14.9 初理論值all perfect 101%（5.5⭐️）\n！！！！！！！！！！！！！！！！！！！！！！！！！！！ https://t.co/NzaiR33ySH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2090266072780009877",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4836,
+          "following_count": 2723,
+          "like_count": 41802,
+          "listed_count": 19,
+          "media_count": 1602,
+          "tweet_count": 14007
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-03T15:01:00.000Z",
+        "description": "maimai player 15 years old",
+        "id": "1896576496472633344",
+        "is_identity_verified": false,
+        "location": "Taipei City, Taiwan",
+        "most_recent_tweet_id": "2090127800212897880",
+        "name": "夏龍",
+        "pinned_tweet_id": "2090127800212897880",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1896576496472633344/1765467521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896576611233005568/d_X8Ab9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 216,
+          "like_count": 542,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 175
+        },
+        "url": "",
+        "username": "lcxyyds1145",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

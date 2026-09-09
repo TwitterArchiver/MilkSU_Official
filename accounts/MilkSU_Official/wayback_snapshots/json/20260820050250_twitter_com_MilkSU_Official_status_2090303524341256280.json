@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2090295260534730854",
+    "created_at": "2026-08-20T05:02:50.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T06:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090303524341256280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1692126794055647232",
+          "start": 0,
+          "username": "QuantumTransf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090303524341256280",
+    "in_reply_to_user_id": "1692126794055647232",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090295260534730854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuantumTransf cool"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1153,
+        "media_key": "3_2090158803035820032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQG8W3MbEAA-YaB.jpg",
+        "width": 1200
+      },
+      {
+        "height": 842,
+        "media_key": "3_2090158803107102720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQG8W3dawAA-6dJ.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2090295260534730854",
+        "created_at": "2026-08-20T05:02:50.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T06:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090303524341256280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1692126794055647232",
+              "start": 0,
+              "username": "QuantumTransf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090303524341256280",
+        "in_reply_to_user_id": "1692126794055647232",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090295260534730854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuantumTransf cool"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090158803035820032",
+            "3_2090158803107102720"
+          ]
+        },
+        "author_id": "1692126794055647232",
+        "conversation_id": "2090295260534730854",
+        "created_at": "2026-08-20T04:30:00.000Z",
+        "display_text_range": [
+          0,
+          178
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T05:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090295260534730854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1S0SW9JN14",
+              "end": 202,
+              "expanded_url": "https://x.com/QuantumTransf/status/2090295260534730854/photo/1",
+              "media_key": "3_2090158803035820032",
+              "start": 179,
+              "url": "https://t.co/1S0SW9JN14"
+            },
+            {
+              "display_url": "pic.x.com/1S0SW9JN14",
+              "end": 202,
+              "expanded_url": "https://x.com/QuantumTransf/status/2090295260534730854/photo/1",
+              "media_key": "3_2090158803107102720",
+              "start": 179,
+              "url": "https://t.co/1S0SW9JN14"
+            },
+            {
+              "display_url": "x.com/QuantumTransf/…",
+              "end": 226,
+              "expanded_url": "https://twitter.com/QuantumTransf/status/2090030917540778385",
+              "start": 203,
+              "url": "https://t.co/vO0wP9B0B3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090295260534730854",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090158803035820032"
+          },
+          {
+            "media_key": "3_2090158803107102720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "dive.antinomie.org/dsh-explore#/d…",
+                "end": 212,
+                "expanded_url": "https://dive.antinomie.org/dsh-explore#/dsh-vs-dimagent",
+                "start": 189,
+                "url": "https://t.co/ruh71uBkxG"
+              },
+              {
+                "display_url": "github.com/deepseek-ai/de…",
+                "end": 291,
+                "expanded_url": "https://github.com/deepseek-ai/deepseek-harness/discussions/3153",
+                "start": 268,
+                "url": "https://t.co/UaLhfqCCVn"
+              },
+              {
+                "display_url": "github.com/deepseek-ai/de…",
+                "end": 318,
+                "expanded_url": "https://github.com/deepseek-ai/deepseek-harness/discussions/3144",
+                "start": 295,
+                "url": "https://t.co/m7qa9AIZTG"
+              }
+            ]
+          },
+          "text": "同模型、同任务对比：DeepSeek Harness vs dimagent\n\ndsh 在过程中暴露了基础性的 harness 工程问题（#3144、#3153）\n更关键的是，它会把自己的假设当成事实，润色成看似成熟的方案，却不去验证\n这在实际工程里非常致命\n\ndimagent 的表现更接近成熟的 agent harness：主动把决策抛出来、允许被纠正\n\n完整过程和结果：\nhttps://t.co/ruh71uBkxG\n\n希望这份对比能对 dsh 和 dimagent 的后续开发都有帮助。\n\n相关 discussion：\n1. https://t.co/UaLhfqCCVn\n2. https://t.co/m7qa9AIZTG"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 416,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090030917540778385",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同模型、同任务对比：DeepSeek Harness vs dimagent\n\ndsh 在过程中暴露了基础性的 harness 工程问题（#3144、#3153）\n更关键的是，它会把自己的假设当成事实，润色成看似成熟的方案，却不去验证\n这在实际工程里非常致命\n\ndimagent 的表现更接近成熟的 agent harness：主动把决策抛出来、允许被纠正 https://t.co/1S0SW9JN14 https://t.co/vO0wP9B0B3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2090303524341256280",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4837,
+          "following_count": 2723,
+          "like_count": 41816,
+          "listed_count": 19,
+          "media_count": 1602,
+          "tweet_count": 14010
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T10:52:09.000Z",
+        "description": "Building Kairos Agent for coding | ACMer & Computer Science Enthusiast | Lesbian | 💖love maimai & 📝writing | 🐱Catgirl | 💝I'll always be with you.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/tommy0103/obel…",
+                "end": 23,
+                "expanded_url": "http://github.com/tommy0103/obelisk",
+                "start": 0,
+                "url": "https://t.co/WB3ynJKHt9"
+              }
+            ]
+          }
+        },
+        "id": "1692126794055647232",
+        "is_identity_verified": false,
+        "location": "Shibuya-ku, Tokyo",
+        "most_recent_tweet_id": "2090295260534730854",
+        "name": "Yuu💖",
+        "pinned_tweet_id": "2020909686434955672",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692126794055647232/1728683032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999276127014256644/c3JQXTfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4676,
+          "following_count": 471,
+          "like_count": 30746,
+          "listed_count": 36,
+          "media_count": 703,
+          "tweet_count": 8802
+        },
+        "url": "https://t.co/WB3ynJKHt9",
+        "username": "QuantumTransf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

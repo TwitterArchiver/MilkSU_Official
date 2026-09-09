@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2085626158050054559",
+    "created_at": "2026-08-07T08:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T09:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085638255060660291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1068172934630395904",
+          "start": 0,
+          "username": "jakevin7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085638255060660291",
+    "in_reply_to_user_id": "1068172934630395904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085626158050054559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jakevin7 确实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2085626158050054559",
+        "created_at": "2026-08-07T08:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T09:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085638255060660291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1068172934630395904",
+              "start": 0,
+              "username": "jakevin7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085638255060660291",
+        "in_reply_to_user_id": "1068172934630395904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085626158050054559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jakevin7 确实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1068172934630395904",
+        "conversation_id": "2085626158050054559",
+        "created_at": "2026-08-07T07:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T08:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085626158050054559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085626158050054559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2441,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Sol感觉是有点大病，感觉已经得了测试狂魔病了。\n干啥活都先加一大堆测试，测试越堆越多，导致整个开发流程进度都受到影响。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4834,
+          "following_count": 2712,
+          "like_count": 41593,
+          "listed_count": 18,
+          "media_count": 1593,
+          "tweet_count": 13911
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2018-11-29T16:00:48.000Z",
+        "description": "Building https://t.co/3kGDPSgMGW & https://t.co/1aJnnxFlma  & https://t.co/IXRkk1MroF\nAI enthusiast ! Love open source! ExDatabaseer.\nApache Arrow/Datafusion/Doris PMC member",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "opencli.info",
+                "end": 32,
+                "expanded_url": "http://opencli.info",
+                "start": 9,
+                "url": "https://t.co/3kGDPSgMGW"
+              },
+              {
+                "display_url": "raft.build",
+                "end": 58,
+                "expanded_url": "http://raft.build",
+                "start": 35,
+                "url": "https://t.co/1aJnnxFlma"
+              },
+              {
+                "display_url": "maka-agent.com",
+                "end": 85,
+                "expanded_url": "http://maka-agent.com",
+                "start": 62,
+                "url": "https://t.co/IXRkk1MroF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/jackwener",
+                "end": 23,
+                "expanded_url": "http://github.com/jackwener",
+                "start": 0,
+                "url": "https://t.co/fB3t3tTSTn"
+              }
+            ]
+          }
+        },
+        "id": "1068172934630395904",
+        "name": "kabikabi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1420768031827841031/36-lz-Jz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20924,
+          "following_count": 702,
+          "like_count": 5560,
+          "listed_count": 225,
+          "media_count": 216,
+          "tweet_count": 2240
+        },
+        "url": "https://t.co/fB3t3tTSTn",
+        "username": "jakevin7",
+        "verified": true
+      }
+    ]
+  }
+}

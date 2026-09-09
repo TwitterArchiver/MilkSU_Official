@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2096477189332148639",
+    "created_at": "2026-09-06T10:20:06.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T11:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096543957824184479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1971027114582474752",
+          "start": 0,
+          "username": "Kanataqqq0221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096543957824184479",
+    "in_reply_to_user_id": "1971027114582474752",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096477189332148639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kanataqqq0221 awmc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096477173616123904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgu4b0aoAA-XTm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096477173574254592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgu4bqbwAAicxF.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096477173725155328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgu4cOaUAA3zv-.jpg",
+        "width": 943
+      },
+      {
+        "height": 1527,
+        "media_key": "3_2096477173582589952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgu4bsa8AAxTXk.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2096477189332148639",
+        "created_at": "2026-09-06T10:20:06.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096543957824184479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096543957824184479",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096477189332148639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 awmc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096477173616123904",
+            "3_2096477173574254592",
+            "3_2096477173725155328",
+            "3_2096477173582589952"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "conversation_id": "2096477189332148639",
+        "created_at": "2026-09-06T05:54:47.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T06:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096477189332148639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5hUI7WWxax",
+              "end": 39,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2096477189332148639/photo/1",
+              "media_key": "3_2096477173616123904",
+              "start": 16,
+              "url": "https://t.co/5hUI7WWxax"
+            },
+            {
+              "display_url": "pic.x.com/5hUI7WWxax",
+              "end": 39,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2096477189332148639/photo/1",
+              "media_key": "3_2096477173574254592",
+              "start": 16,
+              "url": "https://t.co/5hUI7WWxax"
+            },
+            {
+              "display_url": "pic.x.com/5hUI7WWxax",
+              "end": 39,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2096477189332148639/photo/1",
+              "media_key": "3_2096477173725155328",
+              "start": 16,
+              "url": "https://t.co/5hUI7WWxax"
+            },
+            {
+              "display_url": "pic.x.com/5hUI7WWxax",
+              "end": 39,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2096477189332148639/photo/1",
+              "media_key": "3_2096477173582589952",
+              "start": 16,
+              "url": "https://t.co/5hUI7WWxax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096477189332148639",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096477173616123904"
+          },
+          {
+            "media_key": "3_2096477173574254592"
+          },
+          {
+            "media_key": "3_2096477173725155328"
+          },
+          {
+            "media_key": "3_2096477173582589952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 357,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雅思考試超簡單\n直接clear https://t.co/5hUI7WWxax"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2096543957824184479",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4891,
+          "following_count": 2763,
+          "like_count": 42680,
+          "listed_count": 19,
+          "media_count": 1621,
+          "tweet_count": 14225
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16088丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art\n大好きです@sanwenyuynewnas",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 112,
+                "start": 99,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanataqqq9178"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "sanwenyuynewnas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxeG5"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "is_identity_verified": false,
+        "location": "破滅の部屋",
+        "most_recent_tweet_id": "2096477189332148639",
+        "name": "Kanataqかなたく＊滅3rd BOT",
+        "pinned_tweet_id": "2090816308212584802",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971027114582474752/1788403123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095822397249347584/bwAKXy9W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 401,
+          "like_count": 3339,
+          "listed_count": 5,
+          "media_count": 456,
+          "tweet_count": 2516
+        },
+        "url": "https://t.co/aKrTSIxeG5",
+        "username": "Kanataqqq0221",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

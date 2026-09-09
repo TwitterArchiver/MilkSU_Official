@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2094346756343689549",
+    "created_at": "2026-08-31T10:52:21.000Z",
+    "display_text_range": [
+      9,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T11:52:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094377748202750177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1551235843595042820",
+          "start": 0,
+          "username": "S7iter_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094377748202750177",
+    "in_reply_to_user_id": "1551235843595042820",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094376624997429443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S7iter_ 好诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2094346756343689549",
+        "created_at": "2026-08-31T10:52:21.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094377748202750177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1551235843595042820",
+              "start": 0,
+              "username": "S7iter_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094377748202750177",
+        "in_reply_to_user_id": "1551235843595042820",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094376624997429443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S7iter_ 好诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551235843595042820",
+        "conversation_id": "2094346756343689549",
+        "created_at": "2026-08-31T10:47:53.000Z",
+        "display_text_range": [
+          17,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094376624997429443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2840236608",
+              "start": 0,
+              "username": "MilkSU_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094376624997429443",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094346756343689549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MilkSU_Official 我好喜欢这种户型"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2094377748202750177",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4865,
+          "following_count": 2764,
+          "like_count": 42425,
+          "listed_count": 19,
+          "media_count": 1615,
+          "tweet_count": 14170
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-24T16:00:33.000Z",
+        "description": "Founder/Dev/Researcher in @VectorBits | intern @SupremacyHQ | Web2/3Security\nGoing full degen. 1000x ing  \n财富的本质是掠夺还是创造",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "VectorBits"
+              },
+              {
+                "end": 59,
+                "start": 47,
+                "username": "SupremacyHQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/S7iter",
+                "end": 23,
+                "expanded_url": "https://t.me/S7iter",
+                "start": 0,
+                "url": "https://t.co/ARc8XZpRY6"
+              }
+            ]
+          }
+        },
+        "id": "1551235843595042820",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094376624997429443",
+        "name": "S7iter",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1551235843595042820/1731701398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643812252221595650/oBlIRRW8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2757,
+          "following_count": 655,
+          "like_count": 3598,
+          "listed_count": 26,
+          "media_count": 102,
+          "tweet_count": 783
+        },
+        "url": "https://t.co/ARc8XZpRY6",
+        "username": "S7iter_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

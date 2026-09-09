@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2083515882379395197",
+    "created_at": "2026-08-01T11:50:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T12:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083520794014162973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1741705364217966592",
+          "start": 0,
+          "username": "Steven15911051"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083520794014162973",
+    "in_reply_to_user_id": "1741705364217966592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083517882915508631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Steven15911051 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2083515882379395197",
+        "created_at": "2026-08-01T11:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083520794014162973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1741705364217966592",
+              "start": 0,
+              "username": "Steven15911051"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083520794014162973",
+        "in_reply_to_user_id": "1741705364217966592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083517882915508631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Steven15911051 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741705364217966592",
+        "conversation_id": "2083515882379395197",
+        "created_at": "2026-08-01T11:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083517882915508631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2840236608",
+              "start": 0,
+              "username": "MilkSU_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083517882915508631",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083515882379395197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MilkSU_Official 这是模型的护栏不是 Agent 的护栏吧🫪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4826,
+          "following_count": 2691,
+          "like_count": 41327,
+          "listed_count": 18,
+          "media_count": 1586,
+          "tweet_count": 13837
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-01T06:18:46.000Z",
+        "description": "这里是Steven😋当了多年阴暗b终于出来和大家玩了🥺在玩Flutter、CV、AI、嵌入式(假的,实际上不学无术)🐢晶哥摇了我罢😭",
+        "id": "1741705364217966592",
+        "location": "🥺",
+        "name": "Steven",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741713919440474112/7AygvetD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1265,
+          "following_count": 1133,
+          "like_count": 167128,
+          "listed_count": 4,
+          "media_count": 387,
+          "tweet_count": 14341
+        },
+        "url": "",
+        "username": "Steven15911051",
+        "verified": true
+      }
+    ]
+  }
+}

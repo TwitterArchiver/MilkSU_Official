@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2088912718384513351",
+    "created_at": "2026-08-16T16:15:03.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T17:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089023141993718236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1827985418438279168",
+          "start": 0,
+          "username": "kawa_chise"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089023141993718236",
+    "in_reply_to_user_id": "1827985418438279168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088912718384513351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawa_chise 这下认识了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2088912716295725056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1PDEWaYAAaSLz.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2088912718384513351",
+        "created_at": "2026-08-16T16:15:03.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T17:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089023141993718236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827985418438279168",
+              "start": 0,
+              "username": "kawa_chise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089023141993718236",
+        "in_reply_to_user_id": "1827985418438279168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088912718384513351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawa_chise 这下认识了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088912716295725056"
+          ]
+        },
+        "author_id": "1827985418438279168",
+        "conversation_id": "2088912718384513351",
+        "created_at": "2026-08-16T08:56:16.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T09:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088912718384513351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LzVMgMzLfx",
+              "end": 34,
+              "expanded_url": "https://x.com/kawa_chise/status/2088912718384513351/photo/1",
+              "media_key": "3_2088912716295725056",
+              "start": 11,
+              "url": "https://t.co/LzVMgMzLfx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088912718384513351",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088912716295725056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 221,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃更换为旧头像（ https://t.co/LzVMgMzLfx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2089023141993718236",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4842,
+          "following_count": 2726,
+          "like_count": 41641,
+          "listed_count": 18,
+          "media_count": 1597,
+          "tweet_count": 13958
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-26T08:24:30.000Z",
+        "description": "@Chise_awa 转生（）\n成分很复杂的一只可爱小千 | 总之就是音游吃 | Kobaryo真的很好听不是吗 | 想要变可爱 | 欢迎来和我聊天 | 想要QQ可以私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "Chise_awa"
+              }
+            ]
+          }
+        },
+        "id": "1827985418438279168",
+        "is_identity_verified": false,
+        "location": " Address",
+        "most_recent_tweet_id": "2088977015731105874",
+        "name": "千千千世",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827985418438279168/1785661864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088912519838769152/eJr_8AfX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 442,
+          "like_count": 8576,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1413
+        },
+        "url": "",
+        "username": "kawa_chise",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

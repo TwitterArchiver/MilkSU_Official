@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2096140863449510087",
+    "created_at": "2026-09-06T01:51:21.000Z",
+    "display_text_range": [
+      9,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T02:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096415927831347554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1941171614072344576",
+          "start": 0,
+          "username": "tuzi_ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096415927831347554",
+    "in_reply_to_user_id": "1941171614072344576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096140863449510087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuzi_ai 5.6的时候我就拿它帮我看微信群消息整理成issue"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20366,
+        "height": 1080,
+        "media_key": "13_2096139288802918400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096139288802918400/img/7JdO-NoXiozYLkmO.jpg",
+        "public_metrics": {
+          "view_count": 10918
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096139288802918400/vid/avc1/640x360/exYELUuwBoFNxFtD.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096139288802918400/vid/avc1/480x270/5tk7EVrDtXvsEsrw.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096139288802918400/vid/avc1/1920x1080/jzvaS28H9B-pM4h3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096139288802918400/vid/avc1/1280x720/n4SWRZrTzpkTOfxn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096139288802918400/pl/HHj-iP3Q5rnBZ-O4.m3u8?v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2096140863449510087",
+        "created_at": "2026-09-06T01:51:21.000Z",
+        "display_text_range": [
+          9,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T02:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096415927831347554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1941171614072344576",
+              "start": 0,
+              "username": "tuzi_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096415927831347554",
+        "in_reply_to_user_id": "1941171614072344576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096140863449510087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuzi_ai 5.6的时候我就拿它帮我看微信群消息整理成issue"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096139288802918400"
+          ]
+        },
+        "author_id": "1941171614072344576",
+        "conversation_id": "2096140863449510087",
+        "created_at": "2026-09-05T07:38:20.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T08:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096140863449510087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "Codex.app",
+              "end": 54,
+              "expanded_url": "https://Codex.app",
+              "start": 31,
+              "unwound_url": "https://Codex.app",
+              "url": "https://t.co/Y46dMl9PRD"
+            },
+            {
+              "display_url": "pic.x.com/sbOIIMMLKg",
+              "end": 142,
+              "expanded_url": "https://x.com/tuzi_ai/status/2096140863449510087/video/1",
+              "media_key": "13_2096139288802918400",
+              "start": 119,
+              "url": "https://t.co/sbOIIMMLKg"
+            },
+            {
+              "display_url": "x.com/tuzi_ai/status…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/tuzi_ai/status/2095968802441707799",
+              "start": 143,
+              "url": "https://t.co/3aSWyZ311r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096140863449510087",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2096139288802918400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 27539,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 51,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095968802441707799",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还记得微信封杀豆包手机的那个冬天么？\n\n坐看微信会不会来封杀 https://t.co/Y46dMl9PRD🫠，实测 gpt-6 可以成功完成企微未读消息的逐条阅读+预回复，那么预计也可以硬读的方式把聊天记录一条条整理出来。\n\n前进四！ https://t.co/sbOIIMMLKg https://t.co/3aSWyZ311r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2096415927831347554",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4890,
+          "following_count": 2763,
+          "like_count": 42669,
+          "listed_count": 19,
+          "media_count": 1621,
+          "tweet_count": 14221
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-04T16:26:20.000Z",
+        "description": "让「AI」，触手可及。\n（https://t.co/ETQCPS2dTy | https://t.co/36x6wKtTR6 | https://t.co/VgLnn6s8dx | https://t.co/PjWAjJMSTJ）\n运营：sydney@sydney-ai.com\n招聘：liang@sydney-ai.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tu-zi.com",
+                "end": 36,
+                "expanded_url": "https://tu-zi.com",
+                "start": 13,
+                "url": "https://t.co/ETQCPS2dTy"
+              },
+              {
+                "display_url": "api.tu-zi.com",
+                "end": 62,
+                "expanded_url": "https://api.tu-zi.com",
+                "start": 39,
+                "url": "https://t.co/36x6wKtTR6"
+              },
+              {
+                "display_url": "cc.tu-zi.com",
+                "end": 88,
+                "expanded_url": "https://cc.tu-zi.com",
+                "start": 65,
+                "url": "https://t.co/VgLnn6s8dx"
+              },
+              {
+                "display_url": "store.tu-zi.com",
+                "end": 114,
+                "expanded_url": "https://store.tu-zi.com",
+                "start": 91,
+                "url": "https://t.co/PjWAjJMSTJ"
+              }
+            ]
+          }
+        },
+        "id": "1941171614072344576",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096330836744224884",
+        "name": "兔妹_兔子",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961512328278806529/qW3VpglB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8592,
+          "following_count": 277,
+          "like_count": 2924,
+          "listed_count": 77,
+          "media_count": 1586,
+          "tweet_count": 4111
+        },
+        "url": "",
+        "username": "tuzi_ai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

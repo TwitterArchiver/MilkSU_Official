@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2090108874552664484",
+    "created_at": "2026-08-20T02:41:52.000Z",
+    "display_text_range": [
+      24,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T03:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090268045747032369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1858763452732633090",
+          "start": 0,
+          "username": "DeepKlee"
+        },
+        {
+          "end": 23,
+          "id": "863624313299128320",
+          "start": 10,
+          "username": "Lan_zhijiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090268045747032369",
+    "in_reply_to_user_id": "1858763452732633090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090108874552664484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeepKlee @Lan_zhijiang 对 千万别让5.6sol写权限有关的设计一团乱麻完全用不了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2090108874552664484",
+        "created_at": "2026-08-20T02:41:52.000Z",
+        "display_text_range": [
+          24,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T03:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090268045747032369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1858763452732633090",
+              "start": 0,
+              "username": "DeepKlee"
+            },
+            {
+              "end": 23,
+              "id": "863624313299128320",
+              "start": 10,
+              "username": "Lan_zhijiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090268045747032369",
+        "in_reply_to_user_id": "1858763452732633090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090108874552664484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeepKlee @Lan_zhijiang 对 千万别让5.6sol写权限有关的设计一团乱麻完全用不了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858763452732633090",
+        "conversation_id": "2090108874552664484",
+        "created_at": "2026-08-19T16:09:22.000Z",
+        "display_text_range": [
+          0,
+          177
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T17:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090108874552664484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090108874552664484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我认为 GPT-5.6 的设计能力基本就是被 AI safety 弄废的。\n\n比如今天看的一些问题：\n1. 部署器为什么要给日志里面的路径和 URL 脱敏？难道是防运维？反而导致 bug 无法被定位，破坏 observability。\n2. 离谱的校验：subprocess 都 return 0 了，部署器还要再专门自己校验一遍，然后又有语义冲突，直接 unkown 当 error 报。\n3. 模型不知道为什么要在部署器里面反复降权提权，自己把自己绕晕了。你都能审计部署器代码了，又没有外部调用，攻击者怎么下手？连自己都防？\n4. 误杀正常镜像：任何含 .. 的符号链接都拒绝了；但 Debian rootfs 正常就有etc/rc0.d/K01hwclock.sh -> ../init.d/hwclock.sh，它仍在 rootfs 内根本不是逃逸，完全是关键词式安全检查。\n5. 还有逆天设计：发布器必须要镜像内部有一个封签，以确定这个镜像真的是要发布的镜像。它复查了一轮结果说：“可这里暂存目录从创建、复制到提升都在同一个 root helper 内，外部主体本来就写不进去。”\n6. __observe-checkout-pending-activation 在控制目录尚未创建时，直接读状态文件，然后直接判成unsafe_state；这明明是一个installer，然后不允许不存在，关键是不存在可以说“not found”，报错还报了个 unsafe。\n7. 陈旧环境文件误拦截：service 已是 inactive/dead，但先前留下的配置文件还在，看到可解析的遗留配置文件就直接拒绝，哪怕旧程序根本没运行。\n8. adapter 把 native controller 的受控稳定 JSON （实际上是捕获的日志）当成“不可信外部输出”整体丢弃了，导致只剩一句废话。我当时都绷不住了：神 tm “不可信外部输出”，它就是转发而已，难道还能执行外部输出？\n\n然后除此之外也暂时没有发现其它 bug，也就是所有的 bug 都是 GPT-5.6 为了 safety 引入的。我的代码有没有更安全我不知道，但是我的技术方案显然是不安全了：非常多、莫名其妙、摸不着头脑的副作用。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 13556,
+          "like_count": 130,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我认为 GPT-5.6 的设计能力基本就是被 AI safety 弄废的。\n\n比如今天看的一些问题：\n1. 部署器为什么要给日志里面的路径和 URL 脱敏？难道是防运维？反而导致 bug 无法被定位，破坏 observability。\n2. 离谱的校验：subprocess 都 return 0 了，部署器还要再专门自己校验一遍，然后又有语义冲突，直接"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2090268045747032369",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4836,
+          "following_count": 2723,
+          "like_count": 41809,
+          "listed_count": 19,
+          "media_count": 1602,
+          "tweet_count": 14008
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T06:45:28.000Z",
+        "description": "Existential Warrior | Ojisan-Type Tech Otaku Loli (???) | High-Performance Bishoujo | Fallen Nasdaq Cultist | Esteemed ChatGPT Pro Subscriber | MoE LLM DeepKlee",
+        "id": "1858763452732633090",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090108874552664484",
+        "name": "Klee Kawaii",
+        "pinned_tweet_id": "2053826158186447103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858763452732633090/1786884320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088970360947671040/1NPSWYfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2433,
+          "following_count": 237,
+          "like_count": 9667,
+          "listed_count": 21,
+          "media_count": 243,
+          "tweet_count": 5998
+        },
+        "url": "",
+        "username": "DeepKlee",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-05-14T05:17:36.000Z",
+        "description": "Python Vue Homelab Minecraft  🏳️‍🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lanzhijiang.dev",
+                "end": 23,
+                "expanded_url": "https://lanzhijiang.dev",
+                "start": 0,
+                "url": "https://t.co/IrIZrPJ4Mb"
+              }
+            ]
+          }
+        },
+        "id": "863624313299128320",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090248117685735894",
+        "name": "蓝汁酱",
+        "pinned_tweet_id": "1956015008229532152",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/863624313299128320/1712631856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039359197973016576/flw2rCBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 388,
+          "like_count": 50638,
+          "listed_count": 6,
+          "media_count": 603,
+          "tweet_count": 3831
+        },
+        "url": "https://t.co/IrIZrPJ4Mb",
+        "username": "Lan_zhijiang",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

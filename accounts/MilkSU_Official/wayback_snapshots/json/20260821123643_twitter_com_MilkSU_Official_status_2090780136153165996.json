@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2090763729378132451",
+    "created_at": "2026-08-21T12:36:43.000Z",
+    "display_text_range": [
+      9,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T13:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090780136153165996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2085609053917777921",
+          "start": 0,
+          "username": "j1m1_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090780136153165996",
+    "in_reply_to_user_id": "2085609053917777921",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090763729378132451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@j1m1_11 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2090763627322396672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPicRPb0AAoLt9.jpg",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2090763659824033792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPieKUbcAAl7Va.jpg",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2090763691864305664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPigBrbMAAvBa9.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2090763729378132451",
+        "created_at": "2026-08-21T12:36:43.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T13:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090780136153165996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2085609053917777921",
+              "start": 0,
+              "username": "j1m1_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090780136153165996",
+        "in_reply_to_user_id": "2085609053917777921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090763729378132451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@j1m1_11 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090763627322396672",
+            "3_2090763659824033792",
+            "3_2090763691864305664"
+          ]
+        },
+        "author_id": "2085609053917777921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090763729378132451",
+        "created_at": "2026-08-21T11:31:32.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T12:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090763729378132451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MpJqPYvYUS",
+              "end": 29,
+              "expanded_url": "https://x.com/j1m1_11/status/2090763729378132451/photo/1",
+              "media_key": "3_2090763627322396672",
+              "start": 6,
+              "url": "https://t.co/MpJqPYvYUS"
+            },
+            {
+              "display_url": "pic.x.com/MpJqPYvYUS",
+              "end": 29,
+              "expanded_url": "https://x.com/j1m1_11/status/2090763729378132451/photo/1",
+              "media_key": "3_2090763659824033792",
+              "start": 6,
+              "url": "https://t.co/MpJqPYvYUS"
+            },
+            {
+              "display_url": "pic.x.com/MpJqPYvYUS",
+              "end": 29,
+              "expanded_url": "https://x.com/j1m1_11/status/2090763729378132451/photo/1",
+              "media_key": "3_2090763691864305664",
+              "start": 6,
+              "url": "https://t.co/MpJqPYvYUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090763729378132451",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090763627322396672"
+          },
+          {
+            "media_key": "3_2090763659824033792"
+          },
+          {
+            "media_key": "3_2090763691864305664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃游玩 https://t.co/MpJqPYvYUS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2090780136153165996",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4838,
+          "following_count": 2722,
+          "like_count": 41878,
+          "listed_count": 19,
+          "media_count": 1605,
+          "tweet_count": 14032
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-07T06:09:56.000Z",
+        "description": "宇宙冷漠爱好者",
+        "id": "2085609053917777921",
+        "is_identity_verified": false,
+        "location": "Amsterdam, The Netherlands",
+        "most_recent_tweet_id": "2090764033280684156",
+        "name": "叽米",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085609053917777921/1786083502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085609534509477888/ItBu79Z5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 67,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 83
+        },
+        "url": "",
+        "username": "j1m1_11",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

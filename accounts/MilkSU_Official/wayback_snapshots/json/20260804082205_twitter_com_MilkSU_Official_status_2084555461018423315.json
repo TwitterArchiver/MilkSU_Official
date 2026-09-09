@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2084339998376206524",
+    "created_at": "2026-08-04T08:22:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T09:22:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084555461018423315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1681390445400846336",
+          "start": 0,
+          "username": "loopPoly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084555461018423315",
+    "in_reply_to_user_id": "1681390445400846336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084339998376206524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loopPoly 羡慕十万美刀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 434,
+        "media_key": "3_2084339971926990848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO0QKUHbIAAHj6H.jpg",
+        "width": 1176
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2084339998376206524",
+        "created_at": "2026-08-04T08:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084555461018423315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1681390445400846336",
+              "start": 0,
+              "username": "loopPoly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084555461018423315",
+        "in_reply_to_user_id": "1681390445400846336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084339998376206524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loopPoly 羡慕十万美刀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084339971926990848"
+          ]
+        },
+        "author_id": "1681390445400846336",
+        "conversation_id": "2084339998376206524",
+        "created_at": "2026-08-03T18:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T19:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084339998376206524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QBNq75wjXZ",
+              "end": 23,
+              "expanded_url": "https://x.com/loopPoly/status/2084339998376206524/photo/1",
+              "media_key": "3_2084339971926990848",
+              "start": 0,
+              "url": "https://t.co/QBNq75wjXZ"
+            },
+            {
+              "display_url": "x.com/loopPoly/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/loopPoly/status/2082475788696490397",
+              "start": 24,
+              "url": "https://t.co/RuD7WB3MC5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084339998376206524",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4293,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082475788696490397",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/QBNq75wjXZ https://t.co/RuD7WB3MC5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4832,
+          "following_count": 2706,
+          "like_count": 41489,
+          "listed_count": 18,
+          "media_count": 1589,
+          "tweet_count": 13883
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-18T19:48:29.000Z",
+        "description": "Cryptography researcher | SageMath Enhanced developer | Kimi CLI co-author | CTF Wiki contributor | Founder of 正规子群 | ex @Sider_AI @Kimi_Moonshot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 121,
+                "username": "Sider_AI"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "Kimi_Moonshot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "oiia.cauchy.top",
+                "end": 23,
+                "expanded_url": "http://oiia.cauchy.top",
+                "start": 0,
+                "url": "https://t.co/hZ3KUB3JhR"
+              }
+            ]
+          }
+        },
+        "id": "1681390445400846336",
+        "location": "Random",
+        "name": "LO0",
+        "pinned_tweet_id": "1944287741463945523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743296052550402048/iUzshREe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 448,
+          "like_count": 2684,
+          "listed_count": 3,
+          "media_count": 88,
+          "tweet_count": 888
+        },
+        "url": "https://t.co/hZ3KUB3JhR",
+        "username": "loopPoly",
+        "verified": false
+      }
+    ]
+  }
+}

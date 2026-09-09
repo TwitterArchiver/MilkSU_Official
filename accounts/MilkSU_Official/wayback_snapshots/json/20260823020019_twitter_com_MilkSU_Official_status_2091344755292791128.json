@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091341099550040065"
+      ]
+    },
+    "author_id": "2840236608",
+    "conversation_id": "2091344755292791128",
+    "created_at": "2026-08-23T02:00:19.000Z",
+    "display_text_range": [
+      0,
+      170
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T03:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091344755292791128"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "面向安全学习、漏洞研究与软件开发的本地 AI Agent 工作台. Contribute to MilkSU-Official/milksu development by creating an account on GitHub.",
+          "display_url": "github.com/MilkSU-Officia…",
+          "end": 137,
+          "expanded_url": "https://github.com/MilkSU-Official/milksu",
+          "start": 114,
+          "status": 200,
+          "title": "GitHub - MilkSU-Official/milksu: 面向安全学习、漏洞研究与软件开发的本地 AI Agent 工作台",
+          "unwound_url": "https://github.com/MilkSU-Official/milksu",
+          "url": "https://t.co/ehxar146bv"
+        },
+        {
+          "display_url": "pic.x.com/X3aC5Lva6v",
+          "end": 194,
+          "expanded_url": "https://x.com/MilkSU_Official/status/2091344755292791128/photo/1",
+          "media_key": "3_2091341099550040065",
+          "start": 171,
+          "url": "https://t.co/X3aC5Lva6v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091344755292791128",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091341099550040065"
+      }
+    ],
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 267,
+            "id": "1818257539886460928",
+            "start": 259,
+            "username": "qqqqqf_"
+          },
+          {
+            "end": 335,
+            "id": "1692126794055647232",
+            "start": 321,
+            "username": "QuantumTransf"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "github.com/MilkSU-Officia…",
+            "end": 137,
+            "expanded_url": "https://github.com/MilkSU-Official/milksu",
+            "start": 114,
+            "url": "https://t.co/vtaDwEUV6E"
+          },
+          {
+            "display_url": "github.com/memohai/ui",
+            "end": 309,
+            "expanded_url": "https://github.com/memohai/ui",
+            "start": 286,
+            "url": "https://t.co/ySk7SZFP9w"
+          },
+          {
+            "display_url": "github.com/tommy0103/obel…",
+            "end": 374,
+            "expanded_url": "https://github.com/tommy0103/obelisk",
+            "start": 351,
+            "url": "https://t.co/biXUDkG0GY"
+          }
+        ]
+      },
+      "text": "牛奶猫和小伙伴们一起开发了一个安全 Agent 工作台, 可以自由接入模型\n\n目前在非常早期的内测阶段 (可能有很多bug, 很多 idea 还没落地) 先开源分享出来, 希望大家试用与喜欢, 参与用户非常可能分到免费AI额度\nhttps://t.co/vtaDwEUV6E\n\n(前段时间拿 codex 帮人刷网课, 被模型拒绝了, 碎碎念\n干脆做一个自己的 Agent 吧, 不受奇怪的约束\n至于为什么也叫 MilkSU, 大概是觉得做一个这样的东西就像是把自己蒸馏了一样, 希望能一起成长吧\n\n- 同时鸣谢 清凤 @qqqqqf_ 的 Felinic Vue 组件库 https://t.co/ySk7SZFP9w\n- 同时鸣谢 yuu @QuantumTransf 的 Obelisk 记忆组件 https://t.co/biXUDkG0GY\n- 还有众多优秀开源库..."
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "牛奶猫和小伙伴们一起开发了一个安全 Agent 工作台, 可以自由接入模型\n\n目前在非常早期的内测阶段 (可能有很多bug, 很多 idea 还没落地) 先开源分享出来, 希望大家试用与喜欢, 参与用户非常可能分到免费AI额度\nhttps://t.co/ehxar146bv\n\n(前段时间拿 codex 帮人刷网课, 被模型拒绝了, 碎碎念 https://t.co/X3aC5Lva6v"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.note.mentions.username: [1818257539886460928].",
+      "parameter": "entities.note.mentions.username",
+      "resource_id": "1818257539886460928",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1818257539886460928"
+    },
+    {
+      "detail": "Could not find user with entities.note.mentions.username: [1692126794055647232].",
+      "parameter": "entities.note.mentions.username",
+      "resource_id": "1692126794055647232",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1692126794055647232"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2091341099550040065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQXvpk7a4AEjhok.jpg",
+        "width": 2880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091341099550040065"
+          ]
+        },
+        "author_id": "2840236608",
+        "conversation_id": "2091344755292791128",
+        "created_at": "2026-08-23T02:00:19.000Z",
+        "display_text_range": [
+          0,
+          170
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T03:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091344755292791128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "面向安全学习、漏洞研究与软件开发的本地 AI Agent 工作台. Contribute to MilkSU-Official/milksu development by creating an account on GitHub.",
+              "display_url": "github.com/MilkSU-Officia…",
+              "end": 137,
+              "expanded_url": "https://github.com/MilkSU-Official/milksu",
+              "start": 114,
+              "status": 200,
+              "title": "GitHub - MilkSU-Official/milksu: 面向安全学习、漏洞研究与软件开发的本地 AI Agent 工作台",
+              "unwound_url": "https://github.com/MilkSU-Official/milksu",
+              "url": "https://t.co/ehxar146bv"
+            },
+            {
+              "display_url": "pic.x.com/X3aC5Lva6v",
+              "end": 194,
+              "expanded_url": "https://x.com/MilkSU_Official/status/2091344755292791128/photo/1",
+              "media_key": "3_2091341099550040065",
+              "start": 171,
+              "url": "https://t.co/X3aC5Lva6v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091344755292791128",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091341099550040065"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 267,
+                "id": "1818257539886460928",
+                "start": 259,
+                "username": "qqqqqf_"
+              },
+              {
+                "end": 335,
+                "id": "1692126794055647232",
+                "start": 321,
+                "username": "QuantumTransf"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/MilkSU-Officia…",
+                "end": 137,
+                "expanded_url": "https://github.com/MilkSU-Official/milksu",
+                "start": 114,
+                "url": "https://t.co/vtaDwEUV6E"
+              },
+              {
+                "display_url": "github.com/memohai/ui",
+                "end": 309,
+                "expanded_url": "https://github.com/memohai/ui",
+                "start": 286,
+                "url": "https://t.co/ySk7SZFP9w"
+              },
+              {
+                "display_url": "github.com/tommy0103/obel…",
+                "end": 374,
+                "expanded_url": "https://github.com/tommy0103/obelisk",
+                "start": 351,
+                "url": "https://t.co/biXUDkG0GY"
+              }
+            ]
+          },
+          "text": "牛奶猫和小伙伴们一起开发了一个安全 Agent 工作台, 可以自由接入模型\n\n目前在非常早期的内测阶段 (可能有很多bug, 很多 idea 还没落地) 先开源分享出来, 希望大家试用与喜欢, 参与用户非常可能分到免费AI额度\nhttps://t.co/vtaDwEUV6E\n\n(前段时间拿 codex 帮人刷网课, 被模型拒绝了, 碎碎念\n干脆做一个自己的 Agent 吧, 不受奇怪的约束\n至于为什么也叫 MilkSU, 大概是觉得做一个这样的东西就像是把自己蒸馏了一样, 希望能一起成长吧\n\n- 同时鸣谢 清凤 @qqqqqf_ 的 Felinic Vue 组件库 https://t.co/ySk7SZFP9w\n- 同时鸣谢 yuu @QuantumTransf 的 Obelisk 记忆组件 https://t.co/biXUDkG0GY\n- 还有众多优秀开源库..."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牛奶猫和小伙伴们一起开发了一个安全 Agent 工作台, 可以自由接入模型\n\n目前在非常早期的内测阶段 (可能有很多bug, 很多 idea 还没落地) 先开源分享出来, 希望大家试用与喜欢, 参与用户非常可能分到免费AI额度\nhttps://t.co/ehxar146bv\n\n(前段时间拿 codex 帮人刷网课, 被模型拒绝了, 碎碎念 https://t.co/X3aC5Lva6v"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2091344755292791128",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4840,
+          "following_count": 2727,
+          "like_count": 42006,
+          "listed_count": 19,
+          "media_count": 1608,
+          "tweet_count": 14064
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

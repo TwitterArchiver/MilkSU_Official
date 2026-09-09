@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2085320140925849734",
+    "created_at": "2026-08-06T11:21:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T12:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085325489066094723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1581738468547301376",
+          "start": 0,
+          "username": "ProbiusOfficial"
+        },
+        {
+          "end": 29,
+          "id": "1529525092442865664",
+          "start": 17,
+          "username": "Hydrogen0E7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085325489066094723",
+    "in_reply_to_user_id": "1581738468547301376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085320140925849734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ProbiusOfficial @Hydrogen0E7 哇 也是黑框眼镜"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2085320140925849734].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2085320140925849734",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2085320140925849734"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2085320140925849734",
+        "created_at": "2026-08-06T11:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085325489066094723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1581738468547301376",
+              "start": 0,
+              "username": "ProbiusOfficial"
+            },
+            {
+              "end": 29,
+              "id": "1529525092442865664",
+              "start": 17,
+              "username": "Hydrogen0E7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085325489066094723",
+        "in_reply_to_user_id": "1581738468547301376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085320140925849734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ProbiusOfficial @Hydrogen0E7 哇 也是黑框眼镜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4832,
+          "following_count": 2711,
+          "like_count": 41575,
+          "listed_count": 18,
+          "media_count": 1592,
+          "tweet_count": 13904
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-16T20:07:43.000Z",
+        "description": "founder of @cyclens_tech | CTF教程 - HelloCTF: https://t.co/qIGhtUfXk2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "cyclens_tech"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hello-ctf.com",
+                "end": 68,
+                "expanded_url": "https://hello-ctf.com/",
+                "start": 45,
+                "url": "https://t.co/qIGhtUfXk2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/ProbiusOfficial",
+                "end": 23,
+                "expanded_url": "https://github.com/ProbiusOfficial",
+                "start": 0,
+                "url": "https://t.co/E9lZZ7BIjH"
+              }
+            ]
+          }
+        },
+        "id": "1581738468547301376",
+        "name": "探姬 | Hello-CTF 🚩",
+        "pinned_tweet_id": "2030395405083763109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998788213247541248/eoyKSlKi_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 9651,
+          "following_count": 505,
+          "like_count": 15138,
+          "listed_count": 46,
+          "media_count": 2104,
+          "tweet_count": 13455
+        },
+        "url": "https://t.co/E9lZZ7BIjH",
+        "username": "ProbiusOfficial",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T18:09:54.000Z",
+        "description": "Full-Stack Security Developer | CTFer in @r3kapig | ACMer | Shotacon | Avatar from @iamuu_n | Enchanting dream, frozen time, unrealized potential. Also @E7Lemon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "r3kapig"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "iamuu_n"
+              },
+              {
+                "end": 160,
+                "start": 152,
+                "username": "E7Lemon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "0e7.cn",
+                "end": 23,
+                "expanded_url": "https://0e7.cn",
+                "start": 0,
+                "url": "https://t.co/e4iGNtYvNY"
+              }
+            ]
+          }
+        },
+        "id": "1529525092442865664",
+        "location": "ShangHai",
+        "name": "HydrogenE7",
+        "pinned_tweet_id": "2043498699196895731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055286176463167488/l275kNEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3661,
+          "following_count": 958,
+          "like_count": 8559,
+          "listed_count": 23,
+          "media_count": 729,
+          "tweet_count": 3637
+        },
+        "url": "https://t.co/e4iGNtYvNY",
+        "username": "Hydrogen0E7",
+        "verified": true
+      }
+    ]
+  }
+}

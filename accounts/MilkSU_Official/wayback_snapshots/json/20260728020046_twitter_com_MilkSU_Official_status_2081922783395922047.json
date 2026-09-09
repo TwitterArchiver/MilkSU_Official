@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2081922783395922047",
+    "created_at": "2026-07-28T02:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T03:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081922783395922047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maxforai/statu…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/maxforai/status/2081582852785975802",
+          "start": 30,
+          "url": "https://t.co/zZdwyVAV5Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081922783395922047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081582852785975802",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇 原来tony老师不能看什么图剪什么样啊 我还以为... https://t.co/zZdwyVAV5Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2081582842551889920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONEkQzacAAQtC0.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2081922783395922047",
+        "created_at": "2026-07-28T02:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081922783395922047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maxforai/statu…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/maxforai/status/2081582852785975802",
+              "start": 30,
+              "url": "https://t.co/zZdwyVAV5Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081922783395922047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081582852785975802",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇 原来tony老师不能看什么图剪什么样啊 我还以为... https://t.co/zZdwyVAV5Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081582842551889920"
+          ]
+        },
+        "author_id": "1699797396589588480",
+        "conversation_id": "2081582852785975802",
+        "created_at": "2026-07-27T03:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T04:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081582852785975802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IwZa0uX0K4",
+              "end": 170,
+              "expanded_url": "https://x.com/MaxForAI/status/2081582852785975802/photo/1",
+              "media_key": "3_2081582842551889920",
+              "start": 147,
+              "url": "https://t.co/IwZa0uX0K4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081582852785975802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "很多人都没意识到，用Agent做事，尤其是Vibe Coding，本质上就是去理发。\n\n前段时间我去理发，拿了一张GPT帮我改过的发型图，问理发师能不能帮我剪成这样。\n\n他明显有点犹豫。\n我问他为什么。\n他说，这种需求最难。\n因为他根本不知道，这个发型是怎么剪出来的。\n这只是一张最终效果图。\n没有过程，没有侧面，没有背面，也没有告诉他每个地方该留多长。\n他只能盯着结果，反推中间步骤。\n\n更麻烦的是，他也不知道自己到底能不能做到。\n图片里的效果可能依赖发质、头型、打理方式，甚至可能根本不符合现实。\n他既不知道路径，也无法完全确认自己的能力能不能实现。\n\n我当时突然觉得，这不就是今天所有Agent面对的问题吗？\n用户给出的通常只是一个模糊的结果。\n但这个结果怎么实现，中间需要哪些步骤，有哪些隐藏条件，用户自己往往也说不清楚。\nAgent只能猜。\n它要猜用户真正想要什么，也要猜自己应该怎么做。\n\n一个模型可能很会写代码，但它不知道这个项目里会不会遇到没权限的接口、不兼容的依赖、缺失的数据，或者某个自己根本处理不了的问题。\n\n所以Agent面对的，其实是两种不确定性。\n第一种是需求不确定性。\n用户说想要一个高级的网站。\n什么叫高级？\n是视觉高级、交互高级、代码架构高级，还是看起来适合融资？\n用户自己脑子里可能有一个感觉，但很难完整表达出来。\n\n第二种是执行不确定性。\nAgent即使理解了目标，也不代表它知道最合适的实现路径，更不代表它一定做得到。\n这和理发师拿着一张AI发型图时的状态完全一样。\n\n我又问理发师，那你遇到这种需求，怎么尽量避免剪坏？\n他说，最好的办法就是剪之前先给你看效果，剪的过程中不断问你。\n\n这其实就是一个可靠Agent应该有的工作方式。\n执行前，先把自己的理解展示出来。\n执行过程中，也不要一口气直接做到最后。\n遇到不可逆操作，需要单独确认。\n\nAgent真正需要优化的，并不是少问问题。\n它需要学会在正确的时间，问最有价值的问题。\n问得太多，用户会烦。\n完全不问，最后很容易把头发直接推成三毫米，然后告诉你任务已完成。\n\n而理发师还告诉了我另一件事。\n我问他，什么情况下你最有可能剪出一个超过客户预期的发型？\n他说，最好是这个客户已经在我这里剪过很多次。\n我知道他的头发是什么状态，知道他喜欢什么，知道他平时怎么打理，也知道他说剪短一点，到底是多短。\n\n这就是Memory真正的价值。\n\nMemory并不只是记住用户上次说了什么。\n一个长期合作的理发师，之所以越来越懂你，不是因为他的剪刀升级了。\n是因为他逐渐学会了你的审美和验收标准。\n\nAgent也是一样。\n真正优秀的Agent，不会只保存聊天记录。\n它会逐渐建立一个关于用户的模型，知道这个用户在什么场景下，想要什么样的结果。\n所以我现在越来越觉得，Agent的核心并不只是模型能力。\n它还包括需求确认、Context管理、过程反馈和长期Memory。\n\n现在很多Agent最大的问题，就是太像一个过度自信的理发师。\n用户拿出一张图，说照这个剪。\n它回答：明白。\n然后低头就是一剪刀。\n\n真正可靠的Agent，必须知道自己不知道什么。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 14132,
+          "like_count": 102,
+          "quote_count": 5,
+          "reply_count": 15,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "很多人都没意识到，用Agent做事，尤其是Vibe Coding，本质上就是去理发。\n\n前段时间我去理发，拿了一张GPT帮我改过的发型图，问理发师能不能帮我剪成这样。\n\n他明显有点犹豫。\n我问他为什么。\n他说，这种需求最难。\n因为他根本不知道，这个发型是怎么剪出来的。\n这只是一张最终效果图。 https://t.co/IwZa0uX0K4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4829,
+          "following_count": 2689,
+          "like_count": 41146,
+          "listed_count": 18,
+          "media_count": 1586,
+          "tweet_count": 13781
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "本科辍学创业，没啥好看的，也就发点AI相关的内容🫡\nHead of growth @lobehub（81K🌟）\nPrev @listenhub @Sapient_Int \n同名小红书4万粉丝，公众号01Founder（长文首发）\n观点仅代表个人\n更多请访问网站⬇️（欢迎商务、合作",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "lobehub"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "username": "listenhub"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Sapient_Int"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6feey"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "location": "Singapore",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2062538878096130207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22365,
+          "following_count": 2532,
+          "like_count": 17976,
+          "listed_count": 201,
+          "media_count": 1072,
+          "tweet_count": 8188
+        },
+        "url": "https://t.co/Sl0Wv6feey",
+        "username": "MaxForAI",
+        "verified": true
+      }
+    ]
+  }
+}

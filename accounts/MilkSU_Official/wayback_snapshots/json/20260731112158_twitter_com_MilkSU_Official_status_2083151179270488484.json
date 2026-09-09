@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2083049435882483851",
+    "created_at": "2026-07-31T11:21:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T12:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083151179270488484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1805188699321470976",
+          "start": 0,
+          "username": "zen_yarn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083151179270488484",
+    "in_reply_to_user_id": "1805188699321470976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083049435882483851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zen_yarn 搞网安就是把工具用的很好 结果现在agent更会用工具了 网安行业爆炸了("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2083049435882483851",
+        "created_at": "2026-07-31T11:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083151179270488484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805188699321470976",
+              "start": 0,
+              "username": "zen_yarn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083151179270488484",
+        "in_reply_to_user_id": "1805188699321470976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083049435882483851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zen_yarn 搞网安就是把工具用的很好 结果现在agent更会用工具了 网安行业爆炸了("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805188699321470976",
+        "conversation_id": "2083049435882483851",
+        "created_at": "2026-07-31T04:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083049435882483851"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083049435882483851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我发现学计算机专业很容易陷入一个陷阱，即：过多痴迷于造工具，而很少把关注放在“把工具用好”这件事上。\n\n因为各种课设从来都是要求你把一个项目、一个软件、一个程序给做出来，从来没有一个课设要求你把一个现成的项目、软件、程序给用得非常好。\n\n这种事情在课程教学中不会去教，在作业和课设中也不会去考察，所以容易被大家自然忽略。\n\n但我相信，真正的计算机人才一定是既懂得造工具，也懂得用工具的人。\n\n在我眼里，你深度地配置和使用一个工具的过程本身，也是对这个工具的某种再创造，就像对文学文本的解读也是文学的一部分一样，这个环节重要而又容易被忽视。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 3393,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我发现学计算机专业很容易陷入一个陷阱，即：过多痴迷于造工具，而很少把关注放在“把工具用好”这件事上。\n\n因为各种课设从来都是要求你把一个项目、一个软件、一个程序给做出来，从来没有一个课设要求你把一个现成的项目、软件、程序给用得非常好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4824,
+          "following_count": 2691,
+          "like_count": 41279,
+          "listed_count": 18,
+          "media_count": 1584,
+          "tweet_count": 13817
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-24T10:44:41.000Z",
+        "description": "00后CS在读 ｜ Mac重度用户 ｜ ChatGPT Pro钉子户 ｜ 喜欢读哲学书的Agent工作流爱好者",
+        "id": "1805188699321470976",
+        "name": "雷雨同学",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034544749034823680/KzHXsqMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1225,
+          "following_count": 542,
+          "like_count": 3791,
+          "listed_count": 5,
+          "media_count": 61,
+          "tweet_count": 593
+        },
+        "url": "",
+        "username": "zen_yarn",
+        "verified": true
+      }
+    ]
+  }
+}

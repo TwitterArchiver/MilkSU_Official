@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2091125790352216088",
+    "created_at": "2026-08-23T16:28:02.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T17:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091563124059259131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1881991469730594816",
+          "start": 0,
+          "username": "gkxspace"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091563124059259131",
+    "in_reply_to_user_id": "1881991469730594816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091125790352216088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gkxspace 哇efc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2091125293302095872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQUrYAAbIAAEvm3.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2091125790352216088",
+        "created_at": "2026-08-23T16:28:02.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T17:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091563124059259131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1881991469730594816",
+              "start": 0,
+              "username": "gkxspace"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091563124059259131",
+        "in_reply_to_user_id": "1881991469730594816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091125790352216088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gkxspace 哇efc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091125293302095872"
+          ]
+        },
+        "author_id": "1881991469730594816",
+        "conversation_id": "2091125790352216088",
+        "created_at": "2026-08-22T11:30:14.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T12:28:18.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091125304182096309",
+          "2091125790352216088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/39lA7MEOXE",
+              "end": 123,
+              "expanded_url": "https://x.com/gkxspace/status/2091125790352216088/photo/1",
+              "media_key": "3_2091125293302095872",
+              "start": 100,
+              "url": "https://t.co/39lA7MEOXE"
+            },
+            {
+              "display_url": "x.com/gkxspace/statu…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/gkxspace/status/2090792496892887176",
+              "start": 124,
+              "url": "https://t.co/mCCiNGuyWk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091125790352216088",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091125293302095872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 145403,
+          "like_count": 314,
+          "quote_count": 0,
+          "reply_count": 301,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090792496892887176",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "算是在杭州安顿好了～\n\n欧美金融城，6.3k，装修很满意\n\n商住一体的公寓，三个卧室，空间也很大\n\n后续我可以直接招人线下在这办公了，这不比办公楼里爽多了🤔\n\n在杭州的兄弟们，后续咱们可以约起来了😋 https://t.co/39lA7MEOXE https://t.co/mCCiNGuyWk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2091563124059259131",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4848,
+          "following_count": 2740,
+          "like_count": 42142,
+          "listed_count": 19,
+          "media_count": 1608,
+          "tweet_count": 14095
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-22T09:05:13.000Z",
+        "description": "🌸05年连续创业者 | 专注 AI 产品 | 项目营收 7 位数+\n✨记录真实的创业路：项目复盘、踩坑总结和成长思考\n💗AI 产品构建 & AI 商业化方案 & 企业 AI 转型",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuwen.website",
+                "end": 23,
+                "expanded_url": "https://yuwen.website",
+                "start": 0,
+                "url": "https://t.co/lbHDopwRVw"
+              }
+            ]
+          }
+        },
+        "id": "1881991469730594816",
+        "is_identity_verified": false,
+        "location": "微信和社群",
+        "most_recent_tweet_id": "2091455741173604382",
+        "name": "余温",
+        "pinned_tweet_id": "2063978203639652377",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881991469730594816/1758132248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952432952928784384/k7SIkQ7I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45740,
+          "following_count": 1093,
+          "like_count": 4813,
+          "listed_count": 412,
+          "media_count": 710,
+          "tweet_count": 6963
+        },
+        "url": "https://t.co/lbHDopwRVw",
+        "username": "gkxspace",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

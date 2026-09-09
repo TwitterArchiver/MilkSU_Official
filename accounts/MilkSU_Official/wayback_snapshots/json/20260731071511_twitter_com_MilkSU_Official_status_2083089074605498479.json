@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2083035282660585581",
+    "created_at": "2026-07-31T07:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T08:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083089074605498479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974653328274714624",
+          "start": 0,
+          "username": "AYi_AInotes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083089074605498479",
+    "in_reply_to_user_id": "1974653328274714624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083035282660585581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AYi_AInotes 哇 跟我之前设想的差不多（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1184,
+        "media_key": "3_2083035003038932992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhtTILXIAAG4kN.jpg",
+        "width": 1732
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2083035282660585581",
+        "created_at": "2026-07-31T07:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083089074605498479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974653328274714624",
+              "start": 0,
+              "username": "AYi_AInotes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083089074605498479",
+        "in_reply_to_user_id": "1974653328274714624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083035282660585581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AYi_AInotes 哇 跟我之前设想的差不多（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083035003038932992"
+          ]
+        },
+        "author_id": "1974653328274714624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2083035282660585581",
+        "created_at": "2026-07-31T03:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083035282660585581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lut86OBvuJ",
+              "end": 171,
+              "expanded_url": "https://x.com/AYi_AInotes/status/2083035282660585581/photo/1",
+              "media_key": "3_2083035003038932992",
+              "start": 148,
+              "url": "https://t.co/Lut86OBvuJ"
+            },
+            {
+              "display_url": "x.com/coolcoder56/st…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/coolcoder56/status/2082707454383751305",
+              "start": 172,
+              "url": "https://t.co/54BVzxksmK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083035282660585581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1500,
+                "start": 1493,
+                "tag": "OpenAI"
+              },
+              {
+                "end": 1507,
+                "start": 1501,
+                "tag": "程序员面试"
+              },
+              {
+                "end": 1513,
+                "start": 1508,
+                "tag": "AI编程"
+              },
+              {
+                "end": 1520,
+                "start": 1514,
+                "tag": "工程师求职"
+              }
+            ]
+          },
+          "text": "别死刷 LeetCode 了，OpenAI 刚流出的 2026 工程师面经，直接给我看楞了：人家已经开始考你怎么和 AI 搭档写代码了，你还在刷五年前的算法脑筋急转弯。\n\n这是 Reddit 刚爆的新鲜热乎面经，候选人刚走完整个流程，和谷歌 Meta 那种纯考 DSA 八股的路子完全不一样，6 轮面下来，根本不给刷题家留一点活路。\n\n给你们拆得明明白白：\n1️⃣初筛根本不走流程\n别以为 HR 面就是问你期望薪资、为什么来 OpenAI，人家上来先聊 “你觉得 AI 未来会往哪走”—— 说白了根本不缺能写代码的人，先筛认知和价值观同频的，连 OpenAI 自己的 Charter 都没读过的，直接就刷了。\n\n2️⃣技术初筛全是生产场景\n同一天连考俩，各一小时：手写带版本控制的键值存储，设计带容错的任务调度器。没有接雨水、爬楼梯这种脱离实际的脑筋急转弯，全是工程师上班天天要碰的真问题。\n\n3️⃣回家作业根本混不过去\n48 小时时间，让你做一个带重试机制、死信队列的分布式 Webhook 投递系统，不是几十行的玩具 demo，是真能上线跑的生产级项目。别想着抄个开源项目交差，后面有狠的等着。\n\n4️⃣逐行代码拷问才是真杀招\n面试官拿着你交的作业逐行走查，你每选一个方案、每写一个判断，他都要追着问为什么这么做，为什么不选别的方案，权衡点在哪。抄来的代码你根本讲不出背后的逻辑，一开口就露馅。\n\n5️⃣Onsite 四轮全是硬货\n▫️ 第一轮 coding 是渐进式关卡制，必须把当前阶段跑通才能进下一关，比如先实现 token 级流式 diff，再做状态追踪，再做回滚，背的模板根本套不上，一步卡壳就没了；\n▫️ 第二轮 coding 往深了考系统能力，并发控制、内存效率、Python 生成器 / 异步这些写业务天天踩坑的点，全是实操出来的经验，背书背不出来；\n▫️ 系统设计直接让你画 ChatGPT 的架构，考 GPU 怎么调度、流量突增怎么自动扩缩容、分布式节点怎么协调，全是他们自己天天在解决的真问题，没什么假大空的通用模板；\n▫️ 行为面别背 “我遇到困难迎难而上” 的套话，要听你真的主导过的跨团队架构决策，当时有什么选项，你选了什么，付出了什么代价，拿到了什么结果，全要具体的 tradeoff，空话直接过。\n\n6️⃣最反常识的 Beta 加试\n现在部分候选人会遇到额外一轮：给你一个现有代码库，放一个人根本不可能短时间写完的大需求，让你用 AI 编码 Agent 协作完成。人家根本不防着你用 AI，反而直接把 “和 AI 搭档干活的能力” 摆上了考场，这才是真的在招 2026 年的工程师，不是招十年前的码农。\n\n我看完最大的感受是，传统大厂那套选人逻辑真的过时了：\n▫️ 纯刷题的时代彻底翻篇，LeetCode 刷得再熟，做不了真实系统、讲不清决策逻辑，根本过不了关；\n\n▫️ 代码跑通只是最低要求，能想明白每一个选择的代价和收益，才是工程师和搬砖的区别；\n\n▫️ 会用 AI 早就不是什么加分项，很快就是工程师的标配能力，你还在抵触 AI 抢工作，人家已经把和 AI 协作当面试必考点了。\n\n给准备冲的人提几个实在醒：\n\n别抱着题本死磕了，多写点真实的分布式小项目，把语言底层的并发、内存逻辑摸透，准备几个你真刀真枪做过的、有取舍的架构故事，\n\n现在就开始练怎么给 AI 派活、审 AI 的代码、和 AI 一起搭系统。等这套面试逻辑全行业铺开的时候，你连该刷什么题都不知道。\n\n你们觉得这种考真实能力的面试，和传统刷 LeetCode 比，哪个更难？\n\n#OpenAI #程序员面试 #AI编程 #工程师求职"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 5078,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082707454383751305",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别死刷 LeetCode 了，OpenAI 刚流出的 2026 工程师面经，直接给我看楞了：人家已经开始考你怎么和 AI 搭档写代码了，你还在刷五年前的算法脑筋急转弯。\n\n这是 Reddit 刚爆的新鲜热乎面经，候选人刚走完整个流程，和谷歌 Meta 那种纯考 DSA 八股的路子完全不一样，6 https://t.co/Lut86OBvuJ https://t.co/54BVzxksmK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply pm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000923416993792/m12dz0zj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4822,
+          "following_count": 2691,
+          "like_count": 41277,
+          "listed_count": 18,
+          "media_count": 1584,
+          "tweet_count": 13813
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-05T01:50:40.000Z",
+        "description": "AI 实用主义，专注AI落地的组织和业务know how，关注商业，职场，组织，最近在学习研究 AI 在美股，Web3 等领域的AI工作流和落地实践\n大厂组织发展专家 × 组织心理学\nPrompt专家，分享有用的 AI 实践，也分享工具之外的深度认知\n以术入道，以道御术\n合作/交流：DM/TG @AYi_AInotes",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 148,
+                "username": "AYi_AInotes"
+              }
+            ]
+          }
+        },
+        "id": "1974653328274714624",
+        "name": "AYi",
+        "pinned_tweet_id": "2082523406184976467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989157446829350912/pW828UwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57720,
+          "following_count": 438,
+          "like_count": 18274,
+          "listed_count": 551,
+          "media_count": 1506,
+          "tweet_count": 15504
+        },
+        "url": "",
+        "username": "AYi_AInotes",
+        "verified": true
+      }
+    ]
+  }
+}
