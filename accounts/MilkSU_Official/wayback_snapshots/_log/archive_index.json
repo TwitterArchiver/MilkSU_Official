@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-30T19:07:46",
+  "last_updated": "2026-09-30T19:08:31",
   "html": {
     "https://web.archive.org/web/20260416173949if_/https://twitter.com/MilkSU_Official/status/2044833152573833335": {
       "status": "done",
@@ -13092,16 +13092,18 @@
       "last_updated": "2026-09-09T17:46:42"
     },
     "https://video.twimg.com/amplify_video/2098712020694831104/vid/avc1/3024x1964/_wSmiIpfs6vrbVNr.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260912101729_twitter_com_MilkSU_Official_status_2098717628059746311.json"
-      ]
+      ],
+      "last_updated": "2026-09-30T19:08:30"
     },
     "https://video.twimg.com/amplify_video/2101154249585664000/vid/avc1/2160x1484/rPrgnujUuSu50aDe.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260919082907_twitter_com_MilkSU_Official_status_2101227070823219351.json"
-      ]
+      ],
+      "last_updated": "2026-09-30T19:08:17"
     }
   },
   "avatars": {
@@ -19945,8 +19947,8 @@
           "https://pbs.twimg.com/profile_images/2012746673647226880/IRsTqQyU_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:57",
-      "miss_count": 7
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 8
     },
     "20260420093746_twitter_com_MilkSU_Official_status_2046161394068865226.json": {
       "status": "done",
@@ -20539,8 +20541,8 @@
           "https://pbs.twimg.com/profile_images/2047915559099265024/VCu2ZaGd_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:57",
-      "miss_count": 7
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 8
     },
     "20260427035949_twitter_com_MilkSU_Official_status_2048613060773126423.json": {
       "status": "done",
@@ -20905,8 +20907,8 @@
           "https://pbs.twimg.com/profile_images/2030877900321484800/DS8hyBwU_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:57",
-      "miss_count": 7
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 8
     },
     "20260428061157_twitter_com_MilkSU_Official_status_2049008699717587046.json": {
       "status": "done",
@@ -20945,8 +20947,8 @@
           "https://pbs.twimg.com/profile_images/2041133333686652928/ZRcgQaJW_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:57",
-      "miss_count": 7
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 8
     },
     "20260428111648_twitter_com_MilkSU_Official_status_2049085418990424066.json": {
       "status": "done",
@@ -21034,8 +21036,8 @@
           "https://pbs.twimg.com/profile_images/1911395064565137409/DHfsIEDQ_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:57",
-      "miss_count": 7
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 8
     },
     "20260429202247_twitter_com_MilkSU_Official_status_2049585206148088129.json": {
       "status": "done",
@@ -21676,8 +21678,8 @@
           "https://pbs.twimg.com/profile_images/2045121370405867521/cHx8jCe6_normal.png"
         ]
       },
-      "last_updated": "2026-09-30T19:06:57",
-      "miss_count": 7
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 8
     },
     "20260513113453_twitter_com_MilkSU_Official_status_2054525784858169797.json": {
       "status": "done",
@@ -22087,8 +22089,8 @@
           "https://pbs.twimg.com/profile_images/2049365274881835008/cuwwHfF0_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:57",
-      "miss_count": 7
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 8
     },
     "20260516124751_twitter_com_MilkSU_Official_status_2055631314947342753.json": {
       "status": "done",
@@ -23002,8 +23004,8 @@
           "https://pbs.twimg.com/profile_images/1777566343484837888/AMSKrpM0_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:57",
-      "miss_count": 7
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 8
     },
     "20260527022452_twitter_com_MilkSU_Official_status_2059460801250136524.json": {
       "status": "done",
@@ -24096,8 +24098,8 @@
           "https://pbs.twimg.com/profile_images/2047745843617492992/nweZOZvZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:57",
-      "miss_count": 7
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 8
     },
     "20260602005952_twitter_com_MilkSU_Official_status_2061613736042086585.json": {
       "status": "done",
@@ -24496,8 +24498,8 @@
           "https://pbs.twimg.com/profile_images/2043897150342586368/v7S5FSp8_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:57",
-      "miss_count": 7
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 8
     },
     "20260604062932_twitter_com_MilkSU_Official_status_2062421476389925242.json": {
       "status": "done",
@@ -25008,8 +25010,8 @@
           "https://pbs.twimg.com/profile_images/2062940752691576832/3xJ6ajGt_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:57",
-      "miss_count": 7
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 8
     },
     "20260607073415_twitter_com_MilkSU_Official_status_2063524925957419285.json": {
       "status": "failed",
@@ -25021,8 +25023,8 @@
           "https://pbs.twimg.com/profile_images/2062940752691576832/3xJ6ajGt_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:57",
-      "miss_count": 7
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 8
     },
     "20260607082533_twitter_com_MilkSU_Official_status_2063537838189330685.json": {
       "status": "done",
@@ -26917,8 +26919,8 @@
           "https://pbs.twimg.com/profile_images/2066249669244858368/H2TuPBz7_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:01",
-      "miss_count": 7
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 8
     },
     "20260625120359_twitter_com_MilkSU_Official_status_2070115787982221755.json": {
       "status": "done",
@@ -27335,8 +27337,8 @@
           "https://pbs.twimg.com/profile_images/2071606300103032832/wF5Jv-YR_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:57",
-      "miss_count": 7
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 8
     },
     "20260630034056_twitter_com_MilkSU_Official_status_2071801131848839577.json": {
       "status": "failed",
@@ -27348,8 +27350,8 @@
           "https://pbs.twimg.com/profile_images/2071606300103032832/wF5Jv-YR_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:57",
-      "miss_count": 7
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 8
     },
     "20260630034900_twitter_com_MilkSU_Official_status_2071803161271296371.json": {
       "status": "done",
@@ -28816,8 +28818,8 @@
           "https://pbs.twimg.com/profile_images/2071606300103032832/wF5Jv-YR_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:58",
-      "miss_count": 7
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 8
     },
     "20260708134823_twitter_com_MilkSU_Official_status_2074853102294040944.json": {
       "status": "done",
@@ -29026,8 +29028,8 @@
           "https://pbs.twimg.com/profile_images/2067868130928652288/yYxzABVe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:57",
-      "miss_count": 7
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 8
     },
     "20260709100359_twitter_com_MilkSU_Official_status_2075159020764328027.json": {
       "status": "done",
@@ -29588,8 +29590,8 @@
           "https://pbs.twimg.com/profile_images/2019966519879573504/bNAx8h0D_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:57",
-      "miss_count": 7
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 8
     },
     "20260718124347_twitter_com_MilkSU_Official_status_2078460724679209040.json": {
       "status": "done",
@@ -32440,8 +32442,8 @@
           "https://pbs.twimg.com/profile_images/2004824422449061888/mOUlFOHp_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:01",
-      "miss_count": 3
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 4
     },
     "20260731160607_twitter_com_MilkSU_Official_status_2083222685405040718.json": {
       "status": "done",
@@ -32538,8 +32540,8 @@
           "https://pbs.twimg.com/profile_images/1934651170381049856/37g2ZeFl_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00",
-      "miss_count": 3
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 4
     },
     "20260801095737_twitter_com_MilkSU_Official_status_2083492339922985218.json": {
       "status": "done",
@@ -32698,8 +32700,8 @@
           "https://pbs.twimg.com/profile_images/2041542935578370048/e5bP0X1c_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:57",
-      "miss_count": 1
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 2
     },
     "20260801133033_twitter_com_MilkSU_Official_status_2083545926657069341.json": {
       "status": "done",
@@ -33021,8 +33023,8 @@
           "https://pbs.twimg.com/profile_images/1934651170381049856/37g2ZeFl_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00",
-      "miss_count": 3
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 4
     },
     "20260803172218_twitter_com_MilkSU_Official_status_2084329022805455062.json": {
       "status": "done",
@@ -33390,8 +33392,8 @@
           "https://pbs.twimg.com/profile_images/2060687014538977280/ItngI9L3_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00",
-      "miss_count": 1
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 2
     },
     "20260806060232_twitter_com_MilkSU_Official_status_2085245115954757811.json": {
       "status": "done",
@@ -33643,8 +33645,8 @@
           "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00",
-      "miss_count": 3
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 4
     },
     "20260809225825_twitter_com_MilkSU_Official_status_2086587934934003963.json": {
       "status": "done",
@@ -33755,8 +33757,8 @@
           "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:01",
-      "miss_count": 3
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 4
     },
     "20260812000952_twitter_com_MilkSU_Official_status_2087330693563199847.json": {
       "status": "failed",
@@ -33770,8 +33772,8 @@
           "https://pbs.twimg.com/profile_images/2072997765794402304/5vR1_EWA_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00",
-      "miss_count": 1
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 2
     },
     "20260812020620_twitter_com_MilkSU_Official_status_2087360000369086626.json": {
       "status": "done",
@@ -34057,8 +34059,8 @@
           "https://pbs.twimg.com/profile_images/2070386577247985664/st2JlDna_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:57",
-      "miss_count": 1
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 2
     },
     "20260818041507_twitter_com_MilkSU_Official_status_2089566739143291358.json": {
       "status": "done",
@@ -34334,8 +34336,8 @@
           "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:07",
-      "miss_count": 1
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 2
     },
     "20260819121408_twitter_com_MilkSU_Official_status_2090049673298051344.json": {
       "status": "done",
@@ -34451,8 +34453,8 @@
           "https://pbs.twimg.com/profile_images/2039359197973016576/flw2rCBI_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:57",
-      "miss_count": 1
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 2
     },
     "20260820025255_twitter_com_MilkSU_Official_status_2090270827183042716.json": {
       "status": "done",
@@ -34589,8 +34591,8 @@
           "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00",
-      "miss_count": 1
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 2
     },
     "20260820152823_twitter_com_MilkSU_Official_status_2090460945806225497.json": {
       "status": "done",
@@ -35264,8 +35266,8 @@
           "https://pbs.twimg.com/profile_images/2091357772260765696/KsvfbCRl_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:57",
-      "miss_count": 1
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 2
     },
     "20260823032401_twitter_com_MilkSU_Official_status_2091365818357743813.json": {
       "status": "done",
@@ -35741,8 +35743,8 @@
           "https://pbs.twimg.com/profile_images/2091366756732575744/dEsS2fTj_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:57",
-      "miss_count": 1
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 2
     },
     "20260824122537_twitter_com_MilkSU_Official_status_2091864504053469342.json": {
       "status": "done",
@@ -35806,8 +35808,8 @@
           "https://pbs.twimg.com/profile_images/1993915468642701312/GJezvU0U_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:57",
-      "miss_count": 1
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 2
     },
     "20260824165550_twitter_com_MilkSU_Official_status_2091932505687675308.json": {
       "status": "done",
@@ -37463,8 +37465,8 @@
           "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00",
-      "miss_count": 1
+      "last_updated": "2026-09-30T19:08:16",
+      "miss_count": 2
     },
     "20260812051556_twitter_com_MilkSU_Official_status_2087407715719303401.json": {
       "status": "done",
@@ -37567,7 +37569,7 @@
           "https://pbs.twimg.com/profile_images/1591156184064487424/Z-EPOmzC_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:57"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260827131344_twitter_com_MilkSU_Official_status_2092963778715680831.json": {
       "status": "done",
@@ -37666,7 +37668,7 @@
           "https://pbs.twimg.com/profile_images/2035058421117161472/hWu8XR7w_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:57"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260909025713_twitter_com_MilkSU_Official_status_2097519668168954350.json": {
       "status": "done",
@@ -37703,7 +37705,7 @@
           "https://pbs.twimg.com/profile_images/1927428988839890944/-Q8itXt9_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:57"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260909114323_twitter_com_MilkSU_Official_status_2097652080735641874.json": {
       "status": "done",
@@ -37753,7 +37755,7 @@
           "https://pbs.twimg.com/profile_images/1943343935700537350/aL3hisoI_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:57"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260910060517_twitter_com_MilkSU_Official_status_2097929382476370410.json": {
       "status": "done",
@@ -37777,7 +37779,7 @@
           "https://pbs.twimg.com/profile_images/2087857338208362496/qOKa9Cei_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:57"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260910061219_twitter_com_MilkSU_Official_status_2097931153261121757.json": {
       "status": "done",
@@ -37803,7 +37805,7 @@
           "https://pbs.twimg.com/profile_images/2086042121308610560/C4onUYNu_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:58"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260911034136_twitter_com_MilkSU_Official_status_2098255611775582537.json": {
       "status": "unknown",
@@ -37822,7 +37824,7 @@
           "https://pbs.twimg.com/profile_images/2035058421117161472/hWu8XR7w_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:59"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260911085415_twitter_com_MilkSU_Official_status_2098334293764555253.json": {
       "status": "done",
@@ -37854,7 +37856,7 @@
           "https://pbs.twimg.com/profile_images/2004824422449061888/mOUlFOHp_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:01"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260911113653_twitter_com_MilkSU_Official_status_2098375222340751368.json": {
       "status": "done",
@@ -37908,7 +37910,7 @@
           "https://pbs.twimg.com/profile_images/2054731811503398912/5pyoljNt_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:59"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260912075552_twitter_com_MilkSU_Official_status_2098681990715433360.json": {
       "status": "done",
@@ -37944,7 +37946,7 @@
           "https://pbs.twimg.com/profile_images/1973376105307578369/TWS2NpAE_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:58"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260912100128_twitter_com_MilkSU_Official_status_2098713597576990773.json": {
       "status": "done",
@@ -37961,7 +37963,7 @@
       "last_updated": "2026-09-30T19:06:58"
     },
     "20260912101729_twitter_com_MilkSU_Official_status_2098717628059746311.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -37972,7 +37974,7 @@
           "https://pbs.twimg.com/profile_images/1996429903978446848/WCMLN3cw_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:58"
+      "last_updated": "2026-09-30T19:08:30"
     },
     "20260912135308_twitter_com_MilkSU_Official_status_2098771899270697304.json": {
       "status": "done",
@@ -38014,7 +38016,7 @@
           "https://pbs.twimg.com/profile_images/2035058421117161472/hWu8XR7w_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:59"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260913082957_twitter_com_MilkSU_Official_status_2099052954288554006.json": {
       "status": "done",
@@ -38087,7 +38089,7 @@
           "https://pbs.twimg.com/profile_images/2087864235577798656/bWilP-Cz_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:59"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260914120032_twitter_com_MilkSU_Official_status_2099468336103145542.json": {
       "status": "done",
@@ -38160,7 +38162,7 @@
           "https://pbs.twimg.com/profile_images/1994736376374583296/wIFgFABx_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:59"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260915175131_twitter_com_MilkSU_Official_status_2099919052730966455.json": {
       "status": "unknown",
@@ -38174,7 +38176,7 @@
           "https://pbs.twimg.com/profile_images/2043202722309267457/x1DaEYkp_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:59"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260916054540_twitter_com_MilkSU_Official_status_2100098773217423702.json": {
       "status": "done",
@@ -38204,7 +38206,7 @@
           "https://pbs.twimg.com/profile_images/2082773075721175040/jug7-_pq_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260916092512_twitter_com_MilkSU_Official_status_2100154022862954790.json": {
       "status": "unknown",
@@ -38219,7 +38221,7 @@
           "https://pbs.twimg.com/profile_images/1487337829470699520/KCbKhMxM_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:59"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260916093515_twitter_com_MilkSU_Official_status_2100156549582991560.json": {
       "status": "done",
@@ -38265,7 +38267,7 @@
           "https://pbs.twimg.com/profile_images/2035058421117161472/hWu8XR7w_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260917080059_twitter_com_MilkSU_Official_status_2100495214792290589.json": {
       "status": "unknown",
@@ -38279,7 +38281,7 @@
           "https://pbs.twimg.com/profile_images/1949572894155272192/lBx_km7C_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:06:59"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260917105645_twitter_com_MilkSU_Official_status_2100539451084808252.json": {
       "status": "done",
@@ -38338,7 +38340,7 @@
           "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260918010850_twitter_com_MilkSU_Official_status_2100753882372833757.json": {
       "status": "unknown",
@@ -38353,7 +38355,7 @@
           "https://pbs.twimg.com/profile_images/2098849743162245120/DOsCo7sc_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260918090609_twitter_com_MilkSU_Official_status_2100874004655739030.json": {
       "status": "done",
@@ -38380,7 +38382,7 @@
           "https://pbs.twimg.com/profile_images/2095997168075333632/tjNtrRoz_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260918121922_twitter_com_MilkSU_Official_status_2100922627229622476.json": {
       "status": "unknown",
@@ -38394,7 +38396,7 @@
           "https://pbs.twimg.com/profile_images/2100856226414510080/xYwmKY56_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260918121942_twitter_com_MilkSU_Official_status_2100922710125859169.json": {
       "status": "unknown",
@@ -38406,7 +38408,7 @@
           "https://pbs.twimg.com/profile_images/2096822574898696192/vBLEIGW4_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260918123010_twitter_com_MilkSU_Official_status_2100925347231612978.json": {
       "status": "done",
@@ -38430,7 +38432,7 @@
           "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260918150644_twitter_com_MilkSU_Official_status_2100964747319636384.json": {
       "status": "unknown",
@@ -38444,7 +38446,7 @@
           "https://pbs.twimg.com/profile_images/1806484431449841664/mnFiAtaY_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260919074725_twitter_com_MilkSU_Official_status_2101216578520150135.json": {
       "status": "done",
@@ -38472,7 +38474,7 @@
           "https://pbs.twimg.com/profile_images/2100767177762852865/QKMQ8SqQ_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260919082907_twitter_com_MilkSU_Official_status_2101227070823219351.json": {
       "status": "unknown",
@@ -38486,7 +38488,7 @@
           "https://pbs.twimg.com/profile_images/2094294218164641792/oskoOeJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00"
+      "last_updated": "2026-09-30T19:08:17"
     },
     "20260919095719_twitter_com_MilkSU_Official_status_2101249266253754709.json": {
       "status": "unknown",
@@ -38500,7 +38502,7 @@
           "https://pbs.twimg.com/profile_images/2101234606976712705/D7E2e2yo_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260919095753_twitter_com_MilkSU_Official_status_2101249411905208802.json": {
       "status": "done",
@@ -38541,7 +38543,7 @@
           "https://pbs.twimg.com/profile_images/2101168404732493824/JIak13Xx_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:01"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260919162307_twitter_com_MilkSU_Official_status_2101346358695506262.json": {
       "status": "done",
@@ -38565,7 +38567,7 @@
           "https://pbs.twimg.com/profile_images/2101302637224464384/K83afb3d_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260919162323_twitter_com_MilkSU_Official_status_2101346426085396578.json": {
       "status": "done",
@@ -38613,7 +38615,7 @@
           "https://pbs.twimg.com/profile_images/1946284002157211649/z5XSBjQ8_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260919162351_twitter_com_MilkSU_Official_status_2101346540501766190.json": {
       "status": "unknown",
@@ -38625,7 +38627,7 @@
           "https://pbs.twimg.com/profile_images/2101296506565505024/QK1s75xX_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260919172748_twitter_com_MilkSU_Official_status_2101362634696409142.json": {
       "status": "done",
@@ -38720,7 +38722,7 @@
           "https://pbs.twimg.com/profile_images/2100856226414510080/xYwmKY56_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260920055345_twitter_com_MilkSU_Official_status_2101550358854258921.json": {
       "status": "done",
@@ -38744,7 +38746,7 @@
           "https://pbs.twimg.com/profile_images/2101309197048860672/-gx1D6IJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260920083208_twitter_com_MilkSU_Official_status_2101590219992776896.json": {
       "status": "done",
@@ -38780,7 +38782,7 @@
           "https://pbs.twimg.com/profile_images/2100856226414510080/xYwmKY56_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260921043539_twitter_com_MilkSU_Official_status_2101893092874113366.json": {
       "status": "unknown",
@@ -38792,7 +38794,7 @@
           "https://pbs.twimg.com/profile_images/1924767181503660036/izfzRE3f_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260921052840_twitter_com_MilkSU_Official_status_2101906437219967210.json": {
       "status": "done",
@@ -38817,7 +38819,7 @@
           "https://pbs.twimg.com/profile_images/2018637275614363648/vW4y4RPm_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260921055838_twitter_com_MilkSU_Official_status_2101913975919440280.json": {
       "status": "done",
@@ -38856,7 +38858,7 @@
           "https://pbs.twimg.com/profile_images/1740286835249786880/DwrVM8h__normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260921135254_twitter_com_MilkSU_Official_status_2102033328744669576.json": {
       "status": "done",
@@ -39037,7 +39039,7 @@
           "https://pbs.twimg.com/profile_images/2101296506565505024/QK1s75xX_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:01"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260922193456_twitter_com_MilkSU_Official_status_2102481795577266202.json": {
       "status": "done",
@@ -39079,7 +39081,7 @@
           "https://pbs.twimg.com/profile_images/1892102864560062468/HqBEmDlS_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:01"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260924084947_twitter_com_MilkSU_Official_status_2103044210538807445.json": {
       "status": "unknown",
@@ -39094,7 +39096,7 @@
           "https://pbs.twimg.com/profile_images/2100856226414510080/xYwmKY56_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:01"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260924124554_twitter_com_MilkSU_Official_status_2103103632388530240.json": {
       "status": "unknown",
@@ -39106,7 +39108,7 @@
           "https://pbs.twimg.com/profile_images/2100856226414510080/xYwmKY56_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260924124638_twitter_com_MilkSU_Official_status_2103103818418565397.json": {
       "status": "unknown",
@@ -39124,7 +39126,7 @@
           "https://pbs.twimg.com/profile_images/1972886853398462464/5fIOa1dx_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:03"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260924124700_twitter_com_MilkSU_Official_status_2103103910504440007.json": {
       "status": "unknown",
@@ -39136,7 +39138,7 @@
           "https://pbs.twimg.com/profile_images/2101496538996580352/XhwCKsTd_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260924124716_twitter_com_MilkSU_Official_status_2103103977806283060.json": {
       "status": "done",
@@ -39179,7 +39181,7 @@
           "https://pbs.twimg.com/profile_images/2101309197048860672/-gx1D6IJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:01"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260925111114_twitter_com_MilkSU_Official_status_2103442197056241808.json": {
       "status": "done",
@@ -39203,7 +39205,7 @@
           "https://pbs.twimg.com/profile_images/2068994086460403712/hRsQ9Njp_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260925125842_twitter_com_MilkSU_Official_status_2103469243425755633.json": {
       "status": "done",
@@ -39255,7 +39257,7 @@
           "https://pbs.twimg.com/profile_images/1906323582759874560/6Elwf5WN_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260927045312_twitter_com_MilkSU_Official_status_2104071836669788448.json": {
       "status": "unknown",
@@ -39271,7 +39273,7 @@
           "https://pbs.twimg.com/profile_images/1972886853398462464/5fIOa1dx_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:02"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260927081320_twitter_com_MilkSU_Official_status_2104122201431789606.json": {
       "status": "done",
@@ -39321,7 +39323,7 @@
           "https://pbs.twimg.com/profile_images/2058876241566928896/lTiQJnCP_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260927130856_twitter_com_MilkSU_Official_status_2104196592748388419.json": {
       "status": "unknown",
@@ -39336,7 +39338,7 @@
           "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:01"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260927232302_twitter_com_MilkSU_Official_status_2104351136304222671.json": {
       "status": "unknown",
@@ -39348,7 +39350,7 @@
           "https://pbs.twimg.com/profile_images/2048058458684243968/Spw9svlr_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:00"
+      "last_updated": "2026-09-30T19:08:16"
     },
     "20260928060453_twitter_com_MilkSU_Official_status_2104452266153635869.json": {
       "status": "done",
@@ -39387,7 +39389,7 @@
           "https://pbs.twimg.com/profile_images/2099062598746705920/c-QD3821_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-30T19:07:01"
+      "last_updated": "2026-09-30T19:08:16"
     }
   }
 }
