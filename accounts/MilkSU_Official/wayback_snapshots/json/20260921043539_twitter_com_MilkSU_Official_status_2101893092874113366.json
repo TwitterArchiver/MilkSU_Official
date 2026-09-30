@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2101670306201096410",
+    "created_at": "2026-09-21T04:35:39.000Z",
+    "display_text_range": [
+      12,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T05:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101893092874113366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2311929205",
+          "start": 0,
+          "username": "retros7723"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101893092874113366",
+    "in_reply_to_user_id": "2311929205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101670306201096410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@retros7723 要读 不去review过程和方案的话就是纯抽奖折磨自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2101670306201096410",
+        "created_at": "2026-09-21T04:35:39.000Z",
+        "display_text_range": [
+          12,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T05:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101893092874113366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2311929205",
+              "start": 0,
+              "username": "retros7723"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101893092874113366",
+        "in_reply_to_user_id": "2311929205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101670306201096410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@retros7723 要读 不去review过程和方案的话就是纯抽奖折磨自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2311929205",
+        "conversation_id": "2101670306201096410",
+        "created_at": "2026-09-20T13:50:22.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T14:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101670306201096410"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101670306201096410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3136,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的还挺好奇，现在到底有多少人会读 AI 输出的结论和文字。明明只需要一个 do it 就能解放自己的情况下，有多少人能抵挡住这个诱惑踏踏实实读这些内容呢…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2101893092874113366",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4910,
+          "following_count": 2809,
+          "like_count": 43094,
+          "listed_count": 19,
+          "media_count": 1624,
+          "tweet_count": 14340
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-01-26T14:15:03.000Z",
+        "description": "Frontend Dev / Functional Progamming Learner / TypeScript Noob / exBytedancer",
+        "id": "2311929205",
+        "is_identity_verified": false,
+        "location": "Beijing",
+        "most_recent_tweet_id": "2101670306201096410",
+        "name": "Retrospection",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2311929205/1747735233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924767181503660036/izfzRE3f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 535,
+          "like_count": 370,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 265
+        },
+        "url": "",
+        "username": "retros7723",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

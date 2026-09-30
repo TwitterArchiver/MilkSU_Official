@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2098717628059746311",
+    "created_at": "2026-09-12T10:17:29.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T11:17:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098717628059746311"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/snowywar36965/…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/snowywar36965/status/2098712265637982550",
+          "start": 2,
+          "url": "https://t.co/S6VDzFdZYG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098717628059746311",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098712265637982550",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤔 https://t.co/S6VDzFdZYG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 279883,
+        "height": 1964,
+        "media_key": "13_2098712020694831104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098712020694831104/img/UufIRz9KsQeelmqv.jpg",
+        "public_metrics": {
+          "view_count": 24
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098712020694831104/vid/avc1/1662x1080/JE2L1KeBfyBVuni1.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098712020694831104/vid/avc1/3024x1964/_wSmiIpfs6vrbVNr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098712020694831104/vid/avc1/1108x720/KC10iI0uVvlJTgLB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098712020694831104/pl/nCc91yqbp_qiaZhU.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098712020694831104/vid/avc1/414x270/xGnwbdV8z5CW8wuE.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098712020694831104/vid/avc1/554x360/POQ_4EUP3LyB0ggO.mp4"
+          }
+        ],
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2098717628059746311",
+        "created_at": "2026-09-12T10:17:29.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T11:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098717628059746311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/snowywar36965/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/snowywar36965/status/2098712265637982550",
+              "start": 2,
+              "url": "https://t.co/S6VDzFdZYG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098717628059746311",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098712265637982550",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤔 https://t.co/S6VDzFdZYG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098712020694831104"
+          ]
+        },
+        "author_id": "1996428473125269504",
+        "conversation_id": "2098712265637982550",
+        "created_at": "2026-09-12T09:56:10.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T10:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098712265637982550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u5zcWaAgNy",
+              "end": 143,
+              "expanded_url": "https://x.com/SnowyWar36965/status/2098712265637982550/video/1",
+              "media_key": "13_2098712020694831104",
+              "start": 120,
+              "url": "https://t.co/u5zcWaAgNy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098712265637982550",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2098712020694831104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "New travel companions have joined! I successfully got two fruit flies to play maimai together and AP'd Xaleid◆scopiX!!! https://t.co/u5zcWaAgNy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2098717628059746311",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4894,
+          "following_count": 2773,
+          "like_count": 42876,
+          "listed_count": 19,
+          "media_count": 1623,
+          "tweet_count": 14276
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-04T03:57:05.000Z",
+        "description": "CTFer | Security Development Engineer | W&M | EIMSOUND",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "snowywar.top",
+                "end": 23,
+                "expanded_url": "http://www.snowywar.top",
+                "start": 0,
+                "url": "https://t.co/E8SfL13sZ7"
+              }
+            ]
+          }
+        },
+        "id": "1996428473125269504",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098712265637982550",
+        "name": "Sn1waR",
+        "pinned_tweet_id": "2098712265637982550",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996429903978446848/WCMLN3cw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 16,
+          "like_count": 53,
+          "listed_count": 4,
+          "media_count": 100,
+          "tweet_count": 387
+        },
+        "url": "https://t.co/E8SfL13sZ7",
+        "username": "SnowyWar36965",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

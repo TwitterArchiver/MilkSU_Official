@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2103821968944533526",
+    "created_at": "2026-09-26T12:38:10.000Z",
+    "display_text_range": [
+      8,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T13:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103826461740470281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1473591",
+          "start": 0,
+          "username": "tianyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103826461740470281",
+    "in_reply_to_user_id": "1473591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103821968944533526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianyi 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 919,
+        "media_key": "3_2103821346463735808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJGXjra4AATGIV.jpg",
+        "width": 1564
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2103821968944533526",
+        "created_at": "2026-09-26T12:38:10.000Z",
+        "display_text_range": [
+          8,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T13:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103826461740470281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1473591",
+              "start": 0,
+              "username": "tianyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103826461740470281",
+        "in_reply_to_user_id": "1473591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103821968944533526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianyi 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103821346463735808"
+          ]
+        },
+        "author_id": "1473591",
+        "conversation_id": "2103821968944533526",
+        "created_at": "2026-09-26T12:20:19.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T13:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103821968944533526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fhXhaW7jGk",
+              "end": 133,
+              "expanded_url": "https://x.com/tianyi/status/2103821968944533526/photo/1",
+              "media_key": "3_2103821346463735808",
+              "start": 110,
+              "url": "https://t.co/fhXhaW7jGk"
+            },
+            {
+              "display_url": "x.com/tianyi/status/…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/tianyi/status/2103534313463783831",
+              "start": 134,
+              "url": "https://t.co/vjwwxAj76o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103821968944533526",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103821346463735808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2521,
+          "like_count": 58,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103534313463783831",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【DSH 社区插件推荐】推荐一下从 DeepSeek Harness 内测期间就持续开发的 dsh-TUI。做得非常用心，补齐了 DSH 缺失的 TUI 界面，并持续随 DSH 版本更新及打磨功能。\n\n插件网址见回复。 https://t.co/fhXhaW7jGk https://t.co/vjwwxAj76o"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2103826461740470281",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4901,
+          "following_count": 2806,
+          "like_count": 43194,
+          "listed_count": 18,
+          "media_count": 1625,
+          "tweet_count": 14372
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2007-03-19T05:24:31.000Z",
+        "description": "Member of Technical Staff @ DeepSeek, Harness Team\n\nI'd love to connect with members of international frontier LLM labs! DM is open. Opinions are my own.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tianyicui.com",
+                "end": 23,
+                "expanded_url": "https://tianyicui.com",
+                "start": 0,
+                "url": "https://t.co/llGaZbRlM3"
+              }
+            ]
+          }
+        },
+        "id": "1473591",
+        "is_identity_verified": false,
+        "location": "Beijing",
+        "most_recent_tweet_id": "2103822073223389348",
+        "name": "Tianyi Cui",
+        "pinned_tweet_id": "2096975270578139273",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/378800000650737082/b849b67d6470fafe8b3deb2ae97acfda_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44835,
+          "following_count": 471,
+          "like_count": 839,
+          "listed_count": 315,
+          "media_count": 52,
+          "tweet_count": 7223
+        },
+        "url": "https://t.co/llGaZbRlM3",
+        "username": "tianyi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2097288792642339308",
+    "created_at": "2026-09-09T01:31:43.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T02:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097498151800455206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "269195139",
+          "start": 0,
+          "username": "AstroHanRay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097498151800455206",
+    "in_reply_to_user_id": "269195139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097288792642339308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AstroHanRay 这么强"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2097288792642339308",
+        "created_at": "2026-09-09T01:31:43.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T02:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097498151800455206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "269195139",
+              "start": 0,
+              "username": "AstroHanRay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097498151800455206",
+        "in_reply_to_user_id": "269195139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097288792642339308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AstroHanRay 这么强"
+      },
+      {
+        "article": {
+          "cover_media": "3_2097255467898810368",
+          "entities": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "stgyhh22835"
+              },
+              {
+                "end": 16,
+                "start": 6,
+                "username": "tison1096"
+              },
+              {
+                "end": 43,
+                "start": 36,
+                "username": "Xuanwo"
+              }
+            ],
+            "tweets": [
+              {
+                "id": "2091826806135632108"
+              },
+              {
+                "id": "2088201216585310508"
+              },
+              {
+                "id": "2091752606528078164"
+              }
+            ],
+            "urls": [
+              {
+                "text": "https://github.com/apache/maka/blob/main/docs/eval/terminal-bench-2.1-deepseek-v4-flash-nine-arm.md"
+              },
+              {
+                "text": "https://github.com/jackwener/opencli"
+              },
+              {
+                "text": "https://github.com/Astro-Han/pawwork"
+              },
+              {
+                "text": "https://github.com/apache/maka/discussions/3621"
+              },
+              {
+                "text": "https://www.tisonkun.org/2026/06/30/down-the-rabbit-hole/"
+              },
+              {
+                "text": "https://x.com/tison1096"
+              },
+              {
+                "text": "https://gwern.net/doc/cs/1996-lehman.pdf"
+              },
+              {
+                "text": "https://www.tisonkun.org/2026/06/30/down-the-rabbit-hole/"
+              },
+              {
+                "text": "https://x.com/xuanwo"
+              },
+              {
+                "text": "https://x.com/stgyhh22835"
+              }
+            ]
+          },
+          "media_entities": [
+            "3_2097247036328587264",
+            "3_2097281758941282304",
+            "3_2097266878418960384",
+            "3_2097270778073112577"
+          ],
+          "plain_text": "我读的是商科，之前在 B 站做投资业务，2021 年开始创业做猫粮。今年 1 月才开始借助 AI 写代码，3 月提交了第一个公开 PR。\n到了 9 月，我登上了 GitHub Trending 开发者全球月榜前三。\n这期间，我参与的开源 Agent 项目 Maka 进入了 Apache 孵化器，获得接近 5,000 个 Star、100 多位贡献者，还登上了 GitHub Trending 的 TypeScript 榜首。\n \n我们用同一款 DeepSeek V4 Flash 模型、相同的 max 思考强度，对九个 Agent 跑了一次完整的 Terminal-Bench 2.1 测试。Maka 的通过率是 77.5%，排第二，仅次于 Codex，高于 Pi、OpenCode、Kimi Code 和 Claude Code。这是我们团队的同模型对比测试，报告和逐题结果都公开了。\n \n评测报告：https://github.com/apache/maka/blob/main/docs/eval/terminal-bench-2.1-deepseek-v4-flash-nine-arm.md\n从卖猫粮开始参与开源\n做消费品、做猫粮，本来就需要抓社交媒体上的信息，看用户在讨论什么、对产品有什么反馈，爬虫是个刚需。我最开始用 OpenCLI 就是为了这个。用的时候遇到功能上的卡点、平台风控这些问题，就自己改、提 PR，一来二去开始参与开源了。\nOpenCLI：https://github.com/jackwener/opencli\n（到现在依然是我用过最好用的社交媒体爬虫工具。）\n后来做 PawWork，是因为团队需要一个稳定、好用、不用翻墙的 AI 工作台。我们从 OpenCode 的分支起步，把它做成团队能用的工具。\nPawWork：https://github.com/Astro-Han/pawwork\n 什么样的 Ag\n什么样的 Agent 才算好？\n参与 Maka，是想跟小伙伴从最基础的 agent loop 开始做一个 Agent，真正弄明白它怎么工作。\n我觉得 Agent 没有“人人都能手搓一个”说得那么简单。拿 Pi 做核心 loop，套个界面，确实能很快做出一个产品。但如果对 Agent 的理解就停在这里，还是太浅了。工具设计、上下文管理、模型的行为引导，每一层都有很多可以研究的东西。\n我的理解很简单：LLM + Harness = Agent。模型之外，工具、上下文管理、执行流程等，都算在 Harness 里。\nHarness 也应该像模型一样，有 benchmark。开始做 Maka 时，我们确定的第一件事就是做 Eval、打榜，用任务通过率和完成任务的成本，检验 Harness 的优化方向。\n \n先做起来，再补知识\n我大学时就想学编程，但当时觉得太难，一直没真正入门。有了 AI，我才从爬虫、团队工作台这些需求开始，把东西做出来，再顺着问题去学。对我来说，Vibe Coding 让 learn by doing 变得可行了。\n“有了 Vibe Coding，技术原理就不重要了”，这个观点我完全不认同。这也对应 Lehman 的复杂性增长定律：持续演进的软件，如果不主动控制复杂度，就会越来越复杂。代码由谁写，并不会改变这个问题。只管加功能、不理解设计，最后很容易堆出一个自己也维护不了的屎山。\n最直接的例子：Agent 给了两个方案，你怎么知道选哪个？哪个引入了多余的复杂度，哪个会给后面的修改埋坑？这些判断需要知识和经验。做 Maka 时，我才逐渐理解单一事实来源、幂等性、不变量，也开始能理解我们为什么用事件日志还原执行状态，以及 Pi v2 为什么走向类似的设计。\n卡比写过 Maka 与 Pi v2 的架构对照：\n \n做 Maka 给我的一个体会是：AI 大幅提升了代码生成效率，审查和讨论却没有同比例提速。这很像约束理论里的瓶颈转移：写得再快，整个项目的推进速度仍受最吃紧的环节限制。\n大量 PR 涌入时，维护者怎么筛出值得做的改动、完成审查、守住架构的一致性？这是开源社区已经在面对的问题，单靠提高代码生成速度解决不了。\n开源里的讨论，也很有价值\n提 PR 前，先跟社区聊清楚这个问题值不值得解决、方案合不合适、后续谁来维护。代码可以交给 Agent 写，这些事需要提交者自己想清楚，也要听维护者的意见。\nMaka 的社区里，大家的背景、技术水平、关注点都不一样。有的人对产品和体验更敏感，能提出很有意思的想法；有的人技术积累很深，能把问题抽象清楚，看出一个设计以后会在哪里出问题。这些不同的视角，在 issue、PR 和 discussion 里碰到一起，经常会让一个最初看起来很简单的问题，变得值得重新想一遍。\n比如我跟李坤（@stgyhh22835）讨论 deferred tool 怎么设计，我更关注减少模型的交互成本，他会追问这样会不会加载太多用不上的工具。来回讨论，再结合实际数据，我们才把方案和取舍想清楚。这种不同视角的碰撞，本身就很有价值。\n \n讨论原帖：https://github.com/apache/maka/discussions/3621\n我觉得社区里这种讨论本身就很有价值。一个想法发出来，别人会带着不同的经验追问你，你也得重新检查自己的理由。最后留下来的设计，背后有大家一起想过的问题和取舍。\ntison（@tison1096）有篇文章叫《掉进兔子洞：开源作为生活方式》，从自己读文档、做作业时的小修改，一路讲到参与开源社区。我觉得“掉进兔子洞”这个说法很贴切。我最开始就是做猫粮需要爬虫，用着用着开始改 OpenCLI；后来团队需要 AI 工作台，就做 PawWork；再后来想弄明白 Agent，就一起做 Maka。每一步都有当时想解决的问题，也有一点好奇心，然后就越走越深了。\n文章：https://www.tisonkun.org/2026/06/30/down-the-rabbit-hole/\n \n给想参与开源的朋友\n第一，从自己的需求和兴趣出发。找一个自己真会用的项目，解决一个让自己不爽的问题，顺着它往下挖。像 tison 说的“掉进兔子洞”，后面会遇到什么，开始的时候未必想得到。\n第二，尊重现有社区。先读 CONTRIBUTING.md，了解项目，再 start small，哪怕从参与讨论开始。自己都没理解，就往社区里塞一堆 AI 生成的 PR，只会消耗维护者的精力。\n第三，别忽略知识和原理。要能解释自己的改动，理解方案背后的取舍，别成为 @Xuanwo 说的 meat proxy，只负责转发 Agent 的回答。Agent 是工具，判断和责任得留在自己手里。\n小小安利一下纯刻\n我希望做猫粮也能像做开源一样，把东西公开，让大家自己看。每袋扫码，都能看到对应批次的原料实拍和检测报告。到今年 8 月，我们已经累计公开了 466 份第三方检测报告，实拍了 3370 吨原料。家里有猫的朋友，欢迎了解一下。\n \n",
+          "preview_text": "我读的是商科，之前在 B 站做投资业务，2021 年开始创业做猫粮。今年 1 月才开始借助 AI 写代码，3 月提交了第一个公开 PR。\n到了 9 月，我登上了 GitHub Trending 开发者全球月榜前三。\n这期间，我参与的开源 Agent",
+          "title": "一个卖猫粮的，1 月才写第一行代码，9 月登上 GitHub Trending 开发者月榜全球第三"
+        },
+        "attachments": {},
+        "author_id": "269195139",
+        "conversation_id": "2097288792642339308",
+        "created_at": "2026-09-08T11:39:48.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T12:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097288792642339308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2097…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/article/2097239795139547136",
+              "start": 0,
+              "status": 404,
+              "unwound_url": "https://x.com/i/article/2097239795139547136",
+              "url": "https://t.co/IrbqivyG6X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097288792642339308",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 2749,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IrbqivyG6X"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2097498151800455206",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4893,
+          "following_count": 2771,
+          "like_count": 42795,
+          "listed_count": 19,
+          "media_count": 1622,
+          "tweet_count": 14253
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-03-20T08:18:35.000Z",
+        "description": "Building Apache Maka(Incubating), focusing on AI agent. 中文/EN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Astro-Han",
+                "end": 23,
+                "expanded_url": "https://github.com/Astro-Han",
+                "start": 0,
+                "url": "https://t.co/QyrgCVuYUF"
+              }
+            ]
+          }
+        },
+        "id": "269195139",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097494272912290156",
+        "name": "AstroHan",
+        "pinned_tweet_id": "2097288792642339308",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/269195139/1774030723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035058421117161472/hWu8XR7w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 482,
+          "like_count": 3454,
+          "listed_count": 7,
+          "media_count": 75,
+          "tweet_count": 2068
+        },
+        "url": "https://t.co/QyrgCVuYUF",
+        "username": "AstroHanRay",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2102344620277641659",
+    "created_at": "2026-09-22T12:33:57.000Z",
+    "display_text_range": [
+      8,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T13:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102375848842252294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1145847532536209409",
+          "start": 0,
+          "username": "Seefs_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102375848842252294",
+    "in_reply_to_user_id": "1145847532536209409",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102344620277641659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seefs_ 唉tauri"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2102344620277641659",
+        "created_at": "2026-09-22T12:33:57.000Z",
+        "display_text_range": [
+          8,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T13:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102375848842252294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1145847532536209409",
+              "start": 0,
+              "username": "Seefs_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102375848842252294",
+        "in_reply_to_user_id": "1145847532536209409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102344620277641659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seefs_ 唉tauri"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1145847532536209409",
+        "conversation_id": "2102344620277641659",
+        "created_at": "2026-09-22T10:29:51.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T11:29:37.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102344561855209751",
+          "2102344620277641659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Describe the bug If you use the mock function in tauri::test on Windows, you won't be able to run the test. on src-tauri directory. $ cargo test -- --nocapture Finished `test` profile [unoptimi...",
+              "display_url": "github.com/tauri-apps/tau…",
+              "end": 39,
+              "expanded_url": "https://github.com/tauri-apps/tauri/issues/13419",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2102344604905615360/Bpp_Mfnb?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2102344604905615360/Bpp_Mfnb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "[bug] `STATUS_ENTRYPOINT_NOT_FOUND` error when running command `cargo test` on Windows · Issue #13419 · tauri-apps/tauri",
+              "unwound_url": "https://github.com/tauri-apps/tauri/issues/13419",
+              "url": "https://t.co/4iXxpMghIA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102344620277641659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 348,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正在和tauri在CI上战斗😇\nhttps://t.co/4iXxpMghIA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2102375848842252294",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4910,
+          "following_count": 2811,
+          "like_count": 43142,
+          "listed_count": 19,
+          "media_count": 1625,
+          "tweet_count": 14356
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2102284878695768064/ySD0k11F_bigger.jpg",
+          "description": "New API",
+          "url": "https://twitter.com/newapi_ai",
+          "user_id": [
+            "1869426462929104897"
+          ]
+        },
+        "created_at": "2019-07-02T00:11:55.000Z",
+        "description": "🥰🥰🥰｜🐱：@Ion_Mio_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "Ion_Mio_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "seefs.me",
+                "end": 23,
+                "expanded_url": "https://www.seefs.me",
+                "start": 0,
+                "url": "https://t.co/EIaqSxZJB0"
+              }
+            ]
+          }
+        },
+        "id": "1145847532536209409",
+        "is_identity_verified": false,
+        "location": "2.1km",
+        "most_recent_tweet_id": "2102344620277641659",
+        "name": "Seefs",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1145847532536209409/1748711926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928861519942660097/1PagFs4T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2074,
+          "following_count": 767,
+          "like_count": 17260,
+          "listed_count": 8,
+          "media_count": 181,
+          "tweet_count": 2149
+        },
+        "url": "https://t.co/EIaqSxZJB0",
+        "username": "Seefs_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

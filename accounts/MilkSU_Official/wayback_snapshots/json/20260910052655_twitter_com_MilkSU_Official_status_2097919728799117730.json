@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2097643932582855034",
+    "created_at": "2026-09-10T05:26:55.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T06:26:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097919728799117730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1283227879698907136",
+          "start": 0,
+          "username": "sleepy0x13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097919728799117730",
+    "in_reply_to_user_id": "1283227879698907136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097643932582855034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sleepy0x13 这还挺好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2097643932582855034",
+        "created_at": "2026-09-10T05:26:55.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T06:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097919728799117730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1283227879698907136",
+              "start": 0,
+              "username": "sleepy0x13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097919728799117730",
+        "in_reply_to_user_id": "1283227879698907136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097643932582855034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sleepy0x13 这还挺好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1283227879698907136",
+        "conversation_id": "2097643932582855034",
+        "created_at": "2026-09-09T11:11:00.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T12:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097643932582855034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/newyorker/stat…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/newyorker/status/2097633760103805205",
+              "start": 155,
+              "url": "https://t.co/uc2M5WoRfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097643932582855034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于 Anthropic 毁掉书籍训练 Claude 的事情，《纽约客》又扒出来了一些更有意思的细节。\n\n今年年初，美国一些二手书商发现订单突然变得很奇怪。\n\n一个布鲁克林书商以前一年在 Alibris 上都卖不到 10 本书，突然开始一次收到十几本的订单，而且专挑冷门书，平均每本能卖到 75～80 美元。\n\n买家也不像正常人，订单来自 Green Parrot Project、Red Sparrow Project 这种莫名其妙的 LLC。\n\n有个书商实在太好奇了，直接往卖出去的书里塞了一张 GPS 追踪卡。\n\n结果一路追到伊利诺伊州 Addison 的 ARC Document Solutions 工业扫描厂。这家公司很多扫描中心 24 小时运转，自己宣传过，一个客户每个月送来的文件量，相当于「一个足球场大小、箱子堆四层」\n\n更有意思的是它们到底在买什么。\n\n《纽约客》从书商手里收集了 600 多本疑似卖给 AI 公司的书。大部分出版于 1970 年代到 2010 年代，很多首印只有 1000 本甚至更少；出现最多的 10 家出版社里，8 家是学术出版社，整个样本大约三分之一都是学术出版物。\n\n里面有法律、历史、文学批评，也有《Utilization of Municipal Wastewater Sludge》这种 1972 年出版的污水污泥处理手册。\n\nAnthropic 研究员 Mycal Tucker 在证词里还说，非虚构作品通常比小说更有训练价值，这些书能提升模型在哲学、天文学等专业领域的表现。\n\nAnthropic 最开始可以找批发商按吨买书，等大路货扫得差不多，又开始通过壳公司钻进美国二手书网站，一本一本补那些互联网和现成数据库里缺失的长尾资料。\n\n连一个几十年没人看的污水处理手册，都有人专门下单、运输、切开、扫描，再塞进 Claude。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 345,
+          "impression_count": 183314,
+          "like_count": 789,
+          "quote_count": 23,
+          "reply_count": 73,
+          "retweet_count": 147
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097633760103805205",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于 Anthropic 毁掉书籍训练 Claude 的事情，《纽约客》又扒出来了一些更有意思的细节。\n\n今年年初，美国一些二手书商发现订单突然变得很奇怪。\n\n一个布鲁克林书商以前一年在 Alibris 上都卖不到 10 本书，突然开始一次收到十几本的订单，而且专挑冷门书，平均每本能卖到 75～80 美元。 https://t.co/uc2M5WoRfj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2097919728799117730",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4893,
+          "following_count": 2772,
+          "like_count": 42818,
+          "listed_count": 19,
+          "media_count": 1622,
+          "tweet_count": 14260
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2008452174083485698/WaDlss-k_bigger.jpg",
+          "description": "KITE AI",
+          "url": "https://twitter.com/GoKiteAI",
+          "user_id": [
+            "1841881477371592704"
+          ]
+        },
+        "created_at": "2020-07-15T02:32:36.000Z",
+        "description": "Editor-in-Chief @BeatingOfficial https://t.co/ldNS4YS4zF\nCovering AI, youth culture, and how emerging tech is changing the way young people live.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "BeatingOfficial"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "beating.news",
+                "end": 56,
+                "expanded_url": "https://beating.news/",
+                "start": 33,
+                "url": "https://t.co/ldNS4YS4zF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beating.news",
+                "end": 23,
+                "expanded_url": "https://beating.news/",
+                "start": 0,
+                "url": "https://t.co/ldNS4YS4zF"
+              }
+            ]
+          }
+        },
+        "id": "1283227879698907136",
+        "is_identity_verified": false,
+        "location": "Beijing",
+        "most_recent_tweet_id": "2097896453050163309",
+        "name": "sleepy.md",
+        "pinned_tweet_id": "2014194282261876990",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1283227879698907136/1761351291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943343935700537350/aL3hisoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37077,
+          "following_count": 2152,
+          "like_count": 9389,
+          "listed_count": 615,
+          "media_count": 1398,
+          "tweet_count": 10454
+        },
+        "url": "https://t.co/ldNS4YS4zF",
+        "username": "sleepy0x13",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

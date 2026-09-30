@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2104122201431789606",
+    "created_at": "2026-09-27T23:23:02.000Z",
+    "display_text_range": [
+      15,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T00:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104351136304222671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2047918395329511424",
+          "start": 0,
+          "username": "math_fournity"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104351136304222671",
+    "in_reply_to_user_id": "2047918395329511424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104233013861396689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@math_fournity 还没看ip质量ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2104122201431789606",
+        "created_at": "2026-09-27T23:23:02.000Z",
+        "display_text_range": [
+          15,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T00:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104351136304222671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2047918395329511424",
+              "start": 0,
+              "username": "math_fournity"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104351136304222671",
+        "in_reply_to_user_id": "2047918395329511424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104233013861396689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@math_fournity 还没看ip质量ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047918395329511424",
+        "conversation_id": "2104122201431789606",
+        "created_at": "2026-09-27T15:33:39.000Z",
+        "display_text_range": [
+          17,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T16:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104233013861396689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2840236608",
+              "start": 0,
+              "username": "MilkSU_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104233013861396689",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104122201431789606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MilkSU_Official 是不是多个一个靠谱的纯净IP喵？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2104351136304222671",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4907,
+          "following_count": 2814,
+          "like_count": 43244,
+          "listed_count": 18,
+          "media_count": 1626,
+          "tweet_count": 14380
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-25T05:59:59.000Z",
+        "description": "数学元理论研究，数学界的毁灭之神\n\nWith AI, Surpass AI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/math-fournity",
+                "end": 23,
+                "expanded_url": "https://github.com/math-fournity",
+                "start": 0,
+                "url": "https://t.co/3I9VEtTqw7"
+              }
+            ]
+          }
+        },
+        "id": "2047918395329511424",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104327827298603365",
+        "name": "MATH FOURNITY",
+        "pinned_tweet_id": "2101382023671910529",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047918395329511424/1789807735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048058458684243968/Spw9svlr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1936,
+          "following_count": 2222,
+          "like_count": 5709,
+          "listed_count": 1,
+          "media_count": 567,
+          "tweet_count": 2919
+        },
+        "url": "https://t.co/3I9VEtTqw7",
+        "username": "math_fournity",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

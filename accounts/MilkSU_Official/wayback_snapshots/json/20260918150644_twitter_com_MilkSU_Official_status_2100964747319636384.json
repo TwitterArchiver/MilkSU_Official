@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2100948887246877119",
+    "created_at": "2026-09-18T15:06:44.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T16:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100964747319636384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1697286038463655936",
+          "start": 0,
+          "username": "qwqbebe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100964747319636384",
+    "in_reply_to_user_id": "1697286038463655936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100948887246877119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwqbebe 很虚无🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 515,
+        "media_key": "3_2100948269727907840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgRUeyagAAODV4.jpg",
+        "width": 595
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2100948887246877119",
+        "created_at": "2026-09-18T15:06:44.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T16:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100964747319636384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1697286038463655936",
+              "start": 0,
+              "username": "qwqbebe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100964747319636384",
+        "in_reply_to_user_id": "1697286038463655936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100948887246877119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwqbebe 很虚无🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100948269727907840"
+          ]
+        },
+        "author_id": "1697286038463655936",
+        "conversation_id": "2100948887246877119",
+        "created_at": "2026-09-18T14:03:43.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T15:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100948887246877119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xZrRGZgg8R",
+              "end": 83,
+              "expanded_url": "https://x.com/qwqbebe/status/2100948887246877119/photo/1",
+              "media_key": "3_2100948269727907840",
+              "start": 60,
+              "url": "https://t.co/xZrRGZgg8R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100948887246877119",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100948269727907840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "快开始工作了，我很好奇真的开始用AI做工业界的活之后我来自AI的虚无感是会加重还是减轻🫠🫠 希望一切安好，虽然我很悲观 https://t.co/xZrRGZgg8R"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2100964747319636384",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4905,
+          "following_count": 2806,
+          "like_count": 43021,
+          "listed_count": 19,
+          "media_count": 1623,
+          "tweet_count": 14312
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-31T16:32:14.000Z",
+        "description": "Pwner. Computer Systems (uarch/OS/Security) / HPC. They/them. Mt🐱. 21. Raindrop/Breeze. English main: @raindropmagica",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 102,
+                "username": "raindropmagica"
+              }
+            ]
+          }
+        },
+        "id": "1697286038463655936",
+        "is_identity_verified": false,
+        "location": "Mitakihara",
+        "most_recent_tweet_id": "2100962815620382973",
+        "name": "Raindrop",
+        "pinned_tweet_id": "2072548983684096196",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697286038463655936/1719219257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806484431449841664/mnFiAtaY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 124,
+          "like_count": 7100,
+          "listed_count": 1,
+          "media_count": 655,
+          "tweet_count": 3420
+        },
+        "url": "",
+        "username": "qwqbebe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

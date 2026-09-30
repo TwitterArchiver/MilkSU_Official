@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2101227070823219351",
+    "created_at": "2026-09-19T08:29:07.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T09:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101227070823219351"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/themathflow/st…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/themathflow/status/2101154346583154801",
+          "start": 2,
+          "url": "https://t.co/KdRMSCN7wf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101227070823219351",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101154346583154801",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "！ https://t.co/KdRMSCN7wf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15177,
+        "height": 1484,
+        "media_key": "13_2101154249585664000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101154249585664000/img/HlUhjLQY_CMsXHAr.jpg",
+        "public_metrics": {
+          "view_count": 161276
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101154249585664000/pl/D0KXiKd7KYmrIPDv.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101154249585664000/vid/avc1/522x360/6oscrtSQFqH-wJfY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101154249585664000/vid/avc1/1046x720/AOq7PR602s_j-odl.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101154249585664000/vid/avc1/2160x1484/rPrgnujUuSu50aDe.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101154249585664000/vid/avc1/392x270/NbOjGmNLITn1Gy7S.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2101227070823219351",
+        "created_at": "2026-09-19T08:29:07.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T09:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101227070823219351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/themathflow/st…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/themathflow/status/2101154346583154801",
+              "start": 2,
+              "url": "https://t.co/KdRMSCN7wf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101227070823219351",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101154346583154801",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "！ https://t.co/KdRMSCN7wf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101154249585664000"
+          ]
+        },
+        "author_id": "1798726244533706752",
+        "conversation_id": "2101154346583154801",
+        "created_at": "2026-09-19T03:40:08.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T04:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101154346583154801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jCzwNaeF8P",
+              "end": 65,
+              "expanded_url": "https://x.com/TheMathFlow/status/2101154346583154801/video/1",
+              "media_key": "13_2101154249585664000",
+              "start": 42,
+              "url": "https://t.co/jCzwNaeF8P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101154346583154801",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2101154249585664000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3178,
+          "impression_count": 509518,
+          "like_count": 6451,
+          "quote_count": 63,
+          "reply_count": 48,
+          "retweet_count": 912
+        },
+        "reply_settings": "everyone",
+        "text": "Solving a Rubik's Cube with graph theory. https://t.co/jCzwNaeF8P"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2101227070823219351",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4905,
+          "following_count": 2806,
+          "like_count": 43028,
+          "listed_count": 19,
+          "media_count": 1623,
+          "tweet_count": 14315
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-06T14:39:11.000Z",
+        "description": "Mathematics insights presented through animations, formulas, pictures, graphics, quotes, books, history, and memes. Open DM.",
+        "id": "1798726244533706752",
+        "is_identity_verified": true,
+        "location": "INDIA",
+        "most_recent_tweet_id": "2101216751254180332",
+        "name": "The Math Flow",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1798726244533706752/1788786225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094294218164641792/oskoOeJD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64225,
+          "following_count": 55,
+          "like_count": 25147,
+          "listed_count": 190,
+          "media_count": 3683,
+          "tweet_count": 10400
+        },
+        "url": "",
+        "username": "TheMathFlow",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

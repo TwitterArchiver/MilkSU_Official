@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2840236608",
+    "conversation_id": "2099396620525928701",
+    "created_at": "2026-09-14T10:48:09.000Z",
+    "display_text_range": [
+      28,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T11:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099450121377517599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1427141496407420929",
+          "start": 0,
+          "username": "__soragoto__"
+        },
+        {
+          "end": 27,
+          "id": "1857684678423248896",
+          "start": 14,
+          "username": "approved_cry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099450121377517599",
+    "in_reply_to_user_id": "1427141496407420929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099396620525928701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__soragoto__ @approved_cry 好有趣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 165,
+        "media_key": "3_2099396431337623552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSKN7mSaEAAnsYA.png",
+        "width": 493
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2099396620525928701",
+        "created_at": "2026-09-14T10:48:09.000Z",
+        "display_text_range": [
+          28,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T11:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099450121377517599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1427141496407420929",
+              "start": 0,
+              "username": "__soragoto__"
+            },
+            {
+              "end": 27,
+              "id": "1857684678423248896",
+              "start": 14,
+              "username": "approved_cry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099450121377517599",
+        "in_reply_to_user_id": "1427141496407420929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099396620525928701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__soragoto__ @approved_cry 好有趣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099396431337623552"
+          ]
+        },
+        "author_id": "1427141496407420929",
+        "conversation_id": "2099396620525928701",
+        "created_at": "2026-09-14T07:15:33.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T08:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099396620525928701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IOOtsNfvmS",
+              "end": 162,
+              "expanded_url": "https://x.com/__soragoto__/status/2099396620525928701/photo/1",
+              "media_key": "3_2099396431337623552",
+              "start": 139,
+              "url": "https://t.co/IOOtsNfvmS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099396620525928701",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099396431337623552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "面试官：既然来面运维岗了，什么 k8s 啥的八股先放一放，让我看看你基础，你 Bash 熟吗?\n我：天天用，应该还算熟？\n面试官：从最基础的问起吧，讲一下 [] 的语法吧。\n我：咦，为什么给这个叫语法？\n面试官：不然叫啥？\n我：非要说语法好像也没问题，不过 [ 是个命令， ]  是这个命令要求的最后一个参数。\n面试官：？？？？？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 40876,
+          "like_count": 313,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "面试官：既然来面运维岗了，什么 k8s 啥的八股先放一放，让我看看你基础，你 Bash 熟吗?\n我：天天用，应该还算熟？\n面试官：从最基础的问起吧，讲一下 [] 的语法吧。\n我：咦，为什么给这个叫语法？\n面试官：不然叫啥？\n我：非要说语法好像也没问题，不过 [ 是个命令， ] https://t.co/IOOtsNfvmS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Barcelona, Catalonia, Spain",
+              "geo": {
+                "coordinates": [
+                  2.15899,
+                  41.38879
+                ],
+                "type": "Point"
+              },
+              "locality": "Barcelona",
+              "region": "Catalonia",
+              "sub_region": "Província de Barcelona"
+            }
+          ]
+        },
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2099450121377517599",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4894,
+          "following_count": 2778,
+          "like_count": 42925,
+          "listed_count": 19,
+          "media_count": 1623,
+          "tweet_count": 14287
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-16T05:34:01.000Z",
+        "description": "彩笔程序员/日常装嫩/想要变得可爱/过期jk",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "soragoto.io",
+                "end": 23,
+                "expanded_url": "https://soragoto.io/",
+                "start": 0,
+                "url": "https://t.co/gaCiutX5TW"
+              }
+            ]
+          }
+        },
+        "id": "1427141496407420929",
+        "is_identity_verified": false,
+        "location": "1km",
+        "most_recent_tweet_id": "2099441165796098480",
+        "name": "空言",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427141496407420929/1696514814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1427144661861158914/qtfZPSXk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4189,
+          "following_count": 211,
+          "like_count": 308,
+          "listed_count": 9,
+          "media_count": 255,
+          "tweet_count": 3021
+        },
+        "url": "https://t.co/gaCiutX5TW",
+        "username": "__soragoto__",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-16T07:19:03.000Z",
+        "description": "也许是计批\n和高三肉搏ing\n男生请使用盒装安装媒介，女生请食用乐乐鸡块",
+        "id": "1857684678423248896",
+        "is_identity_verified": false,
+        "location": "劣品酒吧城市",
+        "most_recent_tweet_id": "2099449215529472394",
+        "name": "特许哭泣",
+        "pinned_tweet_id": "2087556431117537785",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857684678423248896/1731742110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087864235577798656/bWilP-Cz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 961,
+          "like_count": 42976,
+          "listed_count": 3,
+          "media_count": 202,
+          "tweet_count": 4049
+        },
+        "url": "",
+        "username": "approved_cry",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
